@@ -2,6 +2,7 @@ import os
 import sys
 from pathlib import Path
 
+# Initialize verification script for project setup.
 def check_python_version():
     """Verify Python 3.11+"""
     version = sys.version_info
@@ -11,6 +12,7 @@ def check_python_version():
     print(f"✓ Python version: {version.major}.{version.minor}.{version.micro}")
     return True
 
+# Initialize Python version and dependency checks.
 def check_dependencies():
     """Verify required packages are installed"""
     required = [
@@ -33,6 +35,7 @@ def check_dependencies():
         print("\nInstall with: pip install -r requirements.txt")
     return all_ok
 
+# Initialize rule document checks.
 def check_project_structure():
     """Verify project folders exist"""
     required_dirs = [
@@ -51,6 +54,7 @@ def check_project_structure():
     
     return all_ok
 
+# Initialize essential core file checks.
 def check_core_files():
     """Verify essential files exist"""
     required_files = [
@@ -64,7 +68,7 @@ def check_core_files():
         "src/embeddings.py",
         "src/document_loader/__init__.py",
     ]
-    
+    # Check each required file and report its status.
     all_ok = True
     for file in required_files:
         if os.path.exists(file):
@@ -75,6 +79,7 @@ def check_core_files():
     
     return all_ok
 
+# Initialize rule document checks.
 def check_rule_documents():
     """Verify rule documents exist"""
     rules_dir = Path("rules")
@@ -95,6 +100,7 @@ def check_rule_documents():
         print("  Add .md or .txt files to rules/ directory")
         return False
 
+# Initialize import checks.
 def check_imports():
     """Verify core modules can be imported"""
     sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -117,6 +123,7 @@ def check_imports():
         print(f"❌ Import error: {e}")
         return False
 
+# Initialize main verification routine.
 def main():
     """Run all verification checks"""
     print("=" * 60)
@@ -170,6 +177,7 @@ def main():
     
     return all_passed
 
+# Entry point for the verification script.
 if __name__ == "__main__":
     success = main()
     sys.exit(0 if success else 1)
