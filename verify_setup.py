@@ -62,7 +62,7 @@ def check_core_files():
         "src/rag_pipeline.py",
         "src/vector_store.py",
         "src/embeddings.py",
-        "src/document_loader.py",
+        "src/document_loader/__init__.py",
     ]
     
     all_ok = True
