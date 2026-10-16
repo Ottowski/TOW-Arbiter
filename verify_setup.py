@@ -64,7 +64,7 @@ def check_core_files():
         "QUICKSTART.md",
         "src/__init__.py",
         "src/rag_pipeline.py",
-        "src/vector_store.py",
+        "src/vector_store/__init__.py",
         "src/embeddings.py",
         "src/document_loader/__init__.py",
     ]
