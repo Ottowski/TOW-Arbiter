@@ -5,7 +5,8 @@ import InitializationBanner from './components/InitializationBanner.jsx'
 import MessageInput from './components/MessageInput.jsx'
 
 const API_URL = import.meta.env.VITE_API_URL ?? ''
-
+// App component for managing the overall state and interactions of the chat application.
+// Handles fetching backend status, loading special rules, and managing user interactions.
 function App() {
   const [messages, setMessages] = useState([])
   const [input, setInput] = useState('')
@@ -13,7 +14,7 @@ function App() {
   const [appReady, setAppReady] = useState(false)
   const [specialRules, setSpecialRules] = useState([])
   const inputRef = useRef(null)
-
+ // Effect hook for polling the backend status to determine if the app is ready.
   useEffect(() => {
     let timer
 
@@ -37,7 +38,7 @@ function App() {
     pollStatus()
     return () => clearTimeout(timer)
   }, [])
-
+  // Effect hook for loading the special rules from the backend.
   useEffect(() => {
     async function loadSpecialRules() {
       try {
@@ -54,7 +55,7 @@ function App() {
 
     loadSpecialRules()
   }, [])
-
+  // Function for submitting a user's question to the backend and handling the response.
   async function submitQuestion(question) {
     if (!question || loading) return
 
@@ -78,16 +79,18 @@ function App() {
     }
   }
 
+  // Function for handling the submission of the message input form.
   async function sendMessage(event) {
     event.preventDefault()
     await submitQuestion(input.trim())
   }
 
+  // Function for handling clicks on special rule links in the chat messages.
   function handleSpecialRuleClick(ruleName) {
     setInput(ruleName)
     inputRef.current?.focus()
   }
-
+  // Render the main application UI.
   return (
     <div className="app">
       <header className="header">

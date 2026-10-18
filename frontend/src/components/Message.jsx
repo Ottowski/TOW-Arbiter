@@ -2,6 +2,11 @@ import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import { getNodeText, linkifySpecialRules, SPECIAL_RULE_LINK_PREFIX } from './markdown.js'
 
+// Message component for displaying chat messages.
+// Props:
+// - message: the message object containing role, text, and sources
+// - specialRules: array of special rules for linkifying
+// - onSpecialRuleClick: function to handle clicks on special rule links
 function Message({ message, specialRules, onSpecialRuleClick }) {
   const markdownComponents = {
     a({ href, children }) {

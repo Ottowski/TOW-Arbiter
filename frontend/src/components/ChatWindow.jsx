@@ -1,6 +1,12 @@
 import { useEffect, useRef } from 'react'
 import Message from './Message.jsx'
 
+// ChatWindow component for displaying the chat messages and handling scrolling.
+// Props:
+// - messages: array of message objects to display
+// - loading: boolean indicating if a message is being sent
+// - specialRules: array of special rules for linkifying
+// - onSpecialRuleClick: function to handle clicks on special rule links
 function ChatWindow({ messages, loading, specialRules, onSpecialRuleClick }) {
   const bottomRef = useRef(null)
 
