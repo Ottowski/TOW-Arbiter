@@ -32,9 +32,9 @@ Unit Size: Minimum unit of four models: Prince Ulther, his champion Borri Forkbe
 
 Equipment:
 
-- Prince Ulther: Hand weapon, Dragonblade, brace of pistols, light armour and shield
-- Borri Forkbeard: Hand weapon, great weapon, brace of pistols, light armour and shield
-- Dragon Company troopers: Hand weapon, brace of pistols, light armour and shields
+Prince Ulther: Hand weapon, Dragonblade, brace of pistols, light armour and shield
+Borri Forkbeard: Hand weapon, great weapon, brace of pistols, light armour and shield
+Dragon Company troopers: Hand weapon, brace of pistols, light armour and shields
 
 Magic Items / Abilities: Dragonblade
 

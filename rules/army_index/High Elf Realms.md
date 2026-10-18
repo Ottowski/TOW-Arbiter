@@ -20,9 +20,9 @@ Unless mounted on a Lothern Skycutter, a Sea Guard Garrison Commander has the Ev
 
 Characters in a Sea Guard Garrison Army of Infamy that are able to take an Elven Honour may only choose one of the following:
 
-- Shadow Stalker
-- Pure of Heart
-- Sea Guard
+Shadow Stalker
+Pure of Heart
+Sea Guard
 
 ### Arrows of Isha
 
@@ -54,9 +54,9 @@ Any model in a unit of Lion Guard can accept challenges in the same manner as a 
 
 Characters in a Chracian Warhost Army of Infamy that are able to take an Elven Honour may only choose one of the following:
 
-- Shadow Stalker
-- Chracian Hunter
-- Pure of Heart
+Shadow Stalker
+Chracian Hunter
+Pure of Heart
 
 Note that Chracian Chieftains are considered to have the Chracian Hunter Elven Honour for the purposes of joining units of White Lions of Chrace.
 
@@ -96,9 +96,9 @@ Whilst in base contact with this model, enemy models suffer a -1 modifier to the
 
 When a Flamespyre Phoenix loses its last Wound, roll a D6 before removing the model from play:
 
-- On a roll of 1-2, the Phoenix crumbles into cold ashes and is removed from play.
-- On a roll of 3-5, the Phoenix explodes into flame. Every enemy unit in base contact with it suffers D6 Strength 3 hits, each with an AP of -1 and the Flaming Attacks special rule. Once these hits are resolved, this model is removed from play.
-- On a roll of 6, the Phoenix (and its rider, should it have one) are briefly consumed in a ball of flames, and are immediately reborn, recovering D3 Wounds.
+On a roll of 1-2, the Phoenix crumbles into cold ashes and is removed from play.
+On a roll of 3-5, the Phoenix explodes into flame. Every enemy unit in base contact with it suffers D6 Strength 3 hits, each with an AP of -1 and the Flaming Attacks special rule. Once these hits are resolved, this model is removed from play.
+On a roll of 6, the Phoenix (and its rider, should it have one) are briefly consumed in a ball of flames, and are immediately reborn, recovering D3 Wounds.
 
 ### From the Mists
 
@@ -190,7 +190,7 @@ A Lothern Sea Guard unit joined by Ishaya Vess improves the Armour Piercing char
 
 Units of Sea Guard in a Sea Guard Garrison Army of Infamy gain the Regimental Unit special rule. In addition:
 
-- 0-1 unit of Sea Guard per 1,000 points in a Sea Guard Garrison Army of Infamy may have the Drilled special rule for free.
+0-1 unit of Sea Guard per 1,000 points in a Sea Guard Garrison Army of Infamy may have the Drilled special rule for free.
 
 ### Sons of Caledor
 
@@ -332,16 +332,16 @@ This army list is intended for use alongside the Forming Units and Warhammer Arm
 
 Up to 50% of your army's points value may be spent on:
 
-- 0-1 High Elf Prince or Archmage per 1,000 points
-- 0-1 Dragon Mage or Handmaiden of the Everqueen per 1,000 points
-- High Elf Nobles and Mages
-- 0-1 Storm Weaver per 1,000 points
+0-1 High Elf Prince or Archmage per 1,000 points
+0-1 Dragon Mage or Handmaiden of the Everqueen per 1,000 points
+High Elf Nobles and Mages
+0-1 Storm Weaver per 1,000 points
 
 ##### Core
 
 At least 25% of your army's points value must be spent on:
 
-- Elven Spearmen, Elven Archers, Lothern Sea Guard, Ellyrian Reavers and Silver Helms
+Elven Spearmen, Elven Archers, Lothern Sea Guard, Ellyrian Reavers and Silver Helms
 
 If your General is a Handmaiden of the Everqueen, 0-1 unit of Sisters of Avelorn may be taken as a Core choice.
 
@@ -349,8 +349,8 @@ If your General is a Handmaiden of the Everqueen, 0-1 unit of Sisters of Avelorn
 
 Up to 50% of your army's points value may be spent on:
 
-- White Lions of Chrace, Swordmasters of Hoeth, Phoenix Guard, Shadow Warriors and Tiranoc Chariots
-- 0-1 unit of Dragon Princes of Caledor per 1,000 points
+White Lions of Chrace, Swordmasters of Hoeth, Phoenix Guard, Shadow Warriors and Tiranoc Chariots
+0-1 unit of Dragon Princes of Caledor per 1,000 points
 
 If your General has the Chracian Hunter Elven Honour, 0-1 Lion Chariot of Chrace may be taken as a Special choice per 1,000 points.
 
@@ -360,18 +360,18 @@ If your General has the Sea Guard Elven Honour, 0-1 Lothern Skycutter may be tak
 
 Up to 25% of your army's points value may be spent on:
 
-- Sisters of Avelorn, Lion Chariots of Chrace and Lothern Skycutters
-- 0-1 Flamespyre or Frostheart Phoenix (not counting character mounts) per 1,000 points
-- 0-2 Great Eagles per 1,000 points
-- 0-2 Eagle-Claw Bolt Throwers per 1,000 points
-- 0-1 unit of War Lions (if list includes one or more units of White Lions of Chrace)
-- 0-1 Merwyrm (if list includes one or more units of Lothern Sea Guard)
+Sisters of Avelorn, Lion Chariots of Chrace and Lothern Skycutters
+0-1 Flamespyre or Frostheart Phoenix (not counting character mounts) per 1,000 points
+0-2 Great Eagles per 1,000 points
+0-2 Eagle-Claw Bolt Throwers per 1,000 points
+0-1 unit of War Lions (if list includes one or more units of White Lions of Chrace)
+0-1 Merwyrm (if list includes one or more units of Lothern Sea Guard)
 
 ##### Mercenaries
 
 Up to 20% of your army's points value may be spent on mercenaries, including:
 
-- Badlands Ogre Bulls
+Badlands Ogre Bulls
 
 Note that mercenary units drawn from another army list gain the Mercenaries special rule and become subject to the Misbehaving Mercenaries rules.
 
@@ -379,12 +379,12 @@ Note that mercenary units drawn from another army list gain the Mercenaries spec
 
 Up to 25% of your army's points value may be spent on a single allied contingent drawn from:
 
-- Any High Elf Realms Army of Infamy composition list
-- One of the following Grand Army composition lists:
-- Empire of Man (Uneasy)
-- Grand Cathay (Suspicious)
-- Kingdom of Bretonnia
-- Wood Elf Realms
+Any High Elf Realms Army of Infamy composition list
+One of the following Grand Army composition lists:
+Empire of Man (Uneasy)
+Grand Cathay (Suspicious)
+Kingdom of Bretonnia
+Wood Elf Realms
 
 #### Battle Standard Bearer
 
@@ -402,32 +402,32 @@ If you wish to field an army of the Chracian Warhost in your games of Warhammer:
 
 Up to 50% of your army's points value may be spent on:
 
-- 0-1 High Elf Prince or Archmage per 1,000 points
-- 0-1 Chracian Chieftain or Storm Weaver per 1,000 points
-- High Elf Nobles
+0-1 High Elf Prince or Archmage per 1,000 points
+0-1 Chracian Chieftain or Storm Weaver per 1,000 points
+High Elf Nobles
 
 ##### The Chracian Warhost Core Units
 
 At least 33% of your army's points value must be spent on:
 
-- Elven Spearmen, Elven Archers and Chracian Woodsmen
-- 0-1 unit of White Lions of Chrace per 1,000 points
+Elven Spearmen, Elven Archers and Chracian Woodsmen
+0-1 unit of White Lions of Chrace per 1,000 points
 
 ##### The Chracian Warhost Special Units
 
 Up to 50% of your army's points value may be spent on:
 
-- White Lions of Chrace, Lion Chariots of Chrace
-- 0-1 unit of War Lions per 1,000 points
+White Lions of Chrace, Lion Chariots of Chrace
+0-1 unit of War Lions per 1,000 points
 
 ##### The Chracian Warhost Rare Units
 
 Up to 33% of your army's points value may be spent on:
 
-- 0-1 unit of Lion Guard
-- 0-1 unit of Shadow Warriors or Sisters of Avelorn per 1,000 points
-- 0-2 Great Eagles per 1,000 points
-- 0-1 Eagle-Claw Bolt Thrower per 1,000 points
+0-1 unit of Lion Guard
+0-1 unit of Shadow Warriors or Sisters of Avelorn per 1,000 points
+0-2 Great Eagles per 1,000 points
+0-1 Eagle-Claw Bolt Thrower per 1,000 points
 
 #### The Chracian Warhost Battle Standard Bearer
 
@@ -445,31 +445,31 @@ If you wish to field a Sea Guard Garrison army in your games of Warhammer: the O
 
 Up to 50% of your army's points value may be spent on:
 
-- Sea Guard Garrison Commanders and Storm Weavers
-- 0-1 Dragon Mage, High Elf Noble or High Elf Mage per 1,000 points
+Sea Guard Garrison Commanders and Storm Weavers
+0-1 Dragon Mage, High Elf Noble or High Elf Mage per 1,000 points
 
 ##### Sea Guard Garrison Core Units
 
 At least 33% of your army's points value must be spent on:
 
-- Lothern Sea Guard and Ship's Company
-- 0-1 unit of Shadow Warriors per 1,000 points
+Lothern Sea Guard and Ship's Company
+0-1 unit of Shadow Warriors per 1,000 points
 
 ##### Sea Guard Garrison Special Units
 
 Up to 50% of your army's points value may be spent on:
 
-- Lothern Skycutters
-- 0-2 Great Eagles per 1,000 points
-- 0-3 Eagle-Claw Bolt Throwers per 1,000 points
+Lothern Skycutters
+0-2 Great Eagles per 1,000 points
+0-3 Eagle-Claw Bolt Throwers per 1,000 points
 
 ##### Sea Guard Garrison Rare Units
 
 Up to 33% of your army's points value may be spent on:
 
-- Ellyrian Reavers
-- 0-1 Flamespyre or Frostheart Phoenix per 1,000 points
-- Merwyrms
+Ellyrian Reavers
+0-1 Flamespyre or Frostheart Phoenix per 1,000 points
+Merwyrms
 
 #### Sea Guard Garrison Battle Standard Bearer
 
@@ -523,8 +523,8 @@ Drawn To Battle: All units in the defender's army gain the Impetuous special rul
 
 Once the battle has ended, use Victory Points to determine which player is the winner, as described in the Warhammer: the Old World rulebook. The player who controls the Herdstone at the end of the battle wins a bonus of 150 Victory Points (in addition to any bonus controlling the special feature may normally give). In addition, at the end of the game:
 
-- The defending player wins a bonus 100 Victory Points for each Wizard in their army that is still alive at the end of the game.
-- The attacking player wins a bonus 100 Victory Points for each Wizard in the defender's army that has been slain.
+The defending player wins a bonus 100 Victory Points for each Wizard in their army that is still alive at the end of the game.
+The attacking player wins a bonus 100 Victory Points for each Wizard in the defender's army that has been slain.
 
 ## The Lores of Magic
 
@@ -582,14 +582,14 @@ Amongst the seers and scholars that reside within the Tower of Hoeth, there are 
 
 High Elf Lords only. A character with the Loremaster Elven Honour:
 
-- Cannot be mounted.
-- Is a Level 1 Wizard and knows one randomly generated spell from one of the following Lores of Magic:
-- Battle Magic
-- Elementalism
-- High Magic
-- Illusion
-- May be equipped with a Sword of Hoeth for no additional points. If so, they may not take any additional, non-magical weapons.
-- Gains the Ithilmar Armour, Lileath's Blessing and Lore of Saphery special rules.
+Cannot be mounted.
+Is a Level 1 Wizard and knows one randomly generated spell from one of the following Lores of Magic:
+Battle Magic
+Elementalism
+High Magic
+Illusion
+May be equipped with a Sword of Hoeth for no additional points. If so, they may not take any additional, non-magical weapons.
+Gains the Ithilmar Armour, Lileath's Blessing and Lore of Saphery special rules.
 
 #### Shadow Stalker (Ability)
 
@@ -599,10 +599,10 @@ Like all denizens of Nagarythe, Shadow Stalkers are outcasts. Many choose to tra
 
 A character with the Shadow Stalker Elven Honour:
 
-- Cannot be mounted.
-- May be equipped with a Bow of Avelorn for no additional points. If so, they may not take any additional, non-magical weapons.
-- Cannot have heavy armour or full plate armour.
-- Gains the Ambushers, Evasive, Fire & Flee, Move Through Cover and Scouts special rules.
+Cannot be mounted.
+May be equipped with a Bow of Avelorn for no additional points. If so, they may not take any additional, non-magical weapons.
+Cannot have heavy armour or full plate armour.
+Gains the Ambushers, Evasive, Fire & Flee, Move Through Cover and Scouts special rules.
 
 #### Anointed of Asuryan (Ability)
 
@@ -612,10 +612,10 @@ In matters both martial and spiritual, the Phoenix Guard take their lead from th
 
 A character with the Anointed of Asuryan Elven Honour:
 
-- May be mounted on a Flamespyre Phoenix or a Frostheart Phoenix (but cannot choose any other mount options).
-- May be equipped with a ceremonial halberd for no additional points. If so, they may not take any additional, non-magical weapons.
-- Gains the Blessings of Asuryan, Fear and Witness to Destiny special rules.
-- Replaces the Valour of Ages special rule with the Veteran special rule.
+May be mounted on a Flamespyre Phoenix or a Frostheart Phoenix (but cannot choose any other mount options).
+May be equipped with a ceremonial halberd for no additional points. If so, they may not take any additional, non-magical weapons.
+Gains the Blessings of Asuryan, Fear and Witness to Destiny special rules.
+Replaces the Valour of Ages special rule with the Veteran special rule.
 
 #### Blood of Caledor (Ability)
 
@@ -638,9 +638,9 @@ In Chrace, a warrior's skill at arms and strength of character matters almost as
 
 A character with the Chracian Hunter Elven Honour (but not their mount):
 
-- May only be mounted on a White Lion Chariot (but cannot choose any other mount options).
-- May be equipped with a Chracian great blade for no additional points. If so, they may not take any additional, non-magical weapons.
-- Gains the Lion Cloak, Move Through Cover and Stubborn special rules.
+May only be mounted on a White Lion Chariot (but cannot choose any other mount options).
+May be equipped with a Chracian great blade for no additional points. If so, they may not take any additional, non-magical weapons.
+Gains the Lion Cloak, Move Through Cover and Stubborn special rules.
 
 #### Warden of Saphery (Ability)
 
@@ -650,9 +650,9 @@ When Ulthuan marches to war, the Swordmasters of Hoeth are led by the Wardens of
 
 A character with the Warden of Saphery Elven Honour:
 
-- Cannot be mounted.
-- May be equipped with a sword of Hoeth for no additional points. If so, they may not take any additional, non-magical weapons.
-- Gains the Deflect Shots, Ithilmar Armour and Killing Blow special rules.
+Cannot be mounted.
+May be equipped with a sword of Hoeth for no additional points. If so, they may not take any additional, non-magical weapons.
+Gains the Deflect Shots, Ithilmar Armour and Killing Blow special rules.
 
 #### Pure of Heart (Ability)
 
@@ -670,9 +670,9 @@ Many nobles of Lothern choose to serve within the ranks of the Sea Guard, rising
 
 A character with the Sea Guard Elven Honour:
 
-- May only be mounted on a Lothern Skycutter (but cannot choose any other mount options).
-- May be equipped with a warbow for no additional points. If so, they may not take any additional, non-magical weapons.
-- Gains the Naval Discipline and Rallying Cry special rules.
+May only be mounted on a Lothern Skycutter (but cannot choose any other mount options).
+May be equipped with a warbow for no additional points. If so, they may not take any additional, non-magical weapons.
+Gains the Naval Discipline and Rallying Cry special rules.
 
 ### High Elf Realms Magic Items
 

@@ -78,13 +78,13 @@ If a character is mounted upon a ridden monster (be it a monstrous creature or a
 
 Not unlike any other mounted model, a character that is mounted upon a Ridden Monster will have a split profile. In game terms, this works as follows:
 
-- Unless noted otherwise, any special rules that apply to one element (character or mount) apply to the other as well.
-- This model uses the Movement characteristic of the mount.
-- The character and mount each use their own Weapon Skill, Ballistic Skill, Strength, Initiative and Attacks characteristics, and their own weapons.
-- In combat, all enemy rolls To Hit are made against the character's Weapon Skill.
-- Impact Hits and/or Stomp Attacks use the mount's Strength.
-- When this model makes an Armour Save roll, it may use either the mount or the character's armour value, whichever is better.
-- If the character is reduced to zero Wounds, the model as a whole is removed from play.
+Unless noted otherwise, any special rules that apply to one element (character or mount) apply to the other as well.
+This model uses the Movement characteristic of the mount.
+The character and mount each use their own Weapon Skill, Ballistic Skill, Strength, Initiative and Attacks characteristics, and their own weapons.
+In combat, all enemy rolls To Hit are made against the character's Weapon Skill.
+Impact Hits and/or Stomp Attacks use the mount's Strength.
+When this model makes an Armour Save roll, it may use either the mount or the character's armour value, whichever is better.
+If the character is reduced to zero Wounds, the model as a whole is removed from play.
 
 ### Improved Characteristics (Ridden Monsters)
 
@@ -98,14 +98,14 @@ If a character is mounted upon a chariot (be it light or heavy), the whole model
 
 Not unlike any other chariot, a character that is mounted upon a chariot will have a split profile. In game terms, this works as follows:
 
-- Unless noted otherwise, any special rules that apply to one element (chariot, character, crew or beasts) apply to the others as well.
-- This model uses the Movement characteristic of the beasts that draw the chariot or, if there are no beasts, of the chariot itself.
-- The character, crew and beasts each use their own Weapon Skill, Ballistic Skill, Strength, Initiative and Attacks characteristics, and their own weapons.
-- In combat, all enemy rolls To Hit are made against the character's Weapon Skill.
-- Impact Hits and/or Stomp Attacks use the chariot's Strength.
-- Enemy rolls To Wound are made against either the chariot's or the character's Toughness, whichever is the highest.
-- When this model makes an Armour Save roll, it may use either the chariot's or the character's armour value, whichever is better.
-- If the chariot is reduced to zero Wounds, the model as a whole is removed from play.
+Unless noted otherwise, any special rules that apply to one element (chariot, character, crew or beasts) apply to the others as well.
+This model uses the Movement characteristic of the beasts that draw the chariot or, if there are no beasts, of the chariot itself.
+The character, crew and beasts each use their own Weapon Skill, Ballistic Skill, Strength, Initiative and Attacks characteristics, and their own weapons.
+In combat, all enemy rolls To Hit are made against the character's Weapon Skill.
+Impact Hits and/or Stomp Attacks use the chariot's Strength.
+Enemy rolls To Wound are made against either the chariot's or the character's Toughness, whichever is the highest.
+When this model makes an Armour Save roll, it may use either the chariot's or the character's armour value, whichever is better.
+If the chariot is reduced to zero Wounds, the model as a whole is removed from play.
 
 ### Improved Characteristics (Chariot Mount)
 
@@ -115,19 +115,19 @@ When a character mounts a chariot, they join its crew, bolstering their strength
 
 Character models rarely have any formation special rules. Instead:
 
-- A character that has joined a unit adopts the formation of that unit.
-- A Lone character is always considered to be in a Skirmish formation.
-- A character mounted on a ridden monster or chariot adopts the formation of their mount.
+A character that has joined a unit adopts the formation of that unit.
+A Lone character is always considered to be in a Skirmish formation.
+A character mounted on a ridden monster or chariot adopts the formation of their mount.
 
 ## Lone Characters
 
 Whilst many characters ride to battle aboard a chariot or atop a monster, many more bold leaders and dangerous fighters prefer to move around the battlefield as individuals, fighting a solitary battle against the foe:
 
-- Any character whose troop type is infantry or cavalry and that has not joined a unit is considered to be a 'Lone character'.
-- During the course of a game, a Lone character may join a friendly unit, bringing their might and leadership to the unit to strengthen its ranks. Upon joining a unit, a character ceases to be a Lone character.
-- A Lone character benefits from the following rules:
-  - Evade
-  - Targeting Lone Characters
+Any character whose troop type is infantry or cavalry and that has not joined a unit is considered to be a 'Lone character'.
+During the course of a game, a Lone character may join a friendly unit, bringing their might and leadership to the unit to strengthen its ranks. Upon joining a unit, a character ceases to be a Lone character.
+A Lone character benefits from the following rules:
+  Evade
+  Targeting Lone Characters
 
 ## Evade
 
@@ -148,8 +148,8 @@ Fig 206.1 - Unit A wishes to shoot an enemy character. Characters 1 and 2 are bo
 
 Unless somehow prevented (by a special rule or by their troop type, for example), most characters can join a friendly unit. A character can join a friendly unit:
 
-- During deployment, by being placed with the unit.
-- During the Remaining Moves sub-phase, by moving into base contact with a unit that is not engaged in combat or fleeing.
+During deployment, by being placed with the unit.
+During the Remaining Moves sub-phase, by moving into base contact with a unit that is not engaged in combat or fleeing.
 
 A unit cannot move after being joined by a character during the Remaining Moves sub-phase. However, the unit only counts as having moved if it did so before the character moved to join it.
 
@@ -221,9 +221,9 @@ Note that this only applies to missile weapons, not to Magic Missile or Magical 
 
 A character that has joined a unit of models of the same troop type as them (i.e., infantry or cavalry), cannot be targeted by enemy shooting unless:
 
-- They are targeted by an attack that allows a specific model within a unit to be targeted.
-- They find themselves lying underneath a template.
-- There are fewer than five rank and file models in the unit.
+They are targeted by an attack that allows a specific model within a unit to be targeted.
+They find themselves lying underneath a template.
+There are fewer than five rank and file models in the unit.
 
 If there are fewer than five rank and file models of the same troop type as the character in the unit, the controlling player must first allocate hits to the unit until one hit has been allocated to each model it contains. Any remaining hits are divided as equally as possible between the character(s) and the unit.
 
@@ -235,11 +235,11 @@ If a character is hit by a shooting attack, and if there are five or more rank a
 
 Characters can always be found where the fighting is thickest. In combat, a character that has joined a unit:
 
-- May, if they are not within the fighting rank when their combat is chosen during Step 1.1 of the Choose Combat & Fight sub-phase, and starting with characters belonging to the inactive player, move through the ranks to join the fighting rank.
-- May, if they are within the fighting rank, make a number of attacks determined by their Attacks characteristic and their proximity to the enemy.
-- Can direct their attacks against, or divide them between, any enemy models they are in base contact with.
-- Can only be hit by enemy attacks (including Impact Hits or Stomp Attacks) that are directed against them, made by enemy models that are in base contact with them.
-- Can only have Impact Hits or Stomp Attacks directed against them if there are fewer than five rank and file models in the unit.
+May, if they are not within the fighting rank when their combat is chosen during Step 1.1 of the Choose Combat & Fight sub-phase, and starting with characters belonging to the inactive player, move through the ranks to join the fighting rank.
+May, if they are within the fighting rank, make a number of attacks determined by their Attacks characteristic and their proximity to the enemy.
+Can direct their attacks against, or divide them between, any enemy models they are in base contact with.
+Can only be hit by enemy attacks (including Impact Hits or Stomp Attacks) that are directed against them, made by enemy models that are in base contact with them.
+Can only have Impact Hits or Stomp Attacks directed against them if there are fewer than five rank and file models in the unit.
 
 Note that characters adjacent to a fighting rank are considered to be within it.
 
@@ -247,9 +247,9 @@ Note that characters adjacent to a fighting rank are considered to be within it.
 
 Unless a unit contains only a single rank, its fighting rank cannot contain more characters than it does rank and file models. If it does, one or more must 'retire' from combat. Upon retiring, a character:
 
-- Moves through the ranks to take up a position away from the fighting rank.
-- Cannot make any attacks or have attacks directed against them.
-- Confers no benefits to the unit in the form of Leadership, special rules, or anything else.
+Moves through the ranks to take up a position away from the fighting rank.
+Cannot make any attacks or have attacks directed against them.
+Confers no benefits to the unit in the form of Leadership, special rules, or anything else.
 
 ## Excess Wounds
 
@@ -277,9 +277,9 @@ A warrior that refuses a challenge will invariably attempt to hide from the foe.
 
 If the opposing player refuses to accept a challenge, the player that issued the challenge may nominate one of the characters or champions that could have accepted it. The nominated model must immediately 'retire' from combat. Upon retiring, the nominated model:
 
-- Moves through the ranks to take up a position away from the fighting rank.
-- Cannot make any attacks or have attacks directed against them.
-- Confers no benefits to the unit in the form of Leadership, special rules, or anything else.
+Moves through the ranks to take up a position away from the fighting rank.
+Cannot make any attacks or have attacks directed against them.
+Confers no benefits to the unit in the form of Leadership, special rules, or anything else.
 
 Once a character or champion has been retired from combat in this way, they cannot return to the fighting rank whilst their unit is still engaged with the enemy model that issued the challenge - they are far too occupied with their cowardice!
 
@@ -287,8 +287,8 @@ Once a character or champion has been retired from combat in this way, they cann
 
 Sometimes, a challenge is simply impossible to refuse. A character or champion cannot refuse a challenge if:
 
-- They are not part of a unit, or they are the last remaining model in a unit.
-- They are part of a unit which is engaged in all four of its arcs (i.e., a unit that is completely surrounded).
+They are not part of a unit, or they are the last remaining model in a unit.
+They are part of a unit which is engaged in all four of its arcs (i.e., a unit that is completely surrounded).
 
 In such cases, the character or champion has nowhere to run and nowhere to hide, and must meet their enemy's challenge.
 

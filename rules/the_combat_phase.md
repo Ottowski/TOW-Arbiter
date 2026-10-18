@@ -32,8 +32,8 @@ If a unit completely destroys its enemy before the Break Test sub-phase, it may 
 
 A unit may find itself unable to follow up or pursue:
 
-- Still Engaged
-- Unable to Move
+Still Engaged
+Unable to Move
 
 #### Still Engaged
 
@@ -47,8 +47,8 @@ A unit may be unable to complete its chosen move due to the presence of other fr
 
 Once the unit being pursued has completed its move, the pursuing unit is moved. If the pursuing unit makes contact with the pursued unit, it has caught its enemy and halts:
 
-- If the enemy unit is fleeing, it is hacked to pieces and immediately removed from play, exactly as if it had been run down by a charging unit. The pursuing unit may then attempt to reform.
-- If the enemy unit Fell Back in Good Order, the units become engaged in combat once more, becoming locked in place until the next player's turn when the combat will continue. During the next turn, the pursuing unit counts as having charged.
+If the enemy unit is fleeing, it is hacked to pieces and immediately removed from play, exactly as if it had been run down by a charging unit. The pursuing unit may then attempt to reform.
+If the enemy unit Fell Back in Good Order, the units become engaged in combat once more, becoming locked in place until the next player's turn when the combat will continue. During the next turn, the pursuing unit counts as having charged.
 
 ### Pursuit into an Obstacle
 
@@ -109,8 +109,8 @@ Models whose weapons allow them to make a 'supporting attack' can do so if they 
 
 When a model fights in combat, it makes a number of 'attacks'. How many is determined by its Attacks characteristic and its proximity to the enemy:
 
-- If a model is in base contact with an enemy model, it makes a number of attacks equal to its Attacks characteristic.
-- If a model is able to fight but is not in base contact with an enemy model, it can make only one attack, regardless of its Attacks characteristic.
+If a model is in base contact with an enemy model, it makes a number of attacks equal to its Attacks characteristic.
+If a model is able to fight but is not in base contact with an enemy model, it can make only one attack, regardless of its Attacks characteristic.
 
 #### Who Strikes First?
 
@@ -120,8 +120,8 @@ A model's Initiative characteristic determines when it attacks. Work your way th
 
 Charging into the enemy gives a considerable advantage, which is increased when charging into an enemy's vulnerable flank or rear. To represent this, models gain a modifier to their Initiative characteristic during the Combat phase of a turn in which they charged (to a maximum of 10):
 
-- **Charging an enemy in their front arc:** +1 Initiative per full inch moved (prior to making contact), to a maximum of +3.
-- **Charging an enemy in their flank or rear arc:** +1 Initiative per full inch moved (prior to making contact), to a maximum of +4.
+**Charging an enemy in their front arc:** +1 Initiative per full inch moved (prior to making contact), to a maximum of +3.
+**Charging an enemy in their flank or rear arc:** +1 Initiative per full inch moved (prior to making contact), to a maximum of +4.
 
 #### Disordered Charges
 
@@ -147,8 +147,8 @@ A model cannot fight during a phase in which it stepped forward into the fightin
 
 A unit may find itself fighting multiple enemies, sometimes even being engaged by enemy units in different arcs. In such cases the models within that unit may have to divide their attacks:
 
-- Dividing Attacks
-- Fighting On Multiple Fronts
+Dividing Attacks
+Fighting On Multiple Fronts
 
 #### Dividing Attacks
 

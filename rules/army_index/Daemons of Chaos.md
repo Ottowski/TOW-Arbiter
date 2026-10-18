@@ -52,12 +52,12 @@ Note that this is a modifier to the result of a roll – it does not negate a ro
 
 Models with this special rule are 'Daemonic'. All Daemonic models have a 5+ Ward save against any wounds suffered that were caused by a non-magical enemy attack. In addition, all Daemonic models have the following universal special rules:
 
-- Daemonic Instability
-- Fear
-- Immune to Psychology
-- Magical Attacks
-- Unbreakable
-- Warp-spawned
+Daemonic Instability
+Fear
+Immune to Psychology
+Magical Attacks
+Unbreakable
+Warp-spawned
 
 A character with this special rule cannot join a unit without this special rule, and vice versa.
 
@@ -67,10 +67,10 @@ A character with this special rule cannot join a unit without this special rule,
 
 Many models in this army list have the Daemons of Khorne, Daemons of Nurgle, Daemons of Slaanesh or Daemons of Tzeentch special rule listed among their special rules. These special rules represent the Daemonic Alignment of that model, indicating to which of the Ruinous Powers the Daemon is bound:
 
-- A model cannot have more than one Daemonic Alignment.
-- All models within a unit must have the same Daemonic Alignment.
-- A character with a Daemonic Alignment can only join a unit with the same Daemonic Alignment, or with no Daemonic Alignment.
-- A character with no Daemonic Alignment can join any unit as normal.
+A model cannot have more than one Daemonic Alignment.
+All models within a unit must have the same Daemonic Alignment.
+A character with a Daemonic Alignment can only join a unit with the same Daemonic Alignment, or with no Daemonic Alignment.
+A character with no Daemonic Alignment can join any unit as normal.
 
 ### Daemonic Charge
 
@@ -84,9 +84,9 @@ Impact Hits caused by this model have an Armour Piercing characteristic of -2.
 
 If a unit with this special rule loses a round of combat, it must make a Leadership test (before it Gives Ground) with a +1 modifier to the result for every combat result point by which it lost:
 
-- If this test is passed, all is well.
-- If this test is failed, the unit loses a number of Wounds equal to the amount by which it failed the test. If the unit contains any characters, allocate wounds to the unit until each model has been allocated one wound. Any remaining wounds are divided as equally as possible between the character(s) and the unit.
-- If this test is failed on a roll of a natural double 6, the unit is dragged back into the æther. The unit is immediately removed from play.
+If this test is passed, all is well.
+If this test is failed, the unit loses a number of Wounds equal to the amount by which it failed the test. If the unit contains any characters, allocate wounds to the unit until each model has been allocated one wound. Any remaining wounds are divided as equally as possible between the character(s) and the unit.
+If this test is failed on a roll of a natural double 6, the unit is dragged back into the æther. The unit is immediately removed from play.
 
 ### Daemonic Locus
 
@@ -342,9 +342,9 @@ This army list is intended for use alongside the Forming Units and Warhammer Arm
 
 Up to 50% of your army's points value may be spent on:
 
-- 0-1 Greater Daemon (of Khorne, Nurgle, Slaanesh or Tzeentch)
-- 0-1 Daemonic Herald of Khorne, Nurgle, Slaanesh or Tzeentch per unit with the same Daemonic Alignment
-- 0-1 Daemon Prince per 1,000 points
+0-1 Greater Daemon (of Khorne, Nurgle, Slaanesh or Tzeentch)
+0-1 Daemonic Herald of Khorne, Nurgle, Slaanesh or Tzeentch per unit with the same Daemonic Alignment
+0-1 Daemon Prince per 1,000 points
 
 ##### Core
 
@@ -352,31 +352,31 @@ At least 25% of your army's points value must be spent on:
 
 If your General is a:
 
-- Daemon of Khorne, Bloodletters and Flesh Hounds may be taken as Core choices
-- Daemon of Nurgle, Plaguebearers and Nurglings may be taken as Core choices
-- Daemon of Slaanesh, Daemonettes and Seekers may be taken as Core choices
-- Daemon of Tzeentch, Pink Horrors, Blue Horrors and Brimstone Horrors may be taken as Core choices
-- Chaos Furies
+Daemon of Khorne, Bloodletters and Flesh Hounds may be taken as Core choices
+Daemon of Nurgle, Plaguebearers and Nurglings may be taken as Core choices
+Daemon of Slaanesh, Daemonettes and Seekers may be taken as Core choices
+Daemon of Tzeentch, Pink Horrors, Blue Horrors and Brimstone Horrors may be taken as Core choices
+Chaos Furies
 
 ##### Special
 
 Up to 50% of your army's points value may be spent on:
 
-- Bloodletters, Flesh Hounds, Plaguebearers, Nurglings, Daemonettes, Seekers, Pink Horrors, Blue Horrors and Brimstone Horrors
+Bloodletters, Flesh Hounds, Plaguebearers, Nurglings, Daemonettes, Seekers, Pink Horrors, Blue Horrors and Brimstone Horrors
 
 If your General is a:
 
-- Daemon of Khorne, Bloodcrushers may be taken as Special choices
-- Daemon of Nurgle, Beasts of Nurgle and Plague Drones may be taken as Special choices
-- Daemon of Slaanesh, Fiends, Hellflayers and Seeker Chariots may be taken as Special choices
-- Daemon of Tzeentch, Flamers and Screamers may be taken as Special choices
+Daemon of Khorne, Bloodcrushers may be taken as Special choices
+Daemon of Nurgle, Beasts of Nurgle and Plague Drones may be taken as Special choices
+Daemon of Slaanesh, Fiends, Hellflayers and Seeker Chariots may be taken as Special choices
+Daemon of Tzeentch, Flamers and Screamers may be taken as Special choices
 
 ##### Rare
 
 Up to 25% of your army's points value may be spent on:
 
-- Bloodcrushers, Beasts of Nurgle, Plague Drones, Fiends, Hellflayers, Seeker Chariots, Flamers, Screamers, Burning Chariots and Soul Grinders
-- 0-1 Skull Cannon of Khorne per 1,000 points
+Bloodcrushers, Beasts of Nurgle, Plague Drones, Fiends, Hellflayers, Seeker Chariots, Flamers, Screamers, Burning Chariots and Soul Grinders
+0-1 Skull Cannon of Khorne per 1,000 points
 
 #### Battle Standard Bearer
 
@@ -438,9 +438,9 @@ Daemons of Tzeentch only. The target enemy unit suffers D3+3 Strength 3 hits, ea
 
 Daemons of Tzeentch only. If this spell is cast with a casting result of 8 or more, the target enemy unit suffers a -D3 modifier to one of the following characteristics (to a minimum of 1, chosen by the casting player). If this spell is cast with a casting result of 12 or more, the target enemy unit suffers a -D3 modifier to two of the following characteristics (to a minimum of 1, chosen by the casting player). This spell lasts until your next Start of Turn sub-phase:
 
-- Weapon Skill
-- Strength
-- Toughness
+Weapon Skill
+Strength
+Toughness
 
 ## Magic Items (and Abilities)
 
@@ -1212,8 +1212,8 @@ Unit Size: 3+
 
 Equipment:
 
-- Bloodletters: Hellblades and calloused hides (counts as light armour)
-- Juggernauts of Khorne: Brass bound hooves and brazen hide (counts as barding)
+Bloodletters: Hellblades and calloused hides (counts as light armour)
+Juggernauts of Khorne: Brass bound hooves and brazen hide (counts as barding)
 
 Special Rules: Armoured Hide (1), Close Order, Daemonic, Daemons of Khorne, Impact Hits (2), Impetuous, Magic Resistance (-1), Swiftstride
 
@@ -1262,8 +1262,8 @@ Unit Size: 3+
 
 Equipment:
 
-- Plaguebearers: Plagueswords and death's heads
-- Rot Flies: Filth-encrusted claws (counts as hand weapons)
+Plaguebearers: Plagueswords and death's heads
+Rot Flies: Filth-encrusted claws (counts as hand weapons)
 
 Special Rules: Armour Bane (2, Rot Fly only), Daemonic, Daemons of Nurgle, Fly (9), Poisoned Attacks, Regeneration (6+), Skirmishers, Swiftstride
 
@@ -1298,8 +1298,8 @@ Unit Size: 5+
 
 Equipment:
 
-- Seekers: Piercing claws
-- Steeds of Slaanesh: Claws and fangs (counts as a hand weapon)
+Seekers: Piercing claws
+Steeds of Slaanesh: Claws and fangs (counts as a hand weapon)
 
 Special Rules: Armour Bane (1, Steed of Slaanesh only), Counter Charge, Daemonic, Daemons of Slaanesh, Fast Cavalry, Open Order, Poisoned Attacks (Steed of Slaanesh only), Skirmishers, Swiftstride
 
@@ -1322,8 +1322,8 @@ Armour Value: 4+
 
 Equipment:
 
-- Blood Throne: Brazen wheels and scything blades (counts as a hand weapon)
-- Bloodletter Crew: Hellblades
+Blood Throne: Brazen wheels and scything blades (counts as a hand weapon)
+Bloodletter Crew: Hellblades
 
 Special Rules: Close Order, Daemonic, Daemons of Khorne, First Charge, Gorefeast, Impact Hits (D6+1), Impetuous, Totem of Endless Bloodletting
 
@@ -1346,9 +1346,9 @@ Armour Value: 4+
 
 Equipment:
 
-- Exalted Flamer: Hand weapon and warpflame
-- Blue Horror Crew: Hand weapons and flames of Tzeentch
-- Screamer: Lamprey's bite
+Exalted Flamer: Hand weapon and warpflame
+Blue Horror Crew: Hand weapons and flames of Tzeentch
+Screamer: Lamprey's bite
 
 Magic: An Exalted Flamer is a Level 1 Wizard who uses spells from Daemonology, Dark Magic, Elementalism, or Illusion.
 
@@ -1371,7 +1371,7 @@ Armour Value: 4+
 
 Equipment:
 
-- Screamer: Lamprey's bite
+Screamer: Lamprey's bite
 
 Special Rules: Close Order, Daemonic, Daemons of Tzeentch, Fly (9), Impact Hits (D6+1), Slashing Attack (Screamers only)
 
@@ -1393,8 +1393,8 @@ Armour Value: 4+
 
 Equipment:
 
-- Daemonette Crew: Piercing claws
-- Steeds of Slaanesh: Claws and fangs (counts as hand weapons)
+Daemonette Crew: Piercing claws
+Steeds of Slaanesh: Claws and fangs (counts as hand weapons)
 
 Special Rules: Armour Bane (1, Steed of Slaanesh only), Close Order, Daemonic, Daemons of Slaanesh, First Charge, Impact Hits (D6+1), Poisoned Attacks (Steed of Slaanesh only)
 
@@ -1415,9 +1415,9 @@ Armour Value: 5+
 
 Equipment:
 
-- Exalted Alluress: Piercing claws
-- Daemonette Crew: Piercing claws
-- Steeds of Slaanesh: Claws and fangs (counts as hand weapons)
+Exalted Alluress: Piercing claws
+Daemonette Crew: Piercing claws
+Steeds of Slaanesh: Claws and fangs (counts as hand weapons)
 
 Special Rules: Armour Bane (1, Steed of Slaanesh only), Close Order, Counter Charge, Daemonic, Daemons of Slaanesh, First Charge, Impact Hits (2D6+1), Poisoned Attacks (Steed of Slaanesh only), Swiftstride
 
@@ -1439,8 +1439,8 @@ Armour Value: 5+
 
 Equipment:
 
-- Daemonette Crew: Piercing claws
-- Steeds of Slaanesh: Claws and fangs (counts as hand weapons)
+Daemonette Crew: Piercing claws
+Steeds of Slaanesh: Claws and fangs (counts as hand weapons)
 
 Special Rules: Armour Bane (1, Steed of Slaanesh only), Counter Charge, Daemonic, Daemons of Slaanesh, First Charge, Impact Hits (D3+1), Open Order, Poisoned Attacks (Steed of Slaanesh only), Swiftstride
 
@@ -1459,8 +1459,8 @@ Armour Value: 4+
 
 Equipment:
 
-- Skull Cannon: Brazen wheels and scything blades (counts as a hand weapon) and cannon of Khorne
-- Bloodletter Crew: Hellblades
+Skull Cannon: Brazen wheels and scything blades (counts as a hand weapon) and cannon of Khorne
+Bloodletter Crew: Hellblades
 
 Special Rules: Brazen Wheels, Close Order, Daemonic, Daemons of Khorne, First Charge, Impact Hits (D3+1), Impetuous, Stomp Attacks (D3)
 

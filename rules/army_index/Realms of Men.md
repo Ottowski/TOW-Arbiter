@@ -22,10 +22,10 @@ A model with this special rule whose troop type is Cavalry does not have to make
 
 Characters within a Renegade Crowns Army of Infamy can purchase an Infamous Origin. Based on these, some units in your army may gain additional benefits, as detailed below:
 
-- The Mercenary Hosts
-- The Outcast Knights
-- The Outlaw & Renegade
-- The Wandering Duelists
+The Mercenary Hosts
+The Outcast Knights
+The Outlaw & Renegade
+The Wandering Duelists
 
 ### The Outcast Knights
 
@@ -74,32 +74,32 @@ If you wish to field a Renegade Crowns army in your games of Warhammer: the Old 
 
 Up to 50% of your army's points value may be spent on:
 
-- 0-1 Renegade Prince per 1,000 points
-- Renegade Captains and Outcast Wizards
+0-1 Renegade Prince per 1,000 points
+Renegade Captains and Outcast Wizards
 
 ##### Core
 
 At least 25% of your army's points value must be spent on:
 
-- 0-1 unit of Veteran Sellswords per 1,000
-- Sellsword Infantry, Freeblade Knights and Hireling Outriders
-- Free Company Militia and Empire Archers
+0-1 unit of Veteran Sellswords per 1,000
+Sellsword Infantry, Freeblade Knights and Hireling Outriders
+Free Company Militia and Empire Archers
 
 ##### Special
 
 Up to 33% of your army's points value may be spent on:
 
-- Veteran Freeblades
-- 0-2 Border Princes Mortars per 1,000 points
+Veteran Freeblades
+0-2 Border Princes Mortars per 1,000 points
 
 ##### Rare
 
 Up to 25% of your army's points value may be spent on:
 
-- Border Princes Brigands
-- 0-1 war machine chosen from the following list per 1,000 points:
-  - Border Princes Organ Gun
-  - Border Princes Bombard
+Border Princes Brigands
+0-1 war machine chosen from the following list per 1,000 points:
+  Border Princes Organ Gun
+  Border Princes Bombard
 
 ##### Mercenaries
 
@@ -107,11 +107,11 @@ Up to 33% of your army's points value may be spent on mercenaries, including:
 
 Any Dogs of War from any Arcane Journal (i.e., any unit that has the 'Dogs of War' rule, allowing it to be taken as Mercenaries in one or more Grand Army composition lists):
 
-- Badlands Ogre Bulls
-- Bonegrinder Giant
-- Doomseeker
-- Imperial Dwarf Mercenaries
-- Imperial Ogres
+Badlands Ogre Bulls
+Bonegrinder Giant
+Doomseeker
+Imperial Dwarf Mercenaries
+Imperial Ogres
 
 Note that mercenary units drawn from another army list gain the Mercenaries special rule and become subject to the Misbehaving Mercenaries rules.
 
@@ -144,8 +144,8 @@ To represent this, any Renegade Lords or Outcast Wizards within an army made usi
 
 A model with the Might of Miragliano Infamous Origin:
 
-- Has a +1 modifier to their Leadership characteristic.
-- Gains the Stubborn and Tilean Stoicism special rules.
+Has a +1 modifier to their Leadership characteristic.
+Gains the Stubborn and Tilean Stoicism special rules.
 
 #### The Renegade Knight  (Ability)
 
@@ -155,9 +155,9 @@ A model with the Might of Miragliano Infamous Origin:
 
 A model with the Renegade Knight Infamous Origin:
 
-- Has a +1 modifier to their Weapon Skill and Strength characteristics.
-- May purchase magic items from the Kingdom of Bretonnia magic item lists in Forces of Fantasy and Arcane Journal - Kingdom of Bretonnia.
-- Gains the Noble Disdain and Veteran special rules.
+Has a +1 modifier to their Weapon Skill and Strength characteristics.
+May purchase magic items from the Kingdom of Bretonnia magic item lists in Forces of Fantasy and Arcane Journal - Kingdom of Bretonnia.
+Gains the Noble Disdain and Veteran special rules.
 
 #### The Noble Outlaw  (Ability)
 
@@ -167,18 +167,18 @@ A model with the Renegade Knight Infamous Origin:
 
 A model with the Noble Outlaw Infamous Origin:
 
-- Has a +1 modifier to their Ballistic Skill and Leadership characteristics.
-- Gains the "Hold the Line" special rule.
-- May purchase magic items from the Empire of Man magic item lists in Forces of Fantasy and Arcane Journal - Empire of Man.
-- May take one of the following:
-  - Handgun (+6 points)
-  - Repeater handgun (+8 points)
-  - Repeater pistol (+8 points)
-  - Shortbow (+2 points)
-  - Longbow (+4 points)
-- May take one of the following special rules:
-  - Ambushers (+10 points)
-  - Scouts (+10 points)
+Has a +1 modifier to their Ballistic Skill and Leadership characteristics.
+Gains the "Hold the Line" special rule.
+May purchase magic items from the Empire of Man magic item lists in Forces of Fantasy and Arcane Journal - Empire of Man.
+May take one of the following:
+  Handgun (+6 points)
+  Repeater handgun (+8 points)
+  Repeater pistol (+8 points)
+  Shortbow (+2 points)
+  Longbow (+4 points)
+May take one of the following special rules:
+  Ambushers (+10 points)
+  Scouts (+10 points)
 
 #### The Wandering Diestro  (Ability)
 
@@ -188,10 +188,10 @@ A model with the Noble Outlaw Infamous Origin:
 
 A model with the Wandering Diestro Infamous Origin:
 
-- Has a +2 modifier to their Weapon Skill characteristic.
-- Gains the Feint & Dodge special rule.
-- May not take any weapons with the Strike Last special rule.
-- May take an additional hand weapon (+3 points).
+Has a +2 modifier to their Weapon Skill characteristic.
+Gains the Feint & Dodge special rule.
+May not take any weapons with the Strike Last special rule.
+May take an additional hand weapon (+3 points).
 
 ## Character Units
 

@@ -80,8 +80,8 @@ Prior to each subsequent phase, the participants must update their muster list, 
 
 At the end of the campaign, the Overseer should gather the participants together and give out awards. How many awards are given and the achievements they recognise should be determined by the Overseer, but the following are highly recommended:
 
-- Champion of Champions: Awarded to the participant with the most Campaign Points.
-- Best Army: Awarded to the participant with the best painted or most thematic army, as voted for by the participants.
+Champion of Champions: Awarded to the participant with the most Campaign Points.
+Best Army: Awarded to the participant with the best painted or most thematic army, as voted for by the participants.
 
 ### To Battle
 
@@ -91,10 +91,10 @@ During each phase of the campaign each participant should play at least one game
 
 Over the course of the campaign participants earn 'Campaign Points' (CP) for playing games. At the end of each game, both players calculate the total number of Victory Points they have scored. A player scores:
 
-- 3 CP for a crushing victory.
-- 2 CP for a victory.
-- 1 CP for a draw.
-- 0 CP for a loss.
+3 CP for a crushing victory.
+2 CP for a victory.
+1 CP for a draw.
+0 CP for a loss.
 
 After each game, the players report their result to the Overseer, who keeps a record of games played per phase and how many CP each participant has won throughout the campaign. At the end of the campaign, prizes can be awarded based on accrued CP.
 
@@ -106,8 +106,8 @@ The Colours of Victory: Whilst victory in battle is the surest way to earn Campa
 
 Those that survive the fury of battle quickly become experienced warriors. To represent this, units gain Experience Points (XP) during the course of a Warhammer: the Old World Path to Glory campaign. Any unit whose troop type is infantry or cavalry (but not swarms or war beasts) that is not fleeing at the end of the game earns:
 
-- 1XP if it survived the game without being reduced to less than 50% of its starting Unit Strength.
-- 1XP per trophy of war it captured or enemy unit it destroyed during the game.
+1XP if it survived the game without being reduced to less than 50% of its starting Unit Strength.
+1XP per trophy of war it captured or enemy unit it destroyed during the game.
 
 A unit may spend its XP after any game by rolling on the table below and adding its current XP to the result. Once a unit has rolled on the table, it is reduced to OXP:
 
@@ -145,8 +145,8 @@ Units can increase in size during the course of a Warhammer: the Old World Path 
 
 Whilst regiments can gain experience and become seasoned veterans, so too can the mighty warriors and cunning mages that command them. As with units, this is represented by Experience Points (XP) which characters gain during the course of a Warhammer: the Old World Path to Glory campaign. Any character that was not removed from play as a casualty and is not fleeing at the end of the game earns:
 
-- 1XP for surviving the game.
-- 1XP per enemy character slain, per trophy of war captured or enemy unit destroyed during the game (by the character or a unit they had joined).
+1XP for surviving the game.
+1XP per enemy character slain, per trophy of war captured or enemy unit destroyed during the game (by the character or a unit they had joined).
 
 In addition, an army's General earns 1XP if their army won the game.
 

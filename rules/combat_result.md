@@ -12,13 +12,13 @@ Units wide enough gain +1 combat result per extra rank behind the first, up to t
 
 ### Standards
 
-- Standard: If the unit includes a standard bearer, it gains +1 combat result.
-- Battle Standard: If the unit carries a Battle Standard, it gains an additional +1 (cumulative with a normal standard).
+Standard: If the unit includes a standard bearer, it gains +1 combat result.
+Battle Standard: If the unit carries a Battle Standard, it gains an additional +1 (cumulative with a normal standard).
 
 ### Flank & Rear Attacks
 
-- Flank Attack: Engaged with the enemy's flank arc grants +1 combat result.
-- Rear Attack: Engaged with the enemy's rear arc grants +2 combat result.
+Flank Attack: Engaged with the enemy's flank arc grants +1 combat result.
+Rear Attack: Engaged with the enemy's rear arc grants +2 combat result.
 These bonuses are cumulative with other modifiers.
 
 ### High Ground

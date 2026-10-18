@@ -14,10 +14,10 @@ Only beings that possess awesome mental might can even hope to bend the powers o
 
 Naturally, not all Wizards are equal – mastery of magic increases through dedicated practice (and, occasionally, through sheer luck). To represent this, Wizards are divided into four degrees of ability called 'Levels of Wizardry' (often shortened simply to 'Level' in the rules that follow). The higher a Wizard's Level, the greater their knowledge of magic:
 
-- **Level 1**: Wizards of the first level are those of humble ability.
-- **Level 2**: Wizards of the second level are experienced spellcasters.
-- **Level 3**: Wizards of the third level are great sorcerers of a kind rarely seen.
-- **Level 4**: Wizards of the fourth level are the mightiest of all Wizards, the very equal of crowned monarchs within the realms of sorcery.
+**Level 1**: Wizards of the first level are those of humble ability.
+**Level 2**: Wizards of the second level are experienced spellcasters.
+**Level 3**: Wizards of the third level are great sorcerers of a kind rarely seen.
+**Level 4**: Wizards of the fourth level are the mightiest of all Wizards, the very equal of crowned monarchs within the realms of sorcery.
 
 ## Lores of Magic
 
@@ -39,12 +39,12 @@ If you wish, your Wizard may then discard one of these randomly generated spells
 
 Spells fall into six categories. These determine during which phase of the game they can be cast. These are:
 
-- Enchantment
-- Hex
-- Conveyance
-- Magic Missiles
-- Magical Vortex
-- Assailment
+Enchantment
+Hex
+Conveyance
+Magic Missiles
+Magical Vortex
+Assailment
 
 ## Enchantment
 
@@ -78,10 +78,10 @@ These spells are deadly attacks that strike the foe without warning. Assailment 
 
 When a spell can be cast depends upon its type:
 
-- Enchantment and Hex spells can be cast during the Conjuration sub-phase of your Strategy phase.
-- Conveyance spells can be cast at any point during the Remaining Moves sub-phase of your Movement phase.
-- Magic Missiles and Magical Vortex spells can be cast when a Wizard is chosen during your Shooting phase.
-- Assailment spells can be cast when a Wizard fights during any Combat phase.
+Enchantment and Hex spells can be cast during the Conjuration sub-phase of your Strategy phase.
+Conveyance spells can be cast at any point during the Remaining Moves sub-phase of your Movement phase.
+Magic Missiles and Magical Vortex spells can be cast when a Wizard is chosen during your Shooting phase.
+Assailment spells can be cast when a Wizard fights during any Combat phase.
 
 A Wizard can attempt to cast a number of spells equal to their Level of Wizardry per turn, but may only attempt to cast each spell once per turn. Unless stated otherwise, Wizards that are engaged in combat can only cast Assailment or range self spells.
 
@@ -91,9 +91,9 @@ To cast a spell, a Wizard declares which spell they wish to cast and its target 
 
 Unless stated otherwise, the following rules apply when choosing a target:
 
-- The target must lie within the Wizard's vision arc, but the Wizard does not need a line of sight to the target.
-- The target must lie within the spell's range.
-- Spells cannot target units engaged in combat.
+The target must lie within the Wizard's vision arc, but the Wizard does not need a line of sight to the target.
+The target must lie within the spell's range.
+Spells cannot target units engaged in combat.
 
 Note that different spell categories and some individual spells waive some of these rules and/or introduce others.
 
@@ -111,8 +111,8 @@ Keep the dice in front of you for the moment – the scores will be needed if yo
 
 Each spell has an associated 'casting value'. Spells with a higher casting value have greater effect, but require more power:
 
-- If the casting result equals or exceeds the spell's casting value, the spell is successfully cast (though your opponent may subsequently dispel it).
-- If the casting result is less than the casting value, the spell is not cast.
+If the casting result equals or exceeds the spell's casting value, the spell is successfully cast (though your opponent may subsequently dispel it).
+If the casting result is less than the casting value, the spell is not cast.
 
 ## Magic Resistance (-X)
 

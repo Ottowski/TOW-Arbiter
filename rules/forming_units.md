@@ -16,8 +16,8 @@ Close Order units gain certain bonuses depending on their shape. Such units are 
 
 A Close Order unit that is wider than it is deep (more models per rank than per file) or square (same models per rank and file) is in Combat Order.
 
-- Rank Bonus: If wide enough, a unit in Close Order can claim +1 combat result point for each full rank behind the first, up to the maximum allowed by its troop type. How many models are required per rank and the maximum rank bonus depend on the troop type. Certain special rules may increase the maximum. An incomplete rear rank can still count if it has sufficient models. Disrupted units cannot claim a rank bonus.
-- Combat Result Bonus: While in Combat Order, a Close Order unit with Unit Strength 10 or more may claim an additional +1 combat result point.
+Rank Bonus: If wide enough, a unit in Close Order can claim +1 combat result point for each full rank behind the first, up to the maximum allowed by its troop type. How many models are required per rank and the maximum rank bonus depend on the troop type. Certain special rules may increase the maximum. An incomplete rear rank can still count if it has sufficient models. Disrupted units cannot claim a rank bonus.
+Combat Result Bonus: While in Combat Order, a Close Order unit with Unit Strength 10 or more may claim an additional +1 combat result point.
 
 ## Marching Column
 

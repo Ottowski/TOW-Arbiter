@@ -8,9 +8,9 @@ When a creature has an ability that deviates in some way from the core game rule
 
 Special rules fall into three broad categories:
 
-- Universal Special Rules
-- Army Special Rules
-- Unique Special Rule
+Universal Special Rules
+Army Special Rules
+Unique Special Rule
 
 ## Universal Special Rules
 
@@ -111,7 +111,6 @@ A unit with this special rule can be fielded as a detachment.
 Great war engines may be dragged to battle by hordes of infantry.
 
 A model with this special rule that begins its movement within 1" of a friendly unit whose troop type is infantry, that is not fleeing and that contains ten or more models, may replace its Movement characteristic with that of the unit.
-
 
 ## Drilled
 
@@ -326,7 +325,6 @@ The Warhammer world is a deeply magical place. Consequently, magical weapons are
 Any attack made or hit caused by a model with this special rule, or made using a weapon with this special rule, is a 'Magical' attack.
 
 Note that all spells are considered to have this special rule, as are any hits caused by magic items.
-
 
 ## Magic Resistance (-X)
 
@@ -636,13 +634,11 @@ A model with this special rule cannot make a Regeneration save against a wound c
 
 Instead of attacking normally during the Combat phase, a Hell Pit Abomination may choose to make one of the following Abominable Attacks: Feed & Avalanche of Flesh
 
-
 ## Abyssal Cloak
 
 "The crushing darkness of the deepest ocean surrounds the Merwyrm in battle."
 
 Any enemy model that targets this model during the Shooting phase suffers a -2 To Hit modifier for firing at long range, rather than the usual -1.
-
 
 ## Abyssal Howl
 
@@ -652,20 +648,17 @@ Whilst within 6" of this model, enemy units suffer a -1 modifier to their Leader
 
 Note that this modifier is not cumulative.
 
-
 ## Accomplished Archers
 
 "Under the watchful eye of a veteran commander, regiments of Sea Guard train with their bows, perfecting the art of firing at the foe even as they evade attacks."
 
 Unless mounted on a Lothern Skycutter, a Sea Guard Garrison Commander has the Evasive and Fire & Flee special rules. In addition, any unit of Lothern Sea Guard joined by this character gains the Evasive and Fire & Flee special rules for as long as the character remains with the unit.
 
-
 ## Accursed Reliquary
 
 "Powerful necromantic magic clings to the unhallowed remains enshrined within the heart of a Mortis Engine, energising nearby Undead."
 
 Whilst within this model's Command range, friendly units with the Necromantic Undead special rule gain a +1 modifier to their Movement and Initiative characteristics.
-
 
 ## Accursed Weapons
 
@@ -675,13 +668,11 @@ A hand weapon carried by a model with this special rule has the Magical Attacks 
 
 Cross-Reference Lin
 
-
 ## All Sneaky Like
 
 Kiknik's packmates are excellent hunters that encircle the enemy before launching their attacks.
 
 0-1 Goblin Wolf Rider Mobs in the same muster list as Kiknik may have the Ambushers special rule for free. In addition, you may apply a +1 or -1 modifier to the result when rolling to determine if a Goblin Wolf Rider Mob with the Ambushers special rule that is currently held in reserve arrives this turn as reinforcements or is delayed.
-
 
 ## Ancestral Fury
 
@@ -689,13 +680,11 @@ When a royal clan marches to war, the venerable warriors amongst the throng insp
 
 During a turn in which a unit in a Royal Clan army makes a charge move of 3" or more, or made a follow up move, it gains a +1 modifier to its Strength characteristic.
 
-
 ## Ancestral Grudge
 
 Dwarfs never forget a wrong, imagined or otherwise, with lords and thanes being particularly overburdened with inherited grudges. These can never be forgotten, only settled or nurtured.
 
 A model with this special rule has the Hatred (enemy characters) special rule, meaning it hates all characters in the opposing army. If this character joins a unit of Longbeards or Hammerers, that unit will also gain this special rule. Should this character leave a unit of Longbeards or Hammerers they have joined for any reason, that unit loses this special rule.
-
 
 ## Ancestral Shield
 
@@ -703,13 +692,11 @@ An Anvil of Doom is a potent artefact steeped in runic magic. This power protect
 
 An Anvil of Doom and the Forgefather & Anvil Guard have a 5+ Ward save against any wounds suffered.
 
-
 ## Ancient Enemies
 
 "Of all those who have threatened Athel Loren, it is the Beastmen who have wrought the most woe upon it."
 
 All units within a Host of Talsyn army gain the Hatred (Beastmen Brayherds) special rule.
-
 
 ## Ancient Sorcery
 
@@ -717,13 +704,11 @@ All units within a Host of Talsyn army gain the Hatred (Beastmen Brayherds) spec
 
 In addition to the Lores of Magic they may normally know spells from, Beastmen Shamans within a Wild Herd army may know spells from the Lore of Primal Magic.
 
-
 ## Aquatic
 
 "Many of Lustria's denizens have an affinity for water, moving with equal ease through swamp and river as they do over land."
 
 Models with this special rule do not suffer any modifiers to their Movement characteristic when moving through any difficult or dangerous terrain feature which has been designated a 'water feature'. This might include shallow streams or fords, swampy ground, fast flowing rivers, ponds or lakes, and players should agree prior to the game if any terrain is a water feature.
-
 
 ## Arcane Backlash
 
@@ -731,20 +716,17 @@ Lady Élisse is adept in the art of protective magic, easily redirecting harmful
 
 Lady Élisse may apply a +1 modifier to any of her Dispel rolls. In addition, should she roll any natural double when making a Dispel roll (not including rolls of a natural double 1), the spell is unbound and the casting Wizard immediately loses a single Wound.
 
-
 ## Arcane Configuration
 
 "If your army contains two or more Engines of the Gods, friendly Wizards may apply a +1 modifier to any Casting roll they make whilst within 6" of an Engine of the Gods."
 
 If your army contains two or more Engines of the Gods, friendly Wizards may apply a +1 modifier to any Casting roll they make whilst within 6" of an Engine of the Gods.
 
-
 ## Arcane Shield
 
 "Pure magic shimmers about the Slann, shielding it from the blows of the enemy."
 
 This character has a 5+ Ward save against any wounds suffered.
-
 
 ## Arcane Vassal
 
@@ -753,7 +735,6 @@ This character has a 5+ Ward save against any wounds suffered.
 Once per turn, unless this model is fleeing or engaged in combat, a single friendly Slann Mage-Priest that is within 12" of this model may 'channel' a spell through this model. If they do, the range, targeting restrictions and all effects of the spell are measured from this model, rather than from the caster. If the spell requires a line of sight, it is determined from this model.
 
 Note that spells with a range of Self cannot be channelled in this way.
-
 
 ## Arise
 
@@ -769,7 +750,6 @@ If the unit's troop type is monstrous infantry, monstrous cavalry or light chari
 
 If the unit's troop type is heavy chariot, monstrous creature, behemoth or war machine, it recovers a single Wound.
 
-
 ## Ark of Sotek
 
 "A Bastiladon equipped with an Ark of Sotek gains the following special rules: Slithering Serpents & Spawn of Sotek"
@@ -780,17 +760,15 @@ A Bastiladon equipped with an Ark of Sotek gains the following special rules:
 
 **Spawn of Sotek:** During the Command sub-phase of its turn, roll a D6. On a roll of 4+, a single Jungle Swarm within 6" of this model regains D3 lost Wounds.
 
-
 ## Armies of the Sea Lord
 
 "The companies of Sea Guard that defend the Elven colonies are highly trained soldiers. Accordingly, the Sea Lord refuses to allow pampered princes or bookish mages to lead his forces."
 
 Characters in a Sea Guard Garrison Army of Infamy that are able to take an Elven Honour may only choose one of the following:
 
-- Shadow Stalker
-- Pure of Heart
-- Sea Guard
-
+Shadow Stalker
+Pure of Heart
+Sea Guard
 
 ## Arrows of Asaph
 
@@ -798,13 +776,11 @@ These arrows carry the blessing of the goddess Asaph, and they seek out their en
 
 Units with this special rule never apply any modifiers to their rolls To Hit when shooting, regardless of the source of the modifier.
 
-
 ## Arrows of Isha
 
 "Many High Elf nobles fill their quivers with finely crafted arrows. Bound with enchantments and blessed by the touch of the Tears of Isha, such arrows are anathema to the enemies of Ulthuan."
 
 Any bow (longbow, shortbow, warbow or Bow of Avelorn) carried by a model with this special rule has the Armour Bane (1) special rule and an Armour Piercing characteristic of -1.
-
 
 ## Artillery Master
 
@@ -812,29 +788,26 @@ Engineers are quick to advise artillery crews how best to aim and fire a war mac
 
 Unless this character is fleeing or engaged in combat, once per turn, during the Shooting phase, a friendly unit of Quarrellers, unit of Thunderers or Dwarf war machine that is within its Command range can either re-roll any rolls To Hit of a natural 1, or re-roll a single Artillery dice.
 
-
 ## Assorted Weapons
 
 "The crew of a War Wagon carry a wide variety of weapons, representing the craftsmanship of Nuln's master gunsmiths and the ingenuity of the many engineers that graduate each year from the Empire's numerous colleges."
 
 In addition to their hand weapons, each member of a War Wagon's crew is armed differently, with each carrying one of the following six unique weapons:
 
-- Blunderbuss
-- Long Rifle
-- Repeating Rifle
-- Ball & Chain
-- Hooked Halberd
-- Man-catcher
+Blunderbuss
+Long Rifle
+Repeating Rifle
+Ball & Chain
+Hooked Halberd
+Man-catcher
 
 During the Shooting phase, each member of the crew equipped with a missile weapon may shoot with that weapon. During the Combat phase, each member of the crew may choose to use either their unique weapon or their hand weapon. In both cases, the controlling player must roll different batches of dice for the different weapons, making it clear to their opponent which crew member's attacks they represent and where they are being directed.
-
 
 ## Attention Seeker
 
 "Beasts of Nurgle bound enthusiastically towards newcomers, lavishing affection upon them."
 
 Every model in a unit of Beasts of Nurgle can issue and accept challenges in the same manner as a character.
-
 
 ## Aura of the Fay
 
@@ -844,13 +817,11 @@ When the Green Knight loses his last Wound, he is removed from play as usual, bu
 
 Note that the enemy player can only win Victory Points for the Green Knight if he is not on the battlefield at the end of the game.
 
-
 ## Aura of the Lady
 
 The Handmaidens of the Lady and their loyal companions are ever in the presence of their goddess, and a magical aura hangs like silvery light in the air about them.
 
 Any unit this character has joined gains the Magical Attacks special rule.
-
 
 ## Authority of the Hierophant
 
@@ -858,11 +829,9 @@ Flanked by towering undead constructs, living statues and the swarming husks of 
 
 A Mortuary Cult army must include at least one Liche Priest to be its Hierophant. The Hierophant of a Mortuary Cult army must also be its General, even if they are not the character with the highest Leadership in your army.
 
-
 ## Avalanche of Flesh
 
 Place a small (3") blast template so that its central hole is directly over the centre of the target unit. Any model (friend or foe, but not including this model) whose base lies underneath the template risks being hit and suffering a single hit, using the Strength characteristic of this model, with an AP of -2.
-
 
 ## Backstab
 
@@ -870,13 +839,11 @@ Place a small (3") blast template so that its central hole is directly over the 
 
 If a unit with this special rule is engaged with an enemy unit's flank or rear arc, it may re-roll any failed rolls To Hit made against that enemy unit.
 
-
 ## Balefire Brazier
 
 "The acrid smoke of burning warpstone confounds rival Wizards."
 
 Enemy Wizards that are within 15" of one or more models with this special rule when attempting to cast a spell must increase that spell's casting value by 1.
-
 
 ## Banished Lords
 
@@ -894,7 +861,6 @@ Mounted Knights of the Realm
 
 Pegasus Knights
 
-
 ## Banner of the Count
 
 "The ensorcelled Battle Standards of the Vampire Counts magnify the invisible forces that give the Undead strength."
@@ -905,7 +871,6 @@ A Vampire Thrall that has been upgraded to be your Battle Standard Bearer replac
 Friendly units within the Battle Standard Bearer's Command range may re-roll any failed Leadership test. In addition, friendly units within the Battle Standard Bearer's Command range reduce the number of Wounds lost due to the Unstable special rule by D3.
 
 Note that this is not cumulative with the Indomitable (X) special rule. If a unit is affected by both, use the highest value.
-
 
 ## Banner of the King
 
@@ -918,7 +883,6 @@ Friendly units within the Battle Standard Bearer's Command range may re-roll any
 
 Note that this is not cumulative with the Indomitable (X) special rule. If a unit is affected by both, use the highest value.
 
-
 ## Beam of Chotec
 
 This model can cast the following Bound spell, with a Power Level of 2:
@@ -929,18 +893,15 @@ This model can cast the following Bound spell, with a Power Level of 2:
 
 The target enemy unit suffers 3D3 Strength 5 hits, each with an AP of -2. This Bound spell has the Flaming Attacks special rule.
 
-
 ## Beast Handlers
 
 "Salamanders and Razordons are wild creatures that are often herded into battle by teams of fearless Skink Handlers."
 
 When an enemy unit shoots at a Salamander or Razordon Pack that contains one or more Skink Handlers, the enemy player must roll a D6 for each successful roll To Hit before making any rolls To Wound. On a roll of 1-4, the hit is inflicted upon a Salamander or Razordon. On a roll of 5+, the hit is inflicted upon a Skink Handler. In combat, enemy models must allocate their attacks against a model they are in base contact with (or against the closest model if they are within the fighting rank but not in base contact) before rolling To Hit.
 
-
 ## Bellowers & Musicians
 
 "Rather than using instruments, most Ogre musicians belong to a special caste known as Bellowers. As their name implies, a Bellower's instrument is their voice and lungs, with which they can make an incredible noise, even if only another Ogre would find it musical."
-
 
 ## Bestial Charge
 
@@ -948,13 +909,11 @@ When an enemy unit shoots at a Salamander or Razordon Pack that contains one or 
 
 During a turn in which it made a charge move of 3" or more, a model with this special rule gains a +1 modifier to its Strength characteristic.
 
-
 ## Bestial Fury
 
 "In battle, a Varghulf becomes a whirlwind of rage, turning to face the enemies that would surround it with supernatural speed."
 
 Enemy units cannot claim any bonus combat result points for being engaged with this model's flank or rear arc.
-
 
 ## Big 'Uns
 
@@ -962,13 +921,11 @@ The biggest, strongest and fightiest Orcs band together into mobs accurately, if
 
 When engaged in combat, a model with this special rule has a +1 modifier to its Strength characteristic, and gains the Armour Bane (1) special rule.
 
-
 ## Big Guns Know No Fear
 
 "Even the most fearsome of foes is quickly diminished in the presence of Nuln's untiring artillery."
 
 Empire Engineers in a City-state of Nuln army (and any unit they have joined) gain the Immune to Psychology special rule whilst there is a friendly war machine within their Command range.
-
 
 ## Big Stabbas
 
@@ -978,11 +935,9 @@ A unit with Big Stabbas has the Impact Hits (D3) special rule.
 
 Note that this special rule applies to the unit as a whole, not to the individual models within it.
 
-
 ## Black Lotus
 
 "For each unsaved Wound inflicted upon them by this character, enemy characters suffer a -1 modifier to their Leadership characteristic for the remainder of the game."
-
 
 ## Blackshard Armour
 
@@ -990,13 +945,11 @@ Note that this special rule applies to the unit as a whole, not to the individua
 
 A model with this special rule has a 5+ Ward save against any wounds suffered that were caused by an attack that has the Flaming Attacks special rule. In addition, a Wizard with this special rule may wear armour without penalty.
 
-
 ## Blasphemous Tome
 
 "Rumoured to have been penned by Nagash himself, the Winds of Magic become nigh uncontrollable in the presence of a Blasphemous Tome."
 
 All Wizards (friend or foe) may apply a +1 modifier to any Casting roll whilst within this model's Command range. However, if any Wizard miscasts whilst within this model's Command range, they must roll twice on the Miscast table and apply both results.
-
 
 ## Blazing Body
 
@@ -1006,20 +959,17 @@ At the start of every Combat phase, any model (friend or foe) that is in base co
 
 Note that any Wounds lost due to these hits do not count towards the combat result.
 
-
 ## Blessed Knight
 
 The Green Knight is the eternal champion of the Lady of the Lake, and her blessings are always upon him, protecting him from the weapons of her enemies.
 
 The Green Knight has a 5+ Ward save against any wounds suffered.
 
-
 ## Blessings of Asuryan
 
 "The most devoted servants of Asuryan seem to blaze with a fiery intensity borne of unshakeable faith. In battle, such faith is rewarded by the Creator God of the Elves."
 
 A model with this special rule has a 5+ Ward save against any wounds suffered that were caused by an attack that has the Flaming Attacks special rule.
-
 
 ## Blessings of Chaos
 
@@ -1033,13 +983,11 @@ When this unit's combat is chosen during Step 1.1 of any Choose & Fight Combat s
 | 3-4 | Scything Talons: Insect limbs tipped with scythe-like blades erupt from the warped ones to lash at the foe. Until the end of this Combat phase, all attacks made by models with this special rule have an Armour Piercing characteristic of -2. |
 | 5-6 | Chitinous Hide: The flesh of the warped ones hardens beneath the swords of the foe. Until the end of this Combat phase, models with this special rule gain a +1 modifier to their Toughness characteristics. |
 
-
 ## Blessings of Grimnir
 
 Those that tend the inner sanctum of the Shrine of Grimnir are well-versed in the secrets of his cult and able to unbind the foul magic of cowardly foes.
 
 A model with this special rule may be nominated to attempt a Wizardly Dispel, as if it were a Wizard. However, unlike regular Wizards, a Shrine Keeper does not have a Level of Wizardry to determine their Dispel range or modify their Dispel rolls. Instead, a Shrine Keeper has a Dispel range of 21" and may apply a +1 modifier to their Dispel rolls.
-
 
 ## Blessings of Khaine
 
@@ -1059,13 +1007,11 @@ Strength of Khaine (the Cleaving Blow special rule)
 
 Bloodshield of Khaine (a 5+ Ward save against any wounds suffered)
 
-
 ## Blessings of the Horned Rat
 
 "The Horned Rat protects its favoured followers, warding them against the weapons of their enemies."
 
 This model has a 5+ Ward save against any wounds suffered that were caused by a non-magical enemy attack.
-
 
 ## Blessings of the Lady
 
@@ -1086,13 +1032,11 @@ Unlike other special rules, the Blessings of the Lady can be lost during a game.
 
 Note that, for the purposes of this special rule, Falling Back in Good Order does not count as fleeing.
 
-
 ## Blessings of the Volcano God
 
 "Every aspiring Firebelly must enter the caldera of the titanic volcano, Fire Mouth, where the heat is such that their hair is burnt from their bodies. There they must fill a crucible with roiling lava and down it in a single draught. Only those with the blessing of the volcano god can survive."
 
 A model with this special rule has a 4+ Ward save against any wounds suffered that were caused by an attack that has the Flaming Attacks special rule.
-
 
 ## Blessings of Ulric
 
@@ -1100,13 +1044,11 @@ A model with this special rule has a 4+ Ward save against any wounds suffered th
 
 A model with this special rule has a 6+ Ward save against any wounds suffered that were caused by an attack that has the Flaming Attacks special rule.
 
-
 ## Blizzard Aura
 
 "The ice that sheathes a Frostheart Phoenix is as hard as glass, and enemies find their own strength and resolve eaten away by its chill presence."
 
 Whilst in base contact with this model, enemy models become subject to the Strike Last special rule.
-
 
 ## Blood Frenzy
 
@@ -1116,13 +1058,11 @@ When this model (but not its rider) inflicts an unsaved wound upon an enemy mode
 
 Note that this model's rider does not gain a +1 modifier to their Attacks characteristic.
 
-
 ## Blood Greed
 
 "At times, the blood-fuelled frenzy of the Beastmen is so great that they fall upon their foes in a butcherous rage, feeding upon the flesh of the fallen in the heat of battle."
 
 Whilst Frenzied, this model has a +2 modifier to its Attacks characteristic (rather than the usual +1). However, such is this model's desperate need to feed upon flesh that it rolls only a single D6 when making a Pursuit roll (rather than the usual 2D6).
-
 
 ## Blood Rage
 
@@ -1130,13 +1070,11 @@ Whilst Frenzied, this model has a +2 modifier to its Attacks characteristic (rat
 
 If, when testing to see if it becomes subject to Primal Fury, this unit passes its Leadership test with any roll of a natural double, it will also become Frenzied. A unit with this special rule may become Frenzied in this way even if it has lost Frenzy earlier in the game.
 
-
 ## Bloodshed & Butchery
 
 "A Minotaur's need for bloodshed reaches a crescendo when they gather in their mighty herds. So much so that their desire to rend flesh and shatter bone becomes contagious, spurring other Beastmen on towards battle."
 
 All Doombulls, Gorebulls, Minotaur Herds and Gor Herds within a Minotaur Blood Herd army gain the Impetuous special rule.
-
 
 ## Blunting the Lance
 
@@ -1159,13 +1097,11 @@ Fig 111.1 - The Lance has been charged in its flank by an enemy unit.
 111-2-blunting-the-lance
 Fig 111.2 - Four models are placed in base contact with the charging unit and the rest are rearranged behind these. The Lance has been blunted.
 
-
 ## Boldest of the Bold
 
 "Having found his courage, Araloth will never again be the meek, cowardly figure he once was."
 
 Araloth ignores all negative modifiers to his Leadership characteristic.
-
 
 ## Bombing Run
 
@@ -1179,7 +1115,6 @@ This model may perform a 'Bombing Run' attack against a single enemy unit that i
 | 2 | **Dud:** A solitary bomb is released, but fails to detonate before landing squarely upon the head of an unfortunate enemy. The enemy unit loses a single Wound. |
 | 3-4 | **Direct Hit:** A cluster of bombs lands directly on-target. Place a large (5") blast template so that its central hole is directly over the centre of the enemy unit. Once placed, the template will scatter D6". Any model whose base lies underneath the template's final position risks being hit and suffering a single Strength 4 hit with an AP of -1. |
 | 5-6 | **Bombs Away:** A cluster of bombs is released, falling over a wide area. Place two small (3") blast templates so that their central hole is over the enemy unit. Once placed, each template will scatter D6". Any model whose base lies underneath a template's final position risks being hit and suffering a single Strength 4 hit with an AP of -1. |
-
 
 ## Bonegrinder Giant Attacks
 
@@ -1199,13 +1134,11 @@ Bigger Things: Units whose Troop Type is heavy chariot, monstrous creature or be
 | 3-4 | Grind its Bones | Vomit | Mighty Swing |
 | 5-6 | Vomit | Mighty Swing | 'Eadbutt |
 
-
 ## Born of Fire
 
 "The Great Tauruses are the living embodiments of Hashut's fiery rage, creatures born of the intense heat and pressure found only within a volcano's heart."
 
 A Bale Taurus or Great Taurus has a 3+ Ward save against any wounds suffered that were caused by an attack that has the Flaming Attacks special rule.
-
 
 ## Borne Aloft
 
@@ -1213,13 +1146,11 @@ Carried upon the broad shoulders of their most trusted retainers, a Dwarf lord t
 
 A model with Shieldbearers consists of not one, but four models - the character and three loyal retainers - occupying a single base and acting together as a single entity. To represent this, a model with Shieldbearers has a split profile and follows the Split Profile (Cavalry) rule. In all other respects, this model is heavy infantry.
 
-
 ## Bound Spirits
 
 "Snatched from Morr's dark realm by the magic of a Necromancer, the tortured shades of the dead are bound to the will of the one that summoned them."
 
 Unlike other swarms, this unit is not subject to the Undisciplined rule. In other words, this unit can use the Inspiring Presence rule of the army's General and the "Hold your Ground" rule of a Battle Standard.
-
 
 ## Brayhorn
 
@@ -1229,13 +1160,11 @@ From the beginning of round 2 onwards, if your General is on the battlefield dur
 
 Note that this special rule may only be used by a Beastlord or Wargor that has been selected to be the General of the army.
 
-
 ## Brazen Wheels
 
 "The brazen bulk of a Skull Cannon grinds inexorably across the battlefield, its churning wheels, driven by its daemonic engine, crushing all before it."
 
 Stomp Attacks made by a Skull Cannon of Khorne have an Armour Piercing characteristic of -3. However, this rule cannot be used against models whose troop type is behemoth – they are simply too large to be caught beneath a Skull Cannon's wheels.
-
 
 ## Breath of Change
 
@@ -1247,13 +1176,11 @@ If the test is failed, the model is overwhelmed by the warping power of Chaos an
 
 If the test is passed, they are able to fend off the onslaught of chaotic energy. The attack has no effect.
 
-
 ## Bugman's Cart
 
 A pint of Bugman's XXXXXX and a rousing beer hall song is enough to inspire any Dwarf to raise an axe and take the fight to the enemy.
 
 During the Command sub-phase of their turn, any Dwarf unit that is not fleeing or engaged in combat and that is within 6" of a friendly Bugman's Cart (that is itself not fleeing or engaged) gains a +1 modifier to its Movement characteristic until the end of the turn.
-
 
 ## Bull Charge
 
@@ -1261,20 +1188,17 @@ During the Command sub-phase of their turn, any Dwarf unit that is not fleeing o
 
 Impact Hits caused by this model (but not its mount) have an Armour Piercing characteristic of -1.
 
-
 ## Bull-gors
 
 "The very ground itself trembles and shakes beneath the unstoppable thunder of a Minotaur's charge."
 
 Impact Hits caused by a model with this special rule have an Armour Piercing characteristic of -1.
 
-
 ## Bully
 
 Goblins are prone to flights of fancy and daydreaming. Not desirable character traits amongst the crew of a war machine, but nothing the presence of a glowering Orc can't rectify!
 
 An Orc Bully is a special type of character that can be taken as an upgrade to accompany a war machine. During deployment, position an Orc Bully with its war machine, as you would a character that has joined a unit. Once placed, an Orc Bully cannot leave its war machine. Unless this model is fleeing, friendly war machines that are within its Command range can use this model's Leadership instead of their own.
-
 
 ## Burning Alignment
 
@@ -1286,20 +1210,17 @@ This model can cast the following Bound spell, with a Power Level of 3:
 
 The target enemy unit suffers 2D6 Strength 4 hits, each with an AP of -. This Bound spell has the Flaming Attacks special rule.
 
-
 ## Butcher's Cauldron
 
 "Some Emissaries of the Great Maw drag behind them huge cauldrons, used to make offerings to their ravenous god."
 
 This character replaces the Impact Hits (2) special rule with the Impact Hits (D3+1) special rule. In addition, during the Command sub-phase of their turn, if they are not engaged in combat, a character with a Butcher's Cauldron may attempt to make an offering to the Great Maw by making a Leadership test (using their own Leadership). If this test is passed, until your next Start of Turn sub-phase this character and any unit they have joined gains the Regeneration (5+) special rule. However, if this test is failed, this character immediately loses a single Wound.
 
-
 ## Caged Fury
 
 "The Daemon bound within the Hellcannon constantly tests its bonds, attempting to break free."
 
 During the Start of Turn sub-phase of each of your turns, make a Leadership test for this model. If this test is failed, roll immediately on the Hellcannon Misfire table.
-
 
 ## Cannonade
 
@@ -1311,13 +1232,11 @@ If a Misfire is rolled on both of the Artillery dice, no shots are fired and thi
 
 After determining the number of shots, roll To Hit for each as normal, using the crew's Ballistic Skill and applying all appropriate modifiers.
 
-
 ## Carriage Hauler
 
 "An Iron Daemon is a steam-driven traction engine of truly incredible power, capable of hauling tremendous weights behind its armoured bulk."
 
 During the Movement phase, up to two friendly war machines with the 'Steam Carriage' upgrade that are completely within this model's rear arc and within 8" of its base at the beginning of the phase can be moved when this model moves. These war machines must finish their movement completely within this model's rear arc and within 8" of its base. Unless this model moves using the Lumbering Destruction special rule or makes a charge move, these war machines are not considered to have moved this turn.
-
 
 ## Carrion Feeders
 
@@ -1325,11 +1244,9 @@ During the Movement phase, up to two friendly war machines with the 'Steam Carri
 
 Enemy units engaged in combat with this model suffer a -1 modifier to their Initiative characteristic.
 
-
 ## Casualty Removal
 
 When removing casualties from a Lance, you may remove models from the middle of the back rank, rather than from one end as usual.
-
 
 ## Cathayan Black Powder
 
@@ -1337,13 +1254,11 @@ Though the production of Cathayan black powder is a closely guarded secret, they
 
 The first time any unit in a Jade Fleet army that is armed with a handgun, a pistol, a brace of pistols, a repeater handgun, or a repeater pistol shoots, the range of that weapon is increased by 3".
 
-
 ## Cathayan Cataphracts
 
 Jade Lancers are trained to fight with long cavalry spears, bringing the heavily armoured bulk of their warhorses and the weight of their numbers to bear in crushing charges that grind the enemy underfoot.
 
 When a unit in which the majority of the models have this special rule makes a follow up move, the unit counts as having charged during the next turn.
-
 
 ## Celestial Forged Armour (X+)
 
@@ -1351,13 +1266,11 @@ Created in the armouries of Wei-jin, Celestial Forged Armour is made from the me
 
 A model with this special rule has a Ward save against any wounds suffered. The armour value of this Ward save is shown in brackets after the name of this special rule (shown here as 'X+'). In addition, a Wizard with this special rule may wear armour without penalty.
 
-
 ## Chainmaker
 
 "Those who find themselves as Frydaal's captives know that their banners will decorate the prow of her ship and the luckiest amongst them will spend the rest of their days rowing its oars."
 
 Any enemy standard captured by Frydaal or any unit she has joined is worth 100 Victory Points as a trophy of war.
-
 
 ## Champions of Chrace
 
@@ -1365,13 +1278,11 @@ Any enemy standard captured by Frydaal or any unit she has joined is worth 100 V
 
 Any model in a unit of Lion Guard can accept challenges in the same manner as a character. In addition, once per turn a character that has joined a unit of Lion Guard may re-roll their "Look Out, Sir!" roll.
 
-
 ## Champions of Slaughter
 
 "Those who lead the Blood Herds do so from the front, their acts of gratuitous violence fuelling the primal fury of their kin."
 
 If the General of a Minotaur Blood Herd becomes Frenzied as a result of the Blood Rage special rule, any friendly units within its Command range will also become Frenzied.
-
 
 ## Chaos Armour (Daemons of Chaos)
 
@@ -1379,13 +1290,11 @@ If the General of a Minotaur Blood Herd becomes Frenzied as a result of the Bloo
 
 This model has a 4+ Ward save against any wounds suffered. In addition, a Wizard with this special rule may wear armour without penalty.
 
-
 ## Chaos Armour (Warriors of Chaos)
 
 "Chaos Armour is the living gift of the gods. As champions progress towards glory, their armour becomes ever more heavy and baroque as new plates are added, each new piece obscuring more of their humanity."
 
 A model with this special rule has a Ward save against any wounds suffered. The armour value of this Ward save is shown in brackets after the name of this special rule (shown here as 'X+'). In addition, a Wizard with this special rule may wear armour without penalty.
-
 
 ## Chaotic Cults
 
@@ -1397,20 +1306,17 @@ A model cannot belong to more than one Chaotic Cult.
 
 A character with a Mark of Chaos can join a unit belonging to any Chaotic Cult as normal.
 
-
 ## Characters Joining a Lance
 
 When a character joins a unit in Lance formation, they are placed on the outside of the Lance, in any rank, displacing one or more rank and file models to the rear rank as usual. Should you wish, a character can take the position of a command group model in the first or second rank of the Lance. In such cases, that command group model must be placed further back, on the outside of the Lance and will in turn displace another model to the rear rank of the unit.
 
 If a character that has joined a Lance is required to 'retire' to the rear of the unit, they may be placed in the middle of any rank (not including the first or second). A character that has retired cannot occupy a position on the outside of the Lance and will no longer be within the fighting rank.
 
-
 ## Chieftains of the Hunter-King
 
 "Those who lead the Wild Hunt are counted amongst Orion's boldest chieftains and are covered in mystical markings and tattoos that celebrate their achievements in his service."
 
 Wood Elf Nobles in an Orion's Wild Hunt army may have the Talismanic Tattoos special rule at the cost of 10 points per model.
-
 
 ## Choppas
 
@@ -1420,19 +1326,17 @@ During a turn in which it charged, a model with this special rule may re-roll an
 
 Note that this special rule only applies to non-magical weapons and does not apply to a model's mount (should it have one). If the model is using a magic weapon, this special rule ceases to apply.
 
-
 ## Chracian Pride
 
 "The Elves of Chrace are rugged warriors, unaccustomed to taking orders from outsiders. Accordingly, the armies of Chrace seldom give command to princes from foreign lands."
 
 Characters in a Chracian Warhost Army of Infamy that are able to take an Elven Honour may only choose one of the following:
 
-- Shadow Stalker
-- Chracian Hunter
-- Pure of Heart
+Shadow Stalker
+Chracian Hunter
+Pure of Heart
 
 Note that Chracian Chieftains are considered to have the Chracian Hunter Elven Honour for the purposes of joining units of White Lions of Chrace.
-
 
 ## Chracian Warriors
 
@@ -1440,13 +1344,11 @@ Note that Chracian Chieftains are considered to have the Chracian Hunter Elven H
 
 A unit with this special rule may only be joined by your army's General, or by a character with the Chracian Hunter Elven Honour.
 
-
 ## Cloud of Dust
 
 Great clouds of desert sand and dust seethe and billow about a Necrolith Bone Dragon, hiding its form from the eyes of its enemies.
 
 Any enemy model that targets this model during the Shooting phase suffers an additional -1 To Hit modifier.
-
 
 ## Cloud of Flies
 
@@ -1454,13 +1356,11 @@ Any enemy model that targets this model during the Shooting phase suffers an add
 
 Any enemy model that directs its attacks against this character during the Combat phase suffers a -1 modifier to its rolls To Hit.
 
-
 ## Clouds of Soot & Smoke
 
 "Imperial guns produce prodigious clouds of smoke, concealing Engineers from enemy fire."
 
 Unless it is mounted, this model is considered to be behind full cover whilst it is within 3" of a friendly unit whose troop type is war machine.
-
 
 ## Cold Blooded
 
@@ -1468,13 +1368,11 @@ Unless it is mounted, this model is considered to be behind full cover whilst it
 
 When required to make a Fear, Panic or Terror test, models with this special rule may roll an extra D6 and discard the highest result.
 
-
 ## Commander & Captain
 
 "Even before falling to the darkness of the Chaos gods, Frydaal was a renowned sea captain, both feared and respected in equal measure."
 
 Unless she is fleeing, friendly units of Chaos Marauders, Marauder Horsemen, Marauder Tribe Huscarls and Marauder Tribe Berserkers gain a +1 modifier to their Leadership characteristic whilst within Frydaal's Command range (to a maximum of 10).
-
 
 ## Commander of Legions
 
@@ -1482,20 +1380,17 @@ Though not as fully versed in the art of Necromancy as the Liche Priests, Settra
 
 Settra gains the Arise! special rule and, unlike other models with this special rule, may use it even when engaged in combat.
 
-
 ## Commanding Voice
 
 "Ishaya has spent years barking orders over crashing waves, hurricane winds and the clamour of battle."
 
 Ishayas Command Range is increased by 3\"; in other words, Ishaya Vess has a Command Range of 12\". If she is your army's General, she has a Command Range of 15\".
 
-
 ## Courage Beyond Compare
 
 "With the Wardens at their head, the Guardians of Talsyn will hold their ground against any foe, even the nightmarish abominations of Chaos."
 
 If this character joins a unit of Guardians of Talsyn, that unit gains the Immune to Psychology special rule. Should this character leave the unit for any reason, the unit loses this special rule.
-
 
 ## Covenant of Power
 
@@ -1505,13 +1400,11 @@ Whilst within 12" of a Casket of Souls, friendly Liche Priests may apply a +1 mo
 
 Note, however, that this bonus does not apply to any Bound spells cast by a Casket of Souls.
 
-
 ## Crusader's Zeal
 
 Filled by a ferocious zeal, the brave defenders of Bretonnia rush towards the foe, their lust for battle driving them across great distances.
 
 A unit with this special rule increases its maximum possible charge range by 1" and, when it makes a Charge roll, may apply a +1 modifier to the result. In addition, a unit with this special rule gains the Impetuous special rule.
-
 
 ## Crusading Knights
 
@@ -1537,11 +1430,9 @@ Pegasus Knights
 
 Mounted Yeomen
 
-
 ## Crush Underfoot
 
 The Bonegrinder Giant stomps heavily upon the enemy. Place a large (5") blast template so that its central hole is directly over the centre of the target unit. Any model (friend or foe, but not including this model) whose base lies underneath the template risks being hit and suffering a single hit, using the Strength characteristic of this model, with an AP of -3.
-
 
 ## Crushing Bulk
 
@@ -1549,18 +1440,15 @@ The Bonegrinder Giant stomps heavily upon the enemy. Place a large (5") blast te
 
 Any Stomp Attacks made by a Doom Wheel have an Armour Piercing characteristic of -1. In addition, an enemy unit that suffers Impact Hits from this model must immediately make a Leadership test. If this test is failed, the unit becomes Disrupted until the end of the current Combat phase.
 
-
 ## Crushing Weight
 
 "Enemies unfortunate enough to fall beneath the tremendous weight of a War Wagon's metal-bound wheels are crushed into the dirt."
 
 Stomp Attacks made by a War Wagon have an Armour Piercing characteristic of -1. In addition, and unlike other chariots, this model treats low linear obstacles as dangerous terrain rather than as impassable terrain.
 
-
 ## Cry of War
 
 "Enemy units suffer a -1 modifier to their Leadership characteristic whilst within the Command range of one or more Death Hags that have this special rule and that are not fleeing."
-
 
 ## Cult of the Bloodied Hound
 
@@ -1568,13 +1456,11 @@ Stomp Attacks made by a War Wagon have an Armour Piercing characteristic of -1. 
 
 Models belonging to this Chaotic Cult gain a +1 modifier to their Weapon Skill characteristic.
 
-
 ## Cult of the Carrion Crow
 
 "The sallow-skinned warriors of the Tribe of the Crow welcome hardship and suffering, believing that to endure and survive such trials strengthens their flesh."
 
 Models belonging to this Chaotic Cult gain a +1 modifier to their Toughness characteristic.
-
 
 ## Cult of the Fell Raptor
 
@@ -1582,13 +1468,11 @@ Models belonging to this Chaotic Cult gain a +1 modifier to their Toughness char
 
 Models belonging to this Chaotic Cult gain a 6+ Ward save against any wounds suffered that were caused by a non-magical enemy attack.
 
-
 ## Cult of the Slithering Serpent
 
 "Their bodies covered in unwholesome balms and unguents, the weapons of warriors of the Tribe of the Serpent drip with the venom of their patron's fangs."
 
 Models belonging to this Chaotic Cult gain the Poisoned Attacks special rule.
-
 
 ## Cunning Hunters
 
@@ -1596,13 +1480,11 @@ The Wolf Riders who hunt alongside a Nomadic Waaagh! have learned to encircle th
 
 Within a Nomadic Waaagh! army, any number of Goblin Wolf Rider Mobs may have the Ambushers special rule at the cost of +1 point per model. In addition, Goblin Bosses and Goblin Shamans that are mounted on a Giant Wolf may have the Ambushers special rule at the cost of +10 points per model.
 
-
 ## Curse of the Necropolis
 
 A powerful curse hangs over the rulers of Nehekhara. Those that would dare strike down these ancient lords find their blood turned to sand and their bodies engulfed in swarms of desert locusts.
 
 If a model with this special rule loses its last Wound to an enemy attack, the unit that made the attack must immediately make a Leadership test. If this test is failed, the enemy unit suffers D3 Strength 2 hits, each with an AP of -.
-
 
 ## Cursed by the Gods
 
@@ -1616,7 +1498,6 @@ Gigantic Spawn of Slaanesh
 
 Gigantic Spawn of Tzeentch
 
-
 ## Cursed Coven
 
 "Devoted servants of the Ruinous Powers, the Warlock covens of Hag Graef practise powerful sorcery."
@@ -1629,7 +1510,6 @@ If the unit includes a Master, but has a Unit Strength of 9 or less, it may cast
 
 Otherwise, the unit may cast this Bound spell with a Power Level of 0.
 
-
 ## Da Boyz
 
 Black Orcs will only follow the biggest and strongest leaders, which in their opinion means another Black Orc. Black Orc Bosses think the same, and will surround themselves with their own elite mob of hand-picked Black Orc boyz.
@@ -1640,13 +1520,11 @@ For each Black Orc Mob your army includes, it must also include one Black Orc Wa
 
 For each Black Orc War Boss or Big Boss your army includes, it must also include one Black Orc Mob.
 
-
 ## Da Troll Calla
 
 The Trolls that follow Ogdruz do so knowing he leads them to find plenty of fresh meat - even if that meat fights back!
 
 Unless he is fleeing, friendly Troll Mobs within Ogdruz's Command range may use his Leadership characteristic instead of their own.
-
 
 ## Daemon of Khorne
 
@@ -1654,20 +1532,17 @@ Unless he is fleeing, friendly Troll Mobs within Ogdruz's Command range may use 
 
 Daemons of Khorne have the Hatred (Daemons of Slaanesh) special rule. In addition, during a turn in which it made a charge move, a Daemon of Khorne (but not its mount) gains a +1 modifier to its Strength characteristic.
 
-
 ## Daemon of Nurgle
 
 "Enshrouded in dense clouds of flies, the legions of Nurgle trudge across the battlefield, spreading his multitudinous gifts and cataloguing their effects upon mortals."
 
 Daemons of Nurgle have the Hatred (Daemons of Tzeentch) special rule. In addition, any enemy model that directs its attacks against a Daemon of Nurgle during the Combat phase must re-roll any rolls To Hit of a natural 6.
 
-
 ## Daemon of Slaanesh
 
 "Shrouded in hypnotic glamour, the Daemons of Slaanesh surge across the battlefield on lithe limbs, capering from foe to foe, claw-hands slicing through flesh and armour."
 
 Daemons of Slaanesh have the Hatred (Daemons of Khorne) special rule. In addition, Daemons of Slaanesh increase their maximum possible charge range by 1" and have a +1 modifier to the result of any Charge or Pursuit roll they make.
-
 
 ## Daemon of Tzeentch
 
@@ -1677,22 +1552,20 @@ Daemons of Tzeentch have the Hatred (Daemons of Nurgle) special rule. In additio
 
 Note that this is a modifier to the result of a roll – it does not negate a roll of a natural double 1.
 
-
 ## Daemonic
 
 "Daemons are creatures of magic that advance inexorably into battle, yet fade quickly into nothingness when struck a banishing blow."
 
 Models with this special rule are 'Daemonic'. All Daemonic models have a 5+ Ward save against any wounds suffered that were caused by a non-magical enemy attack. In addition, all Daemonic models have the following universal special rules:
 
-- Daemonic Instability
-- Fear
-- Immune to Psychology
-- Magical Attacks
-- Unbreakable
-- Warp-spawned
+Daemonic Instability
+Fear
+Immune to Psychology
+Magical Attacks
+Unbreakable
+Warp-spawned
 
 A character with this special rule cannot join a unit without this special rule, and vice versa.
-
 
 ## Daemonic Alignment
 
@@ -1700,11 +1573,10 @@ A character with this special rule cannot join a unit without this special rule,
 
 Many models in this army list have the Daemons of Khorne, Daemons of Nurgle, Daemons of Slaanesh or Daemons of Tzeentch special rule listed among their special rules. These special rules represent the Daemonic Alignment of that model, indicating to which of the Ruinous Powers the Daemon is bound:
 
-- A model cannot have more than one Daemonic Alignment.
-- All models within a unit must have the same Daemonic Alignment.
-- A character with a Daemonic Alignment can only join a unit with the same Daemonic Alignment, or with no Daemonic Alignment.
-- A character with no Daemonic Alignment can join any unit as normal.
-
+A model cannot have more than one Daemonic Alignment.
+All models within a unit must have the same Daemonic Alignment.
+A character with a Daemonic Alignment can only join a unit with the same Daemonic Alignment, or with no Daemonic Alignment.
+A character with no Daemonic Alignment can join any unit as normal.
 
 ## Daemonic Charge
 
@@ -1712,17 +1584,15 @@ Many models in this army list have the Daemons of Khorne, Daemons of Nurgle, Dae
 
 Impact Hits caused by this model have an Armour Piercing characteristic of -2.
 
-
 ## Daemonic Instability
 
 "When the tide of battle turns, a Daemon's grasp upon its physical form becomes ever more tenuous."
 
 If a unit with this special rule loses a round of combat, it must make a Leadership test (before it Gives Ground) with a +1 modifier to the result for every combat result point by which it lost:
 
-- If this test is passed, all is well.
-- If this test is failed, the unit loses a number of Wounds equal to the amount by which it failed the test. If the unit contains any characters, allocate wounds to the unit until each model has been allocated one wound. Any remaining wounds are divided as equally as possible between the character(s) and the unit.
-- If this test is failed on a roll of a natural double 6, the unit is dragged back into the æther. The unit is immediately removed from play.
-
+If this test is passed, all is well.
+If this test is failed, the unit loses a number of Wounds equal to the amount by which it failed the test. If the unit contains any characters, allocate wounds to the unit until each model has been allocated one wound. Any remaining wounds are divided as equally as possible between the character(s) and the unit.
+If this test is failed on a roll of a natural double 6, the unit is dragged back into the æther. The unit is immediately removed from play.
 
 ## Daemonic Locus
 
@@ -1730,13 +1600,11 @@ If a unit with this special rule loses a round of combat, it must make a Leaders
 
 Friendly units with the same Daemonic Alignment as this model reduce the number of wounds suffered due to the Daemonic Instability special rule by 1 whilst within 12" of this model. In addition, friendly units with the same Daemonic Alignment as this model that roll a natural double 6 when making a Leadership test for Daemonic Instability whilst within 12" of this model are not immediately removed from play. Instead, they lose a number of Wounds equal to the amount by which they failed the test.
 
-
 ## Dance of Death
 
 "Sisters of Slaughter weave through the enemy's defences, plunging deep into their ranks."
 
 If this unit makes a successful charge move (i.e., if the unit makes contact with the charge target), the charge target suffers a -1 modifier to its Maximum Rank Bonus until the end of the Combat phase of that turn.
-
 
 ## Dances of Loec
 
@@ -1754,13 +1622,11 @@ When this unit's combat is chosen during Step 1.1 of any Choose & Fight Combat s
 
 Note that a Shadowdancer that joins this unit is considered to have this special rule as well.
 
-
 ## Dark Coven
 
 "Whilst Beastmen rampage across the countryside, revelling in their wanton destruction, the sinister Bray-Shamans gather together, pooling their power to cast their infernal rituals."
 
 Beastmen Shamans within a Wild Herd army may leach power from nearby Wizards when they attempt to cast a spell or when attempting a Wizardly Dispel. To do so, when a Bray-Shaman or Great Bray-Shaman makes a Casting or Dispel roll, they may apply a +1 modifier to the roll if one or more friendly Wizards that are not fleeing and have not succumbed to Stupidity are within their Command range. However, if they roll a natural double 1, something has gone horribly wrong. Roll immediately on the Miscast table as normal but apply the result to the Bray-Shaman or Great Bray-Shaman that made the attempt and to each friendly Wizard within their Command range.
-
 
 ## Dark Runes
 
@@ -1768,11 +1634,9 @@ Beastmen Shamans within a Wild Herd army may leach power from nearby Wizards whe
 
 This unit has a 5+ Ward save against any wounds suffered that were caused by a non-magical enemy attack.
 
-
 ## Dark Venom
 
 "This character has the Killing Blow special rule."
-
 
 ## Dark Vitality
 
@@ -1780,18 +1644,15 @@ This unit has a 5+ Ward save against any wounds suffered that were caused by a n
 
 Models with this special rule are not subject to the Death of a General rule. In addition, unless they have joined a unit that does not have this special rule they (and their mounts) can march as normal.
 
-
 ## Daughters of Eternity
 
 "Like the Queen they serve, Sisters of the Thorn are eternal, seeming never to age or succumb to injury."
 
 Models with this special rule have a 4+ Ward save against any wounds suffered.
 
-
 ## Death of a Dragon
 
 When a Cathayan Dragon loses a Wound, that Wound is lost from both of its characteristics profiles. The first time during a game that a Cathayan Dragon is reduced to zero Wounds whilst in their Dragon form, they immediately revert to their Human form and recover D3 lost Wounds. Once this occurs, they may not take Dragon form for the remainder of the game. If a Cathayan Dragon is reduced to zero Wounds whilst in their Human form, they are removed from play as a casualty.
-
 
 ## Deathblow
 
@@ -1800,7 +1661,6 @@ Slayers are bitter fighters who seek their doom in battle, yet so fierce is thei
 When a model with this special rule is reduced to zero Wounds by an enemy attack during the Combat phase, the unit that made the attack suffers a Strength 3 hit, with an AP of -1.
 
 Note that if this model is reduced to zero Wounds whilst engaged in a challenge, it is the model that made the attack that suffers this hit, rather than its unit.
-
 
 ## Deepwood Coven
 
@@ -1814,13 +1674,11 @@ If it includes both a Handmaiden of the Thorn and a standard bearer, it may cast
 
 Otherwise, the unit may cast this Bound spell with a Power Level of 0.
 
-
 ## Defensive Stance
 
 Jade Warriors are trained to defend the walls and streets of their great cities.
 
 Unless it charged during the preceding Movement phase, or counts as having charged this turn, a unit with this special rule may re-roll any Armour Save rolls of a natural 1 made during the Combat phase.
-
 
 ## Deflect Shots
 
@@ -1828,11 +1686,9 @@ Unless it charged during the preceding Movement phase, or counts as having charg
 
 A model with this special rule has a 6+ Ward save against any wounds suffered that were caused by a non-magical shooting attack.
 
-
 ## Deploying Weapon Teams
 
 A Weapon Team must be deployed at the same time as its 'parent' unit (the unit it was bought as an upgrade for), and must be deployed within 3" of that unit.
-
 
 ## Disdain of the Dragons
 
@@ -1846,13 +1702,11 @@ If this test is failed, the challenge dies on the enemy's lips and goes unissued
 
 Finally, challenges issued by Miao Ying cannot be refused.
 
-
 ## Disengage
 
 In the face of overwhelming aggression a Sky Lantern can easily disengage, climbing to the heavens before attacking once more.
 
 Should this model lose a round of combat and Give Ground, it may choose to Fall Back in Good Order instead. Enemy units can follow up as if this model had given ground, moving 2" directly towards it, but cannot pursue it. In addition, should it win a round of combat and choose to restrain and reform, this model may choose to Fall Back in Good Order rather than remaining where it is.
-
 
 ## Dispersed Formation
 
@@ -1860,13 +1714,11 @@ With their great wings extended, Pegasus Knights descend upon the foe from on hi
 
 Whilst in Skirmish formation, every model in a unit of Pegasus Knights must be within 2" of another model belonging to the same unit, rather than the usual 1".
 
-
 ## Dive Bomb
 
 Gyrocopters carry small bombs fitted with mechanical flints to light their fuse. Once the fuse is lit, the pilot must quickly release the bomb. All too often unlit bombs are dropped or, worse, lit bombs are not dropped at all!
 
 Once per game, a unit with this special rule may perform a 'Dive Bomb' attack against a single enemy unit that is not engaged in combat. To do so, this unit must move (by flying) over the unit it wishes to attack during the Remaining Moves sub-phase. Once this unit's movement is complete, the enemy unit suffers D6 Strength 3 hits, each with an AP of -1, for each model in this unit that moved over it. However, for each roll of a natural 1 made when determining the number of hits, a bomb has misfired and this unit loses a single Wound instead.
-
 
 ## Doomseeker (Special Rule)
 
@@ -1874,25 +1726,21 @@ With each victory they witness, a Doomseeker laments their inability to meet a w
 
 At the end of the battle, a Doomseeker that has been slain is worth no Victory Points. However, if a Doomseeker is still alive, the enemy player wins a bonus number of Victory Points equal to 100% of its points cost.
 
-
 ## Dragon Armour
 
 "Dragon armour is forged in the heart of a volcano by the most skilled of artificers and decorated beyond the skill of any mere mortal artisan. Yet, more than its exquisite form, what makes Dragon armour so desirable are the many potent enchantments that ward against the blows of the enemy."
 
 A model with this special rule has a 6+ Ward save against any wounds suffered. In addition, a Wizard with this special rule may wear armour without penalty.
 
-
 ## Dragon Form
 
 In their Dragon form, the Dragons of Grand Cathay are forces of primordial destruction who take the fight directly to their enemies with tooth and claw, unconcerned with issuing commands and dictating the flow of battlelines. To represent this, whilst in their Dragon form a Cathayan Dragon follows the rules for a character whose troop type is behemoth. However, whilst in their Dragon form Cathayan Dragons do not have the Inspiring Presence rule, even if they are your army's General.
-
 
 ## Drop Rocks
 
 "Skinks train Terradons to glide over the battlefield clutching great rocks in their talons."
 
 Once per game, a unit with this special rule may perform a 'Drop Rocks' attack against a single enemy unit that is not engaged in combat. To do so, this unit must move (by flying) over the unit it wishes to attack during the Remaining Moves sub-phase. Once this unit's movement is complete, the enemy unit suffers D3 Strength 4 hits, each with an AP of -, for each model in this unit that moved over it.
-
 
 ## Drunken
 
@@ -1906,7 +1754,6 @@ During the Start of Turn sub-phase of each of your turns, roll on the Drunken ta
 | 2-5 | Sobering Up: The alcohol has no discernible effect upon the unit. |
 | 6 | Belligerent Drunks: The unit has turned quite belligerent. Until its next Start of Turn sub-phase, the unit is subject to the Frenzy special rule. A unit with this special rule may become Frenzied in this way even if it has lost Frenzy earlier in the game. |
 
-
 ## Dry as Dust
 
 Entombed beneath the arid desert, the remains of living things become as dry as the dust in which they lay and, should they catch aflame, the fire quickly spreads.
@@ -1915,13 +1762,11 @@ Each time this model suffers an unsaved wound from a Flaming Attack, your oppone
 
 Note that excess wounds caused to a model will have no additional effect except in the case of a character that is part of a challenge, in which case this special rule counts for Overkill. Excess wounds do not 'spill over' onto other models in the unit.
 
-
 ## Dwarf Crafted
 
 Dwarfs craft missile weapons with a skill and precision of both form and function that is not seen in the weapons of other races.
 
 Models with this special rule do not suffer the usual -1 To Hit modifier when making a Stand & Shoot charge reaction.
-
 
 ## Earn Your Spurs
 
@@ -1929,13 +1774,11 @@ During an Errantry Crusade, Knights Errant pursue the enemy with great fervour, 
 
 Any enemy standard captured by a unit of Knights Errant is worth 100 Victory Points as a trophy of war. In addition, whilst within 6" of a friendly model with the Grail Vow, or any Lord of Bretonnia, a unit of Knights Errant may re-roll any rolls To Hit of a natural 1.
 
-
 ## Endless Malice
 
 "A Preyton will rend and tear at the corpses of its victims with such malice as to fill the hearts of onlookers with cold dread."
 
 If this model wins a round of combat and chooses to restrain and reform (and passes its Leadership test to do so), enemy units within 6" of it must make a Panic test as if a nearby friend had been destroyed.
-
 
 ## Enfeebling Cold
 
@@ -1943,13 +1786,11 @@ If this model wins a round of combat and chooses to restrain and reform (and pas
 
 Whilst in base contact with this model, enemy models suffer a -1 modifier to their Strength characteristic (to a minimum of 1).
 
-
 ## Engine of the Gods
 
 "An Ancient Stegadon equipped with an Engine of the Gods gains the following special rules: Arcane Configuration & Burning Alignment"
 
 An Ancient Stegadon equipped with an Engine of the Gods gains the Arcane Configuration and Burning Alignment special rules.
-
 
 ## Enhanced Regeneration
 
@@ -1957,13 +1798,11 @@ With so many Trolls in one place, their regenerative properties seem to be in ov
 
 Models with the Regeneration (X+) special rule within a Troll Horde army may re-roll any failed Regeneration saves against Wounds caused by non-magical attacks.
 
-
 ## Enough for Everyone
 
 Ogres enjoy loud and explosive weapons and, when they make gunpowder bombs for themselves, they make sure to bring enough for their friends.
 
 If an Ogre Loader is equipped with gunpowder bombs, the crew of the war machine that Ogre Loader has joined is also equipped with gunpowder bombs.
-
 
 ## Entrenched Position
 
@@ -1971,13 +1810,11 @@ If an Ogre Loader is equipped with gunpowder bombs, the crew of the war machine 
 
 During deployment, you may "Entrench" a single non-character model whose troop type is war machine for each Empire Engineer your army includes. An Entrenched war machine is considered to be behind partial cover and to be defending a low linear obstacle. Should the war machine move for any reason (including making a Vanguard move), it is no longer Entrenched.
 
-
 ## Entrenchment
 
 An Engineer will direct the rapid construction of effective entrenchments that protect both war machine and crew.
 
 During deployment, you may 'Entrench' a single non-character model whose troop type is 'war machine' for each character in your army with this special rule. An Entrenched war machine is considered to be behind partial cover and to be defending a low linear obstacle. Should the war machine move for any reason, it is no longer Entrenched.
-
 
 ## Eshin Infiltration
 
@@ -1987,7 +1824,6 @@ When a friendly unit of Gutter Runners with the Ambushers special rule arrives f
 
 Note that this character cannot use this special rule whilst it remains hidden.
 
-
 ## Eternal Hatred
 
 "The Dark Elves believe they have been wronged greatly by their enemies over and over again, and the hatred they harbour has grown to become an all-consuming passion."
@@ -1996,13 +1832,11 @@ Against High Elves, this model's Hatred applies in every round of close combat, 
 
 Note that this special rule does not apply to this model's mount (should it have one).
 
-
 ## Eternal Taskmaster
 
 Necrotects were the taskmasters of ancient Nehekhara. Under their stern gaze, armies of workers laboured relentlessly in the service of mighty kings.
 
 During the Command sub-phase of their turn, this character may attempt to drive a unit they have joined to greater efforts by making a Leadership test (using their own Leadership). If this test is passed, until your next Start of Turn sub-phase this character and any unit they have joined gains the Extra Attacks (+1) and Hatred (all enemies) special rules.
-
 
 ## Expeditionary Marksmen
 
@@ -2010,13 +1844,11 @@ After countless hours of diligent training with their handguns, the marksmen in 
 
 0-1 unit of Thunderers per 1,000 points may be upgraded to Expeditionary Marksmen for +1 point per model. Expeditionary Marksmen do not suffer any negative To Hit modifiers for Moving and Shooting Shooting. In addition, any Dwarf Engineer may be upgraded to an Expeditionary Marksman for +10 points.
 
-
 ## Explosive Demise
 
 "On the rare occasion that one of these mighty beasts is slain, it engulfs the surrounding area in scorching-hot warpfire."
 
 When a Warpfire Dragon loses its last Wound, before the model is removed from play, every unit (friend or foe) within 6" of it suffers D6 Strength 5 hits, each with an AP of -2.
-
 
 ## Extended Formation
 
@@ -2024,13 +1856,11 @@ Ranging far and wide above the mountain peaks, units of Scout Gyrocopters adopt 
 
 Whilst in Skirmish formation, every model in a unit of Scout Gyrocopters must be within 3" of another model belonging to the same unit, rather than the usual 1".
 
-
 ## Eye of the Dragon
 
 From the vantage point of a Sky Lantern's armoured gondola, gunners signal the crews of earthbound war machines, guiding their aim.
 
 Friendly models whose weapons shoot using the Bombardment special rule can shoot using this model's line of sight rather than their own.
-
 
 ## Fanatical Zeal
 
@@ -2040,13 +1870,11 @@ A unit with this special rule can be joined by a Lector of Sigmar or a Priest of
 
 Note that a unit with the Unbreakable special rule cannot normally be joined by a character without it. This rule provides an exception that represents the fanaticism of Sigmar's priesthood.
 
-
 ## Father of Beasts
 
 "Ghorros Warhoof is well-known to the Centigor herds of the Old World, and his misshapen kin are always eager to prove their worth in his presence."
 
 Whilst within Ghorros Warhoof's Command range, friendly Centigor Herds may re-roll the D6 when rolling on the Drunken table.
-
 
 ## Favour of the Goddess
 
@@ -2054,13 +1882,11 @@ Whilst within Ghorros Warhoof's Command range, friendly Centigor Herds may re-ro
 
 Araloth has a 5+ Ward save against any wounds suffered.
 
-
 ## Favour of the Gods
 
 "Warriors of the Marauder tribes constantly vie for the attention of the gods. But when the gods attention is drawn to a mortal, it does not always yield the divine blessing they seek."
 
 If a character within a Wolves of the Sea army kills their opponent in a challenge, they must immediately roll on the Gaze of the Gods table. In addition, should a unit within a Wolves of the Sea army claim the standard of an enemy unit as a trophy of war, that unit may immediately make a roll on the Gaze of the Gods table (changing references from 'this model' to 'this unit').
-
 
 ## Fear of Elves
 
@@ -2068,11 +1894,9 @@ Goblins don't like Elves. They smell of soap, they walk funny and they're too ta
 
 Elves of any type cause Fear in models with this special rule.
 
-
 ## Feed
 
 Nominate a single enemy model in base contact with the Hell Pit Abomination to be the target of this attack. If that model is hit, it suffers D3 automatic wounds with no armour save permitted (Ward and Regeneration saves can be attempted as normal).
-
 
 ## Feel No Pain
 
@@ -2080,14 +1904,12 @@ Nominate a single enemy model in base contact with the Hell Pit Abomination to b
 
 A model with this special rule has:
 
-- A 6+ Ward save against any wounds suffered that were caused by a non-magical enemy attack.
-- A 5+ Ward save against any wounds suffered that were caused by a non-magical enemy attack with a Strength 5 or higher.
-
+A 6+ Ward save against any wounds suffered that were caused by a non-magical enemy attack.
+A 5+ Ward save against any wounds suffered that were caused by a non-magical enemy attack with a Strength 5 or higher.
 
 ## Feint & Dodge
 
 Once per game, when an enemy model directs its attacks against a model with this special rule, you may make that enemy model re-roll its successful rolls To Hit.
-
 
 ## Finest Warhorses
 
@@ -2095,20 +1917,17 @@ The Warhorses of Bretonnia are bred to bear the weight of a fully armoured knigh
 
 When a unit with this special rule makes a Charge, Flee or Pursuit roll, it may re-roll any dice that roll a natural 1, before discarding any dice that are required to be discarded.
 
-
 ## Fire & Chaos
 
 "Thanks to their consumption of vast amounts of warpstone and natural affinity to flame, Warpfire Dragons have an innate resistance to any magic or fire that might be used to bring them down."
 
 Warpfire Dragons have a 5+ Ward save against any wounds suffered that were caused by an attack that has either the Magical Attacks or Flaming Attacks special rule.
 
-
 ## First to the Fray
 
 In battle, Doomseekers rush ahead of the Dwarfen lines, eagerly seeking out worthy foes.
 
 This model increases its maximum possible charge range by 3" and, when it makes a Charge roll, may apply a +D3 modifier to the result.
-
 
 ## Foe Render
 
@@ -2117,7 +1936,6 @@ This model increases its maximum possible charge range by 3" and, when it makes 
 Whilst subject to Primal Fury, a hand weapon carried by a model with this special rule has an Armour Piercing characteristic of -2.
 
 Note that this special rule only applies to a single, non-magical hand weapon and does not apply to a model's mount (should it have one). If the model is using two hand weapons or any other sort of weapon, this special rule ceases to apply.
-
 
 ## Forbidden Poisons
 
@@ -2131,13 +1949,11 @@ Dark Venom: This character has the Killing Blow special rule.
 
 Manbane: When this character makes a roll To Wound, a roll of 4+ is always a success, regardless of the target's Toughness.
 
-
 ## Forgefire
 
 In the heat of battle, the weapons of a runesmith's companions glow white-hot with the heat of their forging, cutting through the inferior armour of the enemy with ease.
 
 If this character joins a unit, that unit will gain the Armour Bane (2) and Flaming Attacks special rules. Should this character leave a unit it has joined for any reason, that unit loses these special rules.
-
 
 ## Forming the Lance
 
@@ -2151,26 +1967,21 @@ Command group models are placed at the front of the unit, in the first and secon
 
 110-1-forming-the-lance
 
-
 ## Forsaken by Khorne
 
 "The unit has the Hatred (all enemies) special rule."
-
 
 ## Forsaken by Nurgle
 
 "The unit has the Fear special rule."
 
-
 ## Forsaken by Slaanesh
 
 "The unit has the Swiftstride special rule."
 
-
 ## Forsaken by Tzeentch
 
 "The unit has the Magic Resistance (-3) special rule."
-
 
 ## From Beneath the Sands
 
@@ -2184,17 +1995,15 @@ If this test is failed, the Ambushers pay no heed to this model's summons and ar
 
 Note that Ambushers arrive automatically at the start of round five as usual.
 
-
 ## From The Ashes
 
 "Should a Phoenix be slain, it explodes in a shower of flaming cinders. If the Winds of Magic are strong, these fiery fragments swiftly coalesce and the Phoenix is reborn."
 
 When a Flamespyre Phoenix loses its last Wound, roll a D6 before removing the model from play:
 
-- On a roll of 1-2, the Phoenix crumbles into cold ashes and is removed from play.
-- On a roll of 3-5, the Phoenix explodes into flame. Every enemy unit in base contact with it suffers D6 Strength 3 hits, each with an AP of -1 and the Flaming Attacks special rule. Once these hits are resolved, this model is removed from play.
-- On a roll of 6, the Phoenix (and its rider, should it have one) are briefly consumed in a ball of flames, and are immediately reborn, recovering D3 Wounds.
-
+On a roll of 1-2, the Phoenix crumbles into cold ashes and is removed from play.
+On a roll of 3-5, the Phoenix explodes into flame. Every enemy unit in base contact with it suffers D6 Strength 3 hits, each with an AP of -1 and the Flaming Attacks special rule. Once these hits are resolved, this model is removed from play.
+On a roll of 6, the Phoenix (and its rider, should it have one) are briefly consumed in a ball of flames, and are immediately reborn, recovering D3 Wounds.
 
 ## From the Mists
 
@@ -2202,20 +2011,17 @@ When a Flamespyre Phoenix loses its last Wound, roll a D6 before removing the mo
 
 After deployment, but before deploying units with the Scouts special rule or moving units with the Vanguard special rule, you may immediately remove a single deployed unit belonging to your army from the battlefield and replace it anywhere within your deployment zone.
 
-
 ## From the Storm Clouds
 
 "The ships of Ulthuan's fleet are protected at all times by Lothern Skycutters, sailing unseen in the clouds above and ever ready to descend upon an unsuspecting enemy."
 
 0-1 Lothern Skycutter per 1,000 points in a Sea Guard Garrison Army of Infamy, including Skycutters taken as character mounts, may have the Ambushers special rule for +10 points per model.
 
-
 ## From the Wilds
 
 Emerging from the wilderness, Slayers are drawn by the sounds of battle and the promise of violence.
 
 0-1 unit of Slayers with a Unit Strength of 10 or less in a Slayer Host Army of Infamy may have the Ambushers and Skirmishers special rules for +1 point per model.
-
 
 ## Function Over Form
 
@@ -2231,13 +2037,11 @@ Flame Cannon
 
 Any war machine that has its Toughness reduced in this way also loses the Move or Shoot special rule.
 
-
 ## Future Sight
 
 "Though blind, Kralmaw is gifted with future visions that allow him to remove himself from harm's way."
 
 Kralmaw has a 4+ Ward save against any wounds suffered.
-
 
 ## Ghostsight
 
@@ -2245,20 +2049,17 @@ Kralmaw has a 4+ Ward save against any wounds suffered.
 
 During the Combat phase, a Cygor may re-roll any failed rolls To Hit made against enemy Wizards, enemy models or units equipped with any magic items, or enemy models or units with a Ward or Regeneration save.
 
-
 ## Ghoulish Glamour
 
 "Mortals quail in awestruck disbelief at the sight of a Vampire coven lounging upon the decayed luxury of a Coven Throne."
 
 Enemy units must make a Leadership test before making any rolls To Hit against this model during the Combat phase. If this test is failed, only rolls of a natural 6 will hit.
 
-
 ## Gifts from the Dark Gods
 
 "The wild herds are the most unruly of their kind and perhaps the closest to their foul gods. As such, they are afflicted with more mutations than most of their kin and carry artefacts of great power with them into battle."
 
 Character models in this army may spend an additional 25 points on magic items and an additional 25 points on Chaos Mutations.
-
 
 ## Gifts of Khaine
 
@@ -2272,26 +2073,21 @@ Rune of Khaine: This character has the Extra Attacks (+D3) special rule.
 
 Witchbrew: This character, their mount and any unit they have joined cannot lose the Frenzy special rule.
 
-
 ## Gigantic Spawn of Khorne
 
 "Gigantic Spawn of Khorne have the Impact Hits (D3) and Killing Blow special rules."
-
 
 ## Gigantic Spawn of Nurgle
 
 "Gigantic Spawn of Nurgle have the Poisoned Attacks and Regeneration (5+) special rules."
 
-
 ## Gigantic Spawn of Slaanesh
 
 "Gigantic Spawn of Slaanesh have the Counter Charge and Strike First special rules."
 
-
 ## Gigantic Spawn of Tzeentch
 
 "Gigantic Spawn of Tzeentch have the Flaming Attacks, Magical Attacks and Magic Resistance (-2) special rules."
-
 
 ## Goad Beast
 
@@ -2299,20 +2095,17 @@ Witchbrew: This character, their mount and any unit they have joined cannot lose
 
 During the Command sub-phase of their turn, this character may goad a single friendly model whose troop type is monster and that is within their Command range (including their own mount). Until the end of this turn, that model gains a +D3 modifier to its Attacks characteristic (to a maximum of 10).
 
-
 ## Gorefeast
 
 "The blood and skulls of the fallen are consumed by a Blood Throne, fed into its infernal workings to bring the daemonic engine fresh vigour."
 
 For each Wound an enemy unit loses as a result of an Impact Hit caused by this model, roll a D6. For each roll of 6, this model immediately recovers a single lost Wound.
 
-
 ## Grail Monk
 
 The rural areas of Bretonnia are dotted with many small Grail monasteries, places of quiet solitude in which pious peasants dedicate their lives in devotion to the Lady of the Lake. In times of war, bold monks will march to war beside the peasant levies.
 
 A Grail Monk is a command group model that follows all of the rules for a champion. In other words, a unit that contains both a Yeoman and a Grail Monk contains two champions.
-
 
 ## Grail Reliquae
 
@@ -2324,13 +2117,11 @@ Casualties are removed from the unit as normal, but the Grail Reliquae cannot lo
 
 The Grail Reliquae counts as both a standard bearer and a musician for its unit. Whilst the Grail Reliquae model itself is within 12" of a friendly model that has the Grail Vow and is not fleeing, its unit gains the Immune to Psychology and Unbreakable special rules.
 
-
 ## Grand Master of the Knights Panther
 
 "Through years of exemplary service, unflinching courage and skill-at-arms, Gemunsen has earned the title of Grand Master of the Knights Panther."
 
 Harald Gemunsen belongs to the Order of the Knights Panther, therefore he may re-roll a single dice that rolls a natural 1 when making a Charge roll, before discarding any dice that are required to be discarded. In addition, Harald may only join a unit that belongs to the Order of the Knights Panther.
-
 
 ## Grand Strategist
 
@@ -2338,13 +2129,11 @@ Magistrates are adept at outwitting their enemies, both across the negotiating t
 
 Unless this character is fleeing, all friendly units within their Command range, except your General, can use this character's Leadership characteristic instead of their own. In addition, once per turn a friendly unit that wins a round of combat whilst within this character's Command range may choose to Fall Back in Good Order rather than making a follow up or pursuit move.
 
-
 ## Granite Sentinel
 
 Carved from tough granite of red, pink, grey or white and shot through with dark seams of minerals, Granite Sentinels are enduringly powerful, standing firm before even the most powerful of enemies.
 
 A Granite Sentinel improves its armour value by 1. In addition, a Granite Sentinel is immune to the Multiple Wounds (X) special rule. If a Granite Sentinel suffers an unsaved wound from an attack with this special rule, it loses a single Wound.
-
 
 ## Great Censer
 
@@ -2353,7 +2142,6 @@ A Granite Sentinel improves its armour value by 1. In addition, a Granite Sentin
 Stomp Attacks made by a Plague Furnace represent the Great Censer being let loose to swing into the enemy with devastating effect. Any Stomp Attacks made by a Plague Furnace have an Armour Piercing characteristic of -2.
 
 In addition, whilst within 3" of one or more models with this special rule, the noxious fumes billowing from the Great Censer cause enemy units to suffer a -1 modifier to their Toughness characteristic (to a minimum of 1).
-
 
 ## Grind its Bones
 
@@ -2365,13 +2153,11 @@ Those able to duck or dodge away from the Bonegrinder Giant's grasping hands esc
 
 Note that any characters in the fighting rank of the target unit can make a "Look Out, Sir!" roll, as if their unit had been hit by a shooting attack.
 
-
 ## Gromril Armour
 
 The metal the Dwarfs call gromril is the toughest and sturdiest in the known world, able to turn aside any blow. Armour forged of gromril is highly coveted for its protective value and full suits of gromril armour are treasured and valued heirlooms.
 
 A model with this special rule may re-roll any roll of a natural 1 made when making an Armour Save roll.
-
 
 ## Gromril Weapons
 
@@ -2381,13 +2167,11 @@ A hand weapon carried by a model with this special rule has an Armour Piercing c
 
 Note that this special rule only applies to a single, ordinary hand weapon. If the model is using two hand weapons or any other sort of weapon, or if their hand weapon is inscribed with any Weapon runes, this special rule ceases to apply.
 
-
 ## Grudgelore
 
 So deep is Thorgrim's knowledge of grudgelore that he can readily find words to stoke the fires of wrath within his kin and unleash their rage upon any foe.
 
 Once Thorgrim has set the Grudgestone, both he and any unit he has joined replaces the Hatred (Orcs & Goblins) special rule with the Hatred (all enemies) special rule.
-
 
 ## Guardian of the Sacred Sites
 
@@ -2401,13 +2185,11 @@ In addition, rather than moving normally during the Remaining Moves sub-phase, i
 
 Note that when the Green Knight appears within a natural terrain feature, he must abide by the 1" rule. In other words, the Green Knight cannot be placed within 1" of an enemy unit.
 
-
 ## Guardians
 
 "Temple Guard protect the Mage-Priests with their tough, scaled bodies and interlocking shields."
 
 Should a friendly Slann Mage-Priest model that is within 3" of this unit suffer a hit during the Shooting phase, roll a D6. On a roll of 2+, you may choose to transfer that hit and all of its effects onto this unit. In addition, any model in a unit of Temple Guard that is within the Command range of a Slann Mage-Priest can issue and accept challenges in the same manner as a character.
-
 
 ## Guardians of the Herdstones
 
@@ -2419,13 +2201,11 @@ Take Chaos Mutations and/or Gifts of Chaos up to a total of 50 points
 
 Note that this option replaces the option to take Chaos Mutations as shown in Ravening Hordes.
 
-
 ## Guardians of the Temple
 
 "Those members of the Teutogen Guard selected to guard the innermost sanctums of the Temple of Ulric are counted amongst the most ferocious warriors in all the Old World."
 
 When engaged in combat, a model with this special rule may re-roll any rolls To Hit of a natural 1.
-
 
 ## Guardians of the Wildwood
 
@@ -2433,18 +2213,16 @@ When engaged in combat, a model with this special rule may re-roll any rolls To 
 
 Whilst it is in base contact with an enemy model that causes Fear or Terror, a model with this special rule gains a +1 modifier to its Attacks characteristics (to a maximum of 10) and the Multiple Wounds (2) special rule.
 
-
 ## Gun Limbers
 
 "Veteran gun crews can deploy their weapons from horse-drawn limbers with tremendous speed."
 
 0-1 war machine per 1,000 points, chosen from the following list, may be given the Vanguard and Veteran special rules:
 
-- Great Cannon (+5 points)
-- Mortar (+5 points)
-- Helblaster Volley Gun (+15 points)
-- Helstorm Rocket Battery (+10 points)
-
+Great Cannon (+5 points)
+Mortar (+5 points)
+Helblaster Volley Gun (+15 points)
+Helstorm Rocket Battery (+10 points)
 
 ## Handgun Drill
 
@@ -2452,13 +2230,11 @@ Whilst it is in base contact with an enemy model that causes Fear or Terror, a m
 
 Once per game, each detachment of State Missile Troops in a City-state of Nuln army can fire with one additional rank.
 
-
 ## Handler
 
 "Chaos Warhounds are little more than wild animals and it requires the lash of an experienced handler to discipline a pack of such beasts."
 
 A Chaos Warhound Handler is a special type of character that can be taken as an upgrade to accompany a unit of Chaos Warhounds. During deployment, position a Chaos Warhound Handler with its unit of Chaos Warhounds, as you would a character that has joined a unit. Once placed, a Chaos Warhound Handler cannot leave its unit. Unless this model is fleeing, friendly units of Chaos Warhounds that are within its Command range can use this model's Leadership instead of their own.
-
 
 ## Harmonious Incantations
 
@@ -2466,13 +2242,11 @@ When the Liche Priests of the Mortuary Cult gather together in numbers, their in
 
 If a Liche Priest within a Mortuary Cult army uses the Arise! special rule whilst within the Command range of one or more other friendly Liche Priests, the number of lost Wounds the chosen unit recovers is increased by 1.
 
-
 ## Harmony of Stone & Steel
 
 Under the command of Gate Masters and Gate Keepers, Cathayan soldiers serve their Dragon Emperor with unrivalled discipline.
 
 A unit joined by a character with this special rule may re-roll any failed Leadership test when attempting to reform after running down a foe, when attempting to redirect a charge, or when making a Restraint test.
-
 
 ## Hawk-eyed Archer
 
@@ -2480,13 +2254,11 @@ A unit joined by a character with this special rule may re-roll any failed Leade
 
 A model with this special rule can target any enemy character it can draw a line of sight to, regardless of the usual rules for targeting Lone characters. In addition, a model with this special rule can target a specific model within its target unit, such as a champion or a character.
 
-
 ## Heavenly Beacon
 
 Brightly coloured and illuminated from within, Sky Lanterns act as both a beacon and a rallying point to the forces of the Celestial Dragon.
 
 Unless this model is fleeing, friendly units within 12" of it may re-roll any failed Panic or Rally test. In addition, whilst this model is on the battlefield, unless it is fleeing, you may apply a +1 or -1 modifier to the result when rolling to determine if a friendly unit with the Ambushers special rule that is currently held in reserve arrives this turn as reinforcements or is delayed. Finally, a Lord Magistrate or Strategist mounted on a Sky Lantern has a Command range of 12".
-
 
 ## Hekarti's Blessing
 
@@ -2494,24 +2266,21 @@ Unless this model is fleeing, friendly units within 12" of it may re-roll any fa
 
 Once per game, a model with this special rule may re-roll a single failed Casting roll.
 
-
 ## Helblaster
 
 When shooting a Helblaster Volley Gun, roll three Artillery dice before making any rolls To Hit. The number of shots fired is equal to the total of all three Artillery dice:
 
-- If a Misfire is rolled on one of the Artillery dice, all shots fired from the Helblaster Volley Gun this turn suffer an additional -1 To Hit modifier.
-- If a Misfire is rolled on two of the Artillery dice, no shots are fired and a critical fault has occurred. Roll immediately on the appropriate Misfire table to determine exactly what.
-- If a Misfire is rolled on all three of the Artillery dice, all of the barrels fire simultaneously, with devastating effect. The Helblaster Volley Gun fires 30 shots, but is destroyed and immediately removed from play. All shots fired from the Helblaster Volley Gun this turn suffer an additional -1 To Hit modifier.
+If a Misfire is rolled on one of the Artillery dice, all shots fired from the Helblaster Volley Gun this turn suffer an additional -1 To Hit modifier.
+If a Misfire is rolled on two of the Artillery dice, no shots are fired and a critical fault has occurred. Roll immediately on the appropriate Misfire table to determine exactly what.
+If a Misfire is rolled on all three of the Artillery dice, all of the barrels fire simultaneously, with devastating effect. The Helblaster Volley Gun fires 30 shots, but is destroyed and immediately removed from play. All shots fired from the Helblaster Volley Gun this turn suffer an additional -1 To Hit modifier.
 
 After determining the number of shots, roll To Hit for each as normal, using the crew's Ballistic Skill and applying all appropriate modifiers.
-
 
 ## Hellbound
 
 "Although a touch of the daemonic enters into all the works of the Chaos Dwarfs, some war machines have hellish entities bound into their very frames, creating possessed engines of wrath and ruin."
 
 A Hellbound model has a 6+ Ward save against any wounds suffered that were caused by a non-magical enemy attack and gains both the Fear and Magical Attacks special rules. If the model already has the Fear special rule, it instead gains the Terror special rule. Additionally, once per game, a Hellbound model may re-roll one Scatter dice or one Artillery dice. However, should a Hellbound model ever have to make a roll on a Misfire table, it suffers a -1 modifier to the result.
-
 
 ## Hellcannon Misfire Table
 
@@ -2523,7 +2292,6 @@ Roll a D6 during Caged Fury:
 | 2-4 | **Chomp!** The Hellcannon's handlers are sucked towards the furnace of the ravenous Daemon. Remove one of the Hellcannon's Chaos Dwarf Handlers. |
 | 5-6 | **Blooood!** The Hellcannon breaks its chains, immediately moving 3D6" as if it were subject to the Random Movement special rule and as if this were the Compulsory Moves sub-phase. |
 
-
 ## Helstorm
 
 A Helstorm Rocket Battery launches a barrage of rockets high into the sky, passing over intervening regiments and even terrain. When shooting with this weapon, work your way through the following steps:
@@ -2532,19 +2300,17 @@ A Helstorm Rocket Battery launches a barrage of rockets high into the sky, passi
 
 2. Scatter: Once each template has been placed, it will scatter. Roll an Artillery dice and a Scatter dice for each template in turn:
 
-   - If a "Misfire" is rolled on the Artillery dice, the rocket has failed to launch. Once all shots from this weapon have been resolved, roll once on the appropriate Misfire table for each Misfire rolled.
-   - If a "Hit!" is rolled on the Scatter dice, use the small arrow above the Hit! symbol to determine the direction of the scatter and move the template a number of inches equal to the roll of the Artillery dice minus the crew's Ballistic Skill characteristic (to a minimum of zero).
-   - If an arrow is rolled on the Scatter dice, move the template a number of inches equal to the roll of the Artillery dice in the direction the arrow points.
+   If a "Misfire" is rolled on the Artillery dice, the rocket has failed to launch. Once all shots from this weapon have been resolved, roll once on the appropriate Misfire table for each Misfire rolled.
+   If a "Hit!" is rolled on the Scatter dice, use the small arrow above the Hit! symbol to determine the direction of the scatter and move the template a number of inches equal to the roll of the Artillery dice minus the crew's Ballistic Skill characteristic (to a minimum of zero).
+   If an arrow is rolled on the Scatter dice, move the template a number of inches equal to the roll of the Artillery dice in the direction the arrow points.
 
 3. Damage: Any model whose base lies underneath a template risks being hit by this weapon.
-
 
 ## Herald of Despair
 
 The tidings of woe uttered by Nekaph before battle are enough to break the spirits of even the most stout hearted folks.
 
 Any enemy unit that is in base contact with Nekaph or a unit he has joined must roll an extra D6 when making a Fear or Terror test, and discard the lowest result.
-
 
 ## Herdstones
 
@@ -2576,7 +2342,6 @@ Fearsome Edifice: Covered with strange sigils daubed in blood, an aura of evil s
 
 As with all special features, a Herdstone is an important landmark and controlling one at the end of a battle is a significant achievement. To represent this, if either player controls a Herdstone at the end of the battle, that player is awarded a bonus of 200 Victory Points.
 
-
 ## Hidden (Dark Elves)
 
 "Khainite Assassins hide amongst the ranks of Dark Elf infantry, revealing themselves only to strike at the enemy."
@@ -2584,7 +2349,6 @@ As with all special features, a Herdstone is an important landmark and controlli
 Khainite Assassins are not placed on the battlefield at the start of the game. Instead, they are 'hidden' within a friendly Dark Elf unit whose troop type is infantry and that has a Unit Strength of ten or more (excluding Harpies). Make a note of which unit each Assassin is hiding within. A hidden Assassin may be revealed during any Start of Turn sub-phase or at the start of any Combat phase. Position the revealed Assassin as you would a character that has joined the unit.
 
 If a unit in which a Khainite Assassin is hiding is destroyed or flees the battlefield before the Assassin is revealed, the Assassin is removed as a casualty. A Khainite Assassin cannot be your army General.
-
 
 ## Hidden (Skaven)
 
@@ -2594,7 +2358,6 @@ Master Assassins are not placed on the battlefield at the start of the game. Ins
 
 If a unit in which a Master Assassin is hiding is destroyed or flees the battlefield before the Master Assassin is revealed, the Master Assassin is removed as a casualty. A Master Assassin cannot be your army General.
 
-
 ## Hidden Trails
 
 "The Elves of Chrace are skilled woodsmen and trackers all, able to traverse hidden trails through hostile terrain and descend upon their enemies unexpectedly."
@@ -2603,13 +2366,11 @@ If a unit in which a Master Assassin is hiding is destroyed or flees the battlef
 
 In addition, once per game, after rolling to determine if a unit with the Ambushers special rule that is currently held in reserve as reinforcements arrives, you may apply a +1 or -1 modifier to the result.
 
-
 ## Hit & Run
 
 Scout Gyrocopters appear from nowhere, descending quickly from the skies or emerging unexpectedly from behind dense terrain, to strike at the enemy before vanishing again.
 
 Should it win a round of combat, a unit with this special rule may choose to Fall Back in Good Order rather than making a follow up or pursuit move.
-
 
 ## Hit 'em Fast and Hit 'em 'Ard
 
@@ -2617,13 +2378,11 @@ Boar Boyz are renowned for their hitting power, but those who spend a lifetime i
 
 Within a Nomadic Waaagh! army, any Orc model that is mounted on a War Boar (Black Orc Bosses, Orc Bosses, Orc Shamans and Orc Boar Boyz) gains the Impact Hits (1) special rule. These Impact Hits are made using the Strength characteristic of the War Boar and have an Armour Piercing characteristic of -1. In addition, 0-1 Orc Boar Boyz Mob per 1,000 points may have the Vanguard special rule for +1 point per model.
 
-
 ## Holy Fervour
 
 "The presence of the War Altar of Sigmar fills those that march beside it with courage and a grim resolve to overcome their fears in defence of the Empire."
 
 Unless this unit is fleeing, friendly units within 6" of it automatically pass any Fear tests they are required to make and can re-roll any failed Panic tests.
-
 
 ## Horn of Isha
 
@@ -2631,25 +2390,21 @@ Unless this unit is fleeing, friendly units within 6" of it automatically pass a
 
 Single use. During the Command sub-phase of their turn, this character may attempt to use the Horn of Isha by making a Leadership test (using their own Leadership). If this test is passed, until your next Start of Turn sub-phase, this character and any unit they have joined gain a +1 modifier to both their rolls To Hit and their rolls To Wound.
 
-
 ## Hostile Terrain
 
 Under the watchful eye of a Sapper, those under their command will constantly be working to ensure the battlefield is an especially dangerous place for the enemy.
 
 Any enemy model that ends its movement within the Command range of one or more characters with this special rule (that are not fleeing or engaged in combat) must make a Dangerous Terrain test.
 
-
 ## Human Form
 
 In their Human form, the Dragons of Grand Cathay are wise and beloved leaders that walk amongst their people and fight alongside them in battle. Whilst in their Human form, a Cathayan Dragon follows the rules for a character whose troop type is heavy infantry.
-
 
 ## Hunting Packs
 
 Though traditionally employed as skirmishers, some Wolf Rider mobs amass in larger numbers, allowing their wolves to get up close and personal with their prey.
 
 Any Goblin Wolf Rider Mob within a Nomadic Waaagh! army may exchange the Open Order and Skirmishers special rules with the Close Order and Horde special rules.
-
 
 ## Ignore Goblin Panic
 
@@ -2659,13 +2414,11 @@ This unit does not have to make a Panic test when a friendly Goblin unit is dest
 
 Note that, for the purposes of this rule, a Goblin unit is considered to be any unit that is made up entirely of Goblins of any kind, mounted or otherwise. This includes any war machine or chariot that is crewed entirely by Goblins. Should a Goblin unit be joined by an Orc character, it is no longer considered to be a Goblin unit.
 
-
 ## Ignore Panic
 
 Black Orcs don't expect much in the way of bravery or discipline from their dim-witted kin, so are rarely perturbed by the sight of them legging it.
 
 This unit does not have to make a Panic test when a friendly unit that does not also have this special rule is destroyed or Breaks and flees from combat whilst within 6" of it. Nor does this unit have to make a Panic test when it is fled through by a friendly unit that does not have this special rule.
-
 
 ## Immortal Overseer
 
@@ -2673,20 +2426,17 @@ Under the cruel gaze of an Arch Necrotect, even the emotionless skeletal servant
 
 During the Command sub-phase of their turn, this character may attempt to drive a single friendly unit within their Command range to greater efforts by making a Leadership test (using their own Leadership). If this test is passed, until your next Start of Turn sub-phase that unit gains a +D3 modifier to its Initiative characteristic (to a maximum of 10).
 
-
 ## Impervious Defence
 
 "A Bastiladon is protected by a thick leathery skin, scales and massive iron-like plates."
 
 Enemy units cannot claim any bonus combat result points for being engaged with this model's flank or rear arc.
 
-
 ## Implacable
 
 Once given orders, a Cathayan Sentinel will not falter in its duty, relentlessly carrying out its last commands until the task is complete.
 
 Once per game, during a turn in which it was charged, this model may choose not to Give Ground should it lose a round of combat. In addition, once per game this model may re-roll its Charge roll.
-
 
 ## Implacable Defence
 
@@ -2696,13 +2446,11 @@ A unit with this special rule that is arrayed in a Close Order formation, and th
 
 However, if the winning side significantly outnumbers the losing side, it will overwhelm the loser. If the Unit Strength of the winning side is more than twice that of the losing side, this unit cannot use this special rule and must Give Ground as normal.
 
-
 ## In Tune With Nature
 
 "The mages of Athel Loren have learned to draw upon the magic of the forest to smite their enemies and aid their allies."
 
 In addition to the Lores of Magic they may normally know spells from, Wood Elf Mages, Treeman Ancients and Branchwraiths within a Host of Talsyn army may know spells from the Lore of the Wilds Lore of Magic.
-
 
 ## Indiscriminate Hunger
 
@@ -2716,13 +2464,11 @@ If this test is passed, the enemy manages to avoid the grasping Troll Hag. This 
 
 Each time an enemy unit loses a Wound as a result of an Indiscriminate Hunger attack, the Troll Hag recovers a single lost Wound.
 
-
 ## Infernal Engineer
 
 "Under the scornful gaze of their masters, the gun crews of Zharr-Naggrund are amongst the finest artillerists in all the known world."
 
 Unless this model is fleeing or engaged in combat, once per turn a friendly war machine that is within its Command range may re-roll one Scatter dice or one Artillery dice.
-
 
 ## Infernal Favour (X)
 
@@ -2732,20 +2478,17 @@ A unit with this special rule reduces the number of wounds suffered due to the D
 
 Note that this special rule is not cumulative. If two or more models in a unit have this special rule, use the highest value for the entire unit.
 
-
 ## Infested
 
 "Legend has it that, when slain, Terrorgheists explode into great clouds of multitudinous, swarming bats."
 
 When this model loses its last Wound, every unit in base contact with it (friend or foe) suffers D6 Strength 2 hits, each with an AP of -1.
 
-
 ## Inner Circle
 
 "Knights of the Inner Circle are counted amongst the best warriors of the Empire, and when they go to war it is only to fight the most diabolical enemies. The presence on the battlefield of even a single regiment of Inner Circle knights is worth many times their number."
 
 When engaged in combat, a model with this special rule (but not its mount) may re-roll any rolls To Hit of a natural 1.
-
 
 ## Invocation of Nehek
 
@@ -2761,13 +2504,11 @@ If the unit's troop type is monstrous infantry, heavy cavalry, monstrous cavalry
 
 If the unit's troop type is heavy chariot, monstrous creature, behemoth or war machine, it recovers a single Wound.
 
-
 ## Ithilmar Armour/Ithilmar Barding
 
 "Ithilmar is a wondrous and lightweight metal found only in Vaul's Anvil, the largest volcano in Ulthuan. A warrior wearing a gleaming suit of Ithilmar armour enjoys great protection and freedom of movement, enabling them to traverse the most hostile of terrain with ease."
 
 A model with this special rule may re-roll any rolls of 1 when making Dangerous Terrain tests. In addition, a Wizard with this special rule may wear armour without penalty.
-
 
 ## Ithilmar Weapons
 
@@ -2777,20 +2518,17 @@ When engaged in combat, a model with this special rule that is fighting with a h
 
 Note that this special rule only applies to a single, non-magical hand weapon and does not apply to a model's mount (should it have one). If the model is using two hand weapons or any other sort of weapon, this special rule ceases to apply.
 
-
 ## Jade Sentinel
 
 Living statues crafted from gleaming, jade megaliths by the Wizards of the Celestial Court, Jade Sentinels become conduits for sorcery, able to use spells bound to the magical stone of their bodies.
 
 A Jade Sentinel knows a single spell (chosen by their controlling player before armies are deployed from either the Battle Magic or Elementalism Lore of Magic. It may cast this spell as a Bound spell with a Power Level of 3.
 
-
 ## Ker-splat
 
 Mangler Squigs are careless beasts that bound merrily through life. Unfortunately, this can often lead to injury when they encounter terrain unwilling to get out of their way!
 
 Mangler Squigs treat all difficult terrain as dangerous terrain.
-
 
 ## Khopesh
 
@@ -2799,7 +2537,6 @@ A Khopesh is a heavy curved blade of bronze with a cutting edge hammered to a wi
 A hand weapon carried by a model with this special rule has an Armour Piercing characteristic of -1.
 
 Note that this special rule only applies to a single, ordinary hand weapon and does not apply to a model's mount (should it have one). If the model is using two hand weapons or any other sort of weapon, this special rule ceases to apply.
-
 
 ## King of the Slayer Hold
 
@@ -2813,13 +2550,11 @@ Daemon Slayers and Dragon Slayers may be taken as Character choices
 
 0-4 Doomseekers per 1,000 points may be taken as Special choices
 
-
 ## King's Guard
 
 "Since the time of Caledor the First, the fierce warriors of Chrace have been the closest bodyguards of Elven kings and princes."
 
 Any model in a unit of White Lions of Chrace that has been joined by your army's General can issue and accept challenges in the same manner as a character. Should your General leave the unit for any reason, the unit loses this ability.
-
 
 ## Knights of Morr
 
@@ -2827,13 +2562,11 @@ Any model in a unit of White Lions of Chrace that has been joined by your army's
 
 An army of the Knights of Morr may include Wizard Lords and Master Mages as Character choices. However, your army cannot include any Lectors of Sigmar, Priests of Sigmar, High Priests of Ulric or Priests of Ulric.
 
-
 ## Knights of the Blazing Sun
 
 "Templars of Myrmidia, the Knights of the Blazing Sun are sophisticated warriors, famed for their mastery of war."
 
 An army of the Knights of the Blazing Sun may include 0-2 Master Mages as Character choices per 1,000 points, and 0-1 Great Cannon or Mortar as a Special choice per 1,000 points. However, your army cannot include any Lectors of Sigmar or High Priests of Ulric.
-
 
 ## Knights of the Fiery Heart
 
@@ -2841,13 +2574,11 @@ An army of the Knights of the Blazing Sun may include 0-2 Master Mages as Charac
 
 An army of the Knights of the Fiery Heart may include any number of units of Flagellants as Rare choices. However, your army cannot include any High Priests of Ulric or Priests of Ulric.
 
-
 ## Knights of the White Wolf
 
 "Devotees of Ulric, the Knights of the White Wolf are ferocious warriors who fight to defend the lands of Man."
 
 An army of the Knights of the White Wolf may include any number of units of Teutogen Guard as Special choices, and 0-1 unit of Free Company Militia as a Core choice per 1,000 points. However, your army cannot include any Lectors of Sigmar, Priests of Sigmar or Witch Hunters.
-
 
 ## Knights Panther
 
@@ -2855,13 +2586,11 @@ An army of the Knights of the White Wolf may include any number of units of Teut
 
 An army of the Knights Panther may include 0-1 unit of Empire Knights or Inner Circle Knights belonging to the Order of the White Wolf as a Mercenary choice. This unit is not subject to the Misbehaving Mercenaries rules.
 
-
 ## Lance Formation
 
 Bretonnian knights make use of a powerful formation called the 'Lance'. This formation enables them to charge deep into enemy lines, causing great devastation.
 
 A unit consisting of models with this special rule may adopt a Lance formation.
-
 
 ## Lance Formations & Skirmishers
 
@@ -2871,13 +2600,11 @@ Models that can make base contact with the Lance are within the fighting rank. M
 
 Note that Skirmishers cannot blunt a Lance.
 
-
 ## Largely Insignificant
 
 "No matter how many Gnoblars meet violent ends, there always seems to be plenty more. Consequently, the usual response to the plight of a Gnoblar is laughter."
 
 Units with this special rule never cause friendly units to make Panic tests. However, a unit with this special rule cannot be joined by a character without this special rule.
-
 
 ## Lay In Wait
 
@@ -2885,13 +2612,11 @@ When the enemies of Settra march upon his lands, the great king of Nehekhara cal
 
 0-1 unit of Skeleton Skirmishers per 1,000 points may have the Ambushers special rule for free.
 
-
 ## Leader of the Pack (Beastmen)
 
 "Ungor Ravagers follow their charges to battle, goading them towards the enemy with jagged spears."
 
 Models with this special rule can be taken as part of a unit of Primal Warhounds. Models with this special rule must be positioned at the rear of their unit, making up its rear rank(s). Any Primal Warhounds the unit contains must always occupy the front rank(s) of the unit, pushing past any models with this special rule to get there if necessary (such as when the unit turns).
-
 
 ## Leader of the Pack (Skaven)
 
@@ -2901,7 +2626,6 @@ Models with this special rule can only be taken as part of a unit of Rat Ogres, 
 
 Note that a Master Moulder may issue and accept challenges even if they are not within the fighting rank.
 
-
 ## Leering Spirit
 
 "Leering spirits creep ahead of Kralmaw, corrupting the minds and bodies of the innocent."
@@ -2909,7 +2633,6 @@ Note that a Master Moulder may issue and accept challenges even if they are not 
 When Kralmaw is deployed, place a Leering Spirit marker anywhere on the battlefield that is not within 8" of an enemy unit. Once placed, a Leering Spirit marker does not move but has a 360 deg. line of sight. The marker cannot be charged, targeted or attacked in any way. However, if Kralmaw is removed from play as a casualty, the Leering Spirit marker is also removed from play. During the Shooting phase of each of Kralmaw's turns, the Leering Spirit marker may cast the Devolve spell from the Lore of Beasts as a Bound Spell with a Power Level of 3.
 
 Note that the Leering Spirit marker is ignored for the purposes of movement, combat and line of sight, as if it was not there. Should the presence of it interfere with the position of units, simply make note of its position and move it aside, replacing it when convenient to do so.
-
 
 ## Lightning Strike
 
@@ -2921,13 +2644,11 @@ When shooting with this weapon, draw a straight line, 8D6" in length, from the m
 | 2-4 | Energy Overload: Unfathomable energies spin the war machine around before it unleashes a potent blast of warp lightning. The Warp Lightning Cannon shoots with a Strength of 6 in a random direction, determined by rolling a Scatter dice. |
 | 5-6 | Fzzzt: With a high-pitched screech, followed by a descending, whirring noise, the energy dissipates harmlessly. The model fails to shoot this turn. |
 
-
 ## Lileath's Blessing
 
 "Lileath is the patron of seers and prophets, and many are her gifts to the Elves of Ulthuan. Those students of High Magic that earn her blessing become possessed of a profound understanding and ability to control the Winds of Magic."
 
 Once per turn, a model with this special rule may re-roll a single failed Casting roll.
-
 
 ## Lion Cloak
 
@@ -2935,13 +2656,11 @@ Once per turn, a model with this special rule may re-roll a single failed Castin
 
 A model with this special rule improves its armour value by 1 (to a maximum of 2+) against non-magical shooting attacks.
 
-
 ## Living Saints
 
 Each Grail Knight is a mighty champion in their own right. Together, they form a pantheon of living deities, their names spoken as a reverent mantra throughout the land.
 
 Every model in a unit of Grail Knights can issue and accept challenges in the same manner as a character.
-
 
 ## Look-out Gnoblar
 
@@ -2949,13 +2668,11 @@ Every model in a unit of Grail Knights can issue and accept challenges in the sa
 
 A champion or character that has joined a unit with this special rule may make a "Look Out, Sir!" roll if there are two or more rank and file models in the unit (rather than the usual five). In addition, you may re-roll a "Look Out, Sir!" roll if there are five or more rank and file models in the unit.
 
-
 ## Lumbering Destruction
 
 "The infernally-fuelled engines of the Chaos Dwarfs are mighty, smoke-belching powerhouses capable of considerable speed, but cursed with the temperament of an imprisoned Daemon."
 
 An Iron Daemon cannot march. Instead, you may roll a D6 and add its result to the model's Movement characteristic. However, if a natural 1 is rolled when making this roll, something has gone wrong deep within the infernal machine, rendering it immobile. The Iron Daemon halts immediately and cannot move again for the remainder of this turn.
-
 
 ## Maddening Aura
 
@@ -2963,23 +2680,19 @@ An Iron Daemon cannot march. Instead, you may roll a D6 and add its result to th
 
 During the Command sub-phase of its turn, any enemy unit that is within 8" of this model, including units that are fleeing or that are engaged in combat, must make a Leadership test. If this test is failed, the unit suffers D3 Strength 3 hits, with no armour or Regeneration saves permitted (Ward saves can be attempted as normal).
 
-
 ## Magics of the Dark Gods
 
 "The power of the gods of Chaos allows beasts with even a base cunning to possess great sorcerous talent, even if its wielder does not fully understand the great and terrible power they now wield."
 
 The General of a Minotaur Blood Herd must be a Doombull or Gorebull. For +35 points, this character may be a Level 1 Wizard, or for +65 points, this character may be a Level 2 Wizard. If so, this character knows spells from the Lore of Battle Magic or the Lore of Dark Magic. A Wizard with this special rule may wear armour without penalty.
 
-
 ## Manbane
 
 "When this character makes a roll To Wound, a roll of 4+ is always a success, regardless of the target's Toughness."
 
-
 ## Manoeuvring a Lance
 
 A unit in Lance formation may not turn or redress the ranks, but may wheel, move backwards, move sideways and reform as normal. When a unit in Lance formation wheels, its movement is measured from its second rank. All other movement is measured from the model at the front of the formation.
-
 
 ## Mark of Chaos Undivided
 
@@ -2987,13 +2700,11 @@ A unit in Lance formation may not turn or redress the ranks, but may wheel, move
 
 Models with the Mark of Chaos Undivided can re-roll any failed Fear, Panic or Terror test.
 
-
 ## Mark of Khorne
 
 "Warriors marked by Khorne are consumed with a violent rage and the constant need to shed the blood of their foes."
 
 Models with the Mark of Khorne have the Frenzy special rule.
-
 
 ## Mark of Nurgle
 
@@ -3001,20 +2712,17 @@ Models with the Mark of Khorne have the Frenzy special rule.
 
 Any enemy model that directs its attacks against a model with the Mark of Nurgle during the Combat phase must re-roll any rolls To Hit of a natural 6.
 
-
 ## Mark of Slaanesh
 
 "Devotees of Slaanesh have experienced sensations beyond comprehension, rendering them insensible to mortal fears."
 
 Models with the Mark of Slaanesh have +1 Initiative during the first round of any combat. Additionally, if the majority of the models in a unit have the Mark of Slaanesh, the unit automatically passes any Panic tests it is required to make.
 
-
 ## Mark of Tzeentch
 
 "Those who bear the ever-burning Mark of Tzeentch have a natural capacity to manipulate magic and unbind the weak spells of mere conjurors."
 
 Models with the Mark of Tzeentch have the Flaming Attacks and Magic Resistance (-1) special rules. In addition, if a Wizard with the Mark of Tzeentch has joined a unit with the Mark of Tzeentch that has a Unit Strength of 10 or more, they may apply a +1 modifier to any Casting roll they make. Should they leave the unit for any reason, or should the unit's Unit Strength fall below 10, this modifier is lost.
-
 
 ## Marks of Chaos
 
@@ -3032,13 +2740,11 @@ A character with the Mark of Chaos Undivided can join any unit as normal.
 
 Note that, with the exception of Daemonic Mounts, the benefits granted by a Mark of Chaos apply only to its bearer, not to their mount (should they have one).
 
-
 ## Martial Pride
 
 "Over time, the Blood Knights have become a macabre parody of the noble knights they once were, toying with their foes mercilessly in one-sided duels to the death."
 
 Every model in a unit of Blood Knights can issue and accept challenges in the same manner as a character. However, a unit with this special rule cannot refuse a challenge - if a challenge is issued and a model belonging to this unit could accept it, a model belonging to the unit must accept it.
-
 
 ## Master of Ballistics
 
@@ -3046,20 +2752,17 @@ Every model in a unit of Blood Knights can issue and accept challenges in the sa
 
 Unless this model is fleeing or engaged in combat, once per turn a friendly Empire war machine that is within its Command range can either use this model's Ballistic Skill characteristic, or re-roll a single Artillery dice.
 
-
 ## Master of Battle
 
 "The masters of the Knightly Orders are bold and ferocious warriors, fearless in the face of even the most terrifying enemies."
 
 If this model joins a unit of Empire Knights, Inner Circle Knights or Demigryph Knights, that unit will gain the Immune to Psychology special rule. Should this model leave a unit it has joined for any reason, that unit loses this special rule.
 
-
 ## Masterful Outriders
 
 The horsemen of a Royal Host are well practised at fighting beside their lord's chariots.
 
 0-1 unit of Skeleton Horse Archers per 1,000 points may have the Chariot Runners special rule for free.
-
 
 ## Mastery of the Elemental Winds
 
@@ -3068,7 +2771,6 @@ The Dragon Emperor's mastery over the Elemental Winds of Magic extends to his su
 Once per turn, a Wizard within your army that has this special rule and that is within 6" of one or more friendly Wizards that also have this special rule may apply a +1 modifier to a Casting roll.
 
 Note that this is a modifier to the result of a roll - it does not negate a roll of a natural double 1.
-
 
 ## Mastery of the Storm Winds
 
@@ -3086,13 +2788,11 @@ With a quick gesture, Miao Ying summons forth lightning from the skies to strike
 
 The target enemy unit suffers 2D3 Strength 5 hits, each with an AP of -3. These hits have the Flaming Attacks special rule. Once these hits have been resolved, the target enemy unit must Give Ground.
 
-
 ## Mercenary Commander
 
 "Hans has fought alongside and earned the respect of mercenary companies across the Old World, any of whom would answer his call to battle."
 
 If Hans is the army's General, friendly units with the Mercenaries special rule may benefit from his Inspiring Presence rule and may be joined by him. In addition, friendly Mercenary units are not subject to the Misbehaving Mercenaries rules.
-
 
 ## Mercenary Crew
 
@@ -3102,13 +2802,11 @@ An Ogre Loader is an additional crew member that can be taken as an upgrade to a
 
 The crew of any war machine joined by an Ogre Loader gains a + 1 modifier to its Movement characteristic and the Stubborn special rule. In addition, once per game, a Fire Rain Rocket Battery or Cathayan grand cannon that includes an Ogre Loader may fire twice during the Shooting phase, or re-roll a single Artillery dice.
 
-
 ## Mercenary Handgun Drill
 
 Many mercenary units have fought all across the warring states of the Empire, learning the tricks of the trade from elite soldiers in other mercenary bands and from within various standing armies.
 
 Once per game, each unit or detachment of State Missile Troops in a Jade Fleet army can fire with one additional rank.
-
 
 ## Mighty Constitution
 
@@ -3116,11 +2814,9 @@ Once per game, each unit or detachment of State Missile Troops in a Jade Fleet a
 
 During a turn in which he made a charge move of 3\" or more, Korhil gains a +1 modifier to his Strength characteristic. In addition, Korhil is immune to the Poisoned Attacks special rule. If he is hit by an attack with this special rule, the attacker must roll To Wound as normal.
 
-
 ## Mighty Swing (Bonegrinder Giant)
 
 The Bonegrinder Giant swings its club at its enemies. The target unit suffers D6+1 hits from the Bonegrinder Giant's club. For this attack, the Bonegrinder Giant's club has a Strength characteristic of S+1 and an AP of -2.
-
 
 ## Miner's Cart
 
@@ -3128,13 +2824,11 @@ Miners use carts to haul supplies of blasting powder deep underground. In times 
 
 Any Dwarf unit that is within 3" of a friendly Miner's Cart that is not fleeing or engaged in combat may make a Stand & Shoot charge reaction and/or a shooting attack as if it were equipped with Blasting Charges. Additionally, when a Miner's Cart loses its last Wound to an enemy attack during the Combat phase, roll a D6. On a roll of 4+, the Miner's Cart explodes and every unit (friend or foe) within 3" suffers D6 Strength 3 hits, each with an AP of -1 and with the Flaming Attacks special rule.
 
-
 ## Mixed Unit
 
 "Made up of both Gors and Ungors, Primal Warherds are a chaotic foe."
 
 Models within a Primal Warherd have different Weapon Skill and Toughness characteristics. Before rolling To Wound, hits caused by enemy shooting should be divided as evenly as possible between Gors and Ungors. In combat, enemy models must direct their attacks against models in the fighting rank of this unit.
-
 
 ## Mob Rule
 
@@ -3143,7 +2837,6 @@ Surrounded by big mobs of battle-hungry Orcs, Shamans crackle with barely-contro
 If this character has joined a unit of Orcs with a Unit Strength of 10 or more, they may apply a +1 modifier to any Casting roll they make. Should they leave the unit for any reason, or should the unit's Unit Strength fall below 10, this modifier is lost.
 
 Note that, for the purposes of this rule, a unit of Orcs is considered to be any unit that is made up entirely of Orcs or Black Orcs, mounted or otherwise.
-
 
 ## Motherly Love
 
@@ -3157,20 +2850,17 @@ Instead of attacking normally during the Combat phase, a Troll Hag may choose to
 | 3-4 | **Mother:** The Troll Hag chastises her foe as if it were a wayward offspring. Nominate a single model in the fighting rank of the target unit to be the target of this attack. That model is hit and suffers D3+1 wounds with no armour or Regeneration saves permitted (Ward saves can be attempted as normal). |
 | 5-6 | **Mither:** The Troll Hag bombards the enemy with a tirade of slaps and a torrent of unintelligible Trollish invective. The target unit suffers D6+1 hits, each using the Strength characteristic of this model, with no armour save permitted (Ward and Regeneration saves can be attempted as normal). In addition, so shocked is the target unit that, until the end of this turn, it suffers a -1 modifier to its Leadership characteristic. |
 
-
 ## Mounted Host
 
 "In the frigid wastelands at the top of the world, cohorts of mounted warriors thunder across the frozen earth in constant search of worthy adversaries."
 
 All characters within a Heralds of Darkness army must be mounted or have the Fly (X) special rule.
 
-
 ## Mournfang Charge
 
 "Driven by the momentum of the charge, the monstrous tusks of a Mournfang pierce through armour with ease to gore the enemy deeply."
 
 Impact Hits caused by a model with this special rule have the Armour Bane (1) special rule and an Armour Piercing characteristic of -1.
-
 
 ## Murderous
 
@@ -3179,7 +2869,6 @@ Impact Hits caused by a model with this special rule have the Armour Bane (1) sp
 When engaged in combat, a model with this special rule that is fighting with a hand weapon may re-roll any rolls To Wound of a natural 1.
 
 Note that this special rule only applies to a single, non-magical hand weapon and does not apply to a model's mount (should it have one). If the model is using two hand weapons or any other sort of weapon, this special rule ceases to apply.
-
 
 ## My Will Be Done
 
@@ -3195,7 +2884,6 @@ Strike like the Cobra!": +D3 Initiative.
 
 Note that this special rule is not cumulative. In other words, using it more than once on the same unit during the same turn has no further effect.
 
-
 ## Naval Discipline
 
 "The citizens of Lothern are justifiably proud of the discipline of the Sea Guard regiments. These skilled warriors drill for many hours, perfecting the art of firing a volley of shots even as they redress their ranks to receive the enemy's charge."
@@ -3203,7 +2891,6 @@ Note that this special rule is not cumulative. In other words, using it more tha
 A unit of Lothern Sea Guard may use this special rule when it makes a Stand & Shoot charge reaction. A unit that does so can make a Stand & Shoot charge reaction regardless of how close the charging unit is. Once this shooting has been resolved, the charged unit may make a free redress the ranks manoeuvre, after which it will Hold and await the charging unit.
 
 Units that are fleeing, that are already engaged in combat when charged, or that have been joined by a character that does not have this special rule cannot use this special rule.
-
 
 ## Necromantic Undead
 
@@ -3221,7 +2908,6 @@ Unstable
 
 A character with this special rule cannot join a unit without this special rule, and vice versa.
 
-
 ## Nehekharan Phalanx
 
 The warriors of ancient Nehekhara are implacable foes and, with their tall shields locked together, present an all but immovable barrier to the enemy's advance.
@@ -3229,7 +2915,6 @@ The warriors of ancient Nehekhara are implacable foes and, with their tall shiel
 A unit with this special rule that is arrayed in a Close Order formation, and that is equipped with and chooses to use shields, may choose not to Give Ground should it lose a round of combat.
 
 However, if the winning side significantly outnumbers the losing side, it will overwhelm the loser. If the Unit Strength of the winning side is more than twice that of the losing side, this unit cannot use this special rule and must Give Ground as normal.
-
 
 ## Nehekharan Undead
 
@@ -3247,7 +2932,6 @@ Unstable
 
 A character with this special rule cannot join a unit without this special rule, and vice versa.
 
-
 ## Netters
 
 In dark underground tunnels, Night Goblins throw nets to entangle their prey.
@@ -3256,11 +2940,9 @@ When this unit's combat is chosen during Step 1.1 of any Choose & Fight Combat s
 
 Note that this modifier is not cumulative.
 
-
 ## Noble Disdain
 
 A model with this special rule whose troop type is Cavalry does not have to make a Panic test when a friendly unit whose troop type is infantry is destroyed whilst within 6" of it, or when it is fled through by a friendly unit whose troop type is infantry.
-
 
 ## Nuln State Troops
 
@@ -3268,11 +2950,11 @@ A model with this special rule whose troop type is Cavalry does not have to make
 
 Regiments of Nuln State Troops and Nuln Veteran State Troops are made as follows, using the profiles for State Troops and Veteran State Troops in the Empire of Man army list, accompanied by detachments of State Missile Troops:
 
-- A regiment of Nuln State Troops consists of a regimental unit of State Troops, accompanied by 1-2 detachments of State Missile Troops and/or Swordsmen.
-- A regiment of Nuln Veteran State Troops consists of a regimental unit of Veteran State Troops, accompanied by 1-2 detachments of State Missile Troops and/or Swordsmen.
-- Each unit of State Troops or Veteran State Troops must be equipped with halberds.
-- Each detachment of State Missile Troops must be equipped with handguns.
-- A detachment of Swordsmen consists of State Troops equipped with hand weapons and shields.
+A regiment of Nuln State Troops consists of a regimental unit of State Troops, accompanied by 1-2 detachments of State Missile Troops and/or Swordsmen.
+A regiment of Nuln Veteran State Troops consists of a regimental unit of Veteran State Troops, accompanied by 1-2 detachments of State Missile Troops and/or Swordsmen.
+Each unit of State Troops or Veteran State Troops must be equipped with halberds.
+Each detachment of State Missile Troops must be equipped with handguns.
+A detachment of Swordsmen consists of State Troops equipped with hand weapons and shields.
 
 Unlike regular detachments, detachments in a regiment of Nuln State Troops may upgrade one model to a Sergeant (champion) for free.
 
@@ -3283,13 +2965,11 @@ Unlike regular detachments, detachments in a regiment of Nuln State Troops may u
 
 Whilst in base contact with this model, enemy models suffer a -1 modifier to their Weapon Skill and Initiative characteristics, to a minimum of 1.
 
-
 ## Oathstone
 
 By standing atop a dressed stone inscribed with powerful runes and ancestral oaths of vengeance, a Lord increases the resolve of their followers and ensures that no foe can escape their wrath.
 
 Challenges issued by a character with an Oathstone cannot be refused. In addition, a character with an Oathstone and any unit they have joined automatically passes any Panic tests they are required to make, but cannot choose to Flee as a charge reaction.
-
 
 ## Obsidian Blades
 
@@ -3299,13 +2979,11 @@ A hand weapon carried by a model with this special rule has an Armour Piercing c
 
 Note that this special rule only applies to a single, non-magical hand weapon and does not apply to a model's mount (should it have one). If the model is using two hand weapons or any other sort of weapon, this special rule ceases to apply.
 
-
 ## Obsidian Sentinel
 
 An air of chill hangs about the Obsidian Sentinels, stilling the Winds of Magic and blinding the Mage-sight of those Wizards who would seek to harm the Celestial Dragon's realm.
 
 An Obsidian Sentinel has the Magic Resistance (-2) special rule. In addition, any enemy Wizard that wishes to cast a spell whilst within 12" of one or more Obsidian Sentinels must first make a Leadership test. If this test is failed, the Wizard's Casting roll suffers a -3 modifier. If this test is passed, the Wizard's Casting roll suffers a -1 modifier.
-
 
 ## Oi! Dis Way
 
@@ -3313,13 +2991,11 @@ To put it kindly, Trolls are remarkably unencumbered by intellect. However, when
 
 Unless the character is fleeing, friendly Troll Mobs within a Troll Horde army that are within the Command range of an Orc Shaman, Goblin Shaman or Troll Hag can use the Leadership characteristic of that character instead of their own.
 
-
 ## Old World Rangers
 
 "The warriors of Nagarythe work closely with Sea Guard garrisons throughout the Old World, ranging far ahead of the Sea Lord's armies to strike at his enemies from unexpected directions."
 
 0-1 unit of Shadow Warriors with a Unit Strength of 10 or less in a Sea Guard Garrison Army of Infamy may have the Ambushers special rule for free.
-
 
 ## On Da Move
 
@@ -3327,13 +3003,11 @@ Those in a nomadic Waaagh! who find themselves without a mount are not only mock
 
 All characters within a Nomadic Waaagh! army must be mounted.
 
-
 ## Parry (Wood Elves)
 
 "Thanks to hours spent training with unmatched intensity, the protectors of Talsyn's sacred sites are able to effortlessly turn aside their opponents' blows."
 
 When fighting with a hand weapon and shield, or Asrai spear and shield, this unit improves its armour value by 1.
-
 
 ## Pavise
 
@@ -3341,13 +3015,11 @@ When fighting with a hand weapon and shield, or Asrai spear and shield, this uni
 
 A pavise gives its wielder a 4+ armour value against attacks made by enemy models that lie within the wielder's front arc. However, a pavise offers no protection to its wielder against attacks made by enemy models that lie within the wielder's flank or rear arcs.
 
-
 ## Peasant's Duty
 
 It is the role of a Sergeant-at-Arms to keep discipline amongst the ragged ranks of commoners. Should they fail and cause their liege embarrassment upon the field, the penalties can be most severe.
 
 This character and any unit they have joined may choose to Give Ground rather than Fall Back in Good Order, and does not have to make a Panic test when a friendly unit of Levies Breaks and flees from combat whilst within 6" of it. Additionally, unless this character is fleeing, any friendly unit that is within their Command range and has the Levies special rule may re-roll a failed Panic test.
-
 
 ## Peasantry
 
@@ -3355,13 +3027,11 @@ The low-born peasants of Bretonnia habitually look to their knightly betters for
 
 If a unit with this special rule is within 6" of a friendly model that has the Knight's Vow, the Questing Vow or the Grail Vow, and if that model is not fleeing, this unit can use that model's Leadership characteristic instead of its own. In addition, a standard carried by a unit with this special rule cannot be counted as a trophy of war. A character with this special rule can only join a unit that also has this special rule.
 
-
 ## Peerless Raider
 
 "Frydaal has raided the coastlines of the Empire and Kislev for many seasons and is second to none when it comes to orchestrating lightning-fast strikes along the Old World's northern shores."
 
 0-1 unit of Chaos Marauders or Marauder Horsemen in the same muster list as Frydaal may have the Ambushers special rule for free. In addition, if Frydaal is your General, you may apply a +1 or -1 modifier to the result when rolling to determine if she or any unit of Chaos Marauders, Marauder Horsemen, Marauder Tribe Huscarls or Marauder Tribe Berserkers with the Ambushers special rule that is currently held in reserve arrives this turn as reinforcements or is delayed.
-
 
 ## Phalanx
 
@@ -3369,13 +3039,11 @@ A Close Order unit in which the majority of models have this special rule is con
 
 If a unit with this special rule wishes to adopt Marching Column and march at triple its Movement characteristic, it must be deeper than it is wide and contain fewer models per rank than it requires to claim a rank bonus.
 
-
 ## Plague Proboscis
 
 +1 Initiative
 
 Note that if this unit takes Plague Proboscises, the Initiative modifier applies only to the Rot Flies, not to their riders.
-
 
 ## Poisoned Wind
 
@@ -3384,7 +3052,6 @@ Note that if this unit takes Plague Proboscises, the Initiative modifier applies
 When a model using a weapon with this special rule makes a roll To Wound, a roll of 6+ is always a success, even if the target's Toughness is so high that the weapon would not normally be able to wound it. Finally, no armour save is permitted against wounds caused by a weapon with this special rule (Ward and Regeneration saves can be attempted as normal).
 
 Note that models wielding weapons that have this special rule are immune to this special rule.
-
 
 ## Praising the Gods
 
@@ -3398,16 +3065,14 @@ Cult of the Slithering Serpent
 
 Cult of the Fell Raptor
 
-
 ## Prayer of the Damned
 
 "Driven even further into despair by the doom-laden words of the Prayer of the Damned, Flagellant warbands shrug off even the most grievous of wounds."
 
 During the Command sub-phase of their turn, this character may attempt to chant the Prayer of the Damned by making a Leadership test (using their own Leadership). If this test is passed, until your next Start of Turn sub-phase, this character and any unit they have joined gains:
 
-- A 6+ Ward save against any wounds suffered.
-- A 5+ Ward save against any wounds suffered that were caused in combat by an enemy with the Fear or Terror special rules.
-
+A 6+ Ward save against any wounds suffered.
+A 5+ Ward save against any wounds suffered that were caused in combat by an enemy with the Fear or Terror special rules.
 
 ## Prayers of Sigmar
 
@@ -3415,14 +3080,13 @@ During the Command sub-phase of their turn, this character may attempt to chant 
 
 During the Command sub-phase of their turn, this character may attempt to invoke Sigmar's blessings by chanting a single Prayer from the list below and making a Leadership test (using their own Leadership). If this test is passed, the Prayer takes immediate effect:
 
-- Hammer of Sigmar: Until your next Start of Turn sub-phase, this model, its mount and a single friendly unit that is within its Command range when this Prayer is chanted may re-roll any rolls To Hit or To Wound of a natural 1 made during the Combat phase.
-- Shield of Faith: Until your next Start of Turn sub-phase, this model and a single friendly unit that is within its Command range when this Prayer is chanted has a 5+ Ward save against any wounds suffered during the Shooting phase.
-- Soulfire: A single enemy unit this model is engaged in combat with immediately suffers D6 Strength 3 hits, each with an AP of -2. These hits have the Flaming Attacks and Magical Attacks special rules.
+Hammer of Sigmar: Until your next Start of Turn sub-phase, this model, its mount and a single friendly unit that is within its Command range when this Prayer is chanted may re-roll any rolls To Hit or To Wound of a natural 1 made during the Combat phase.
+Shield of Faith: Until your next Start of Turn sub-phase, this model and a single friendly unit that is within its Command range when this Prayer is chanted has a 5+ Ward save against any wounds suffered during the Shooting phase.
+Soulfire: A single enemy unit this model is engaged in combat with immediately suffers D6 Strength 3 hits, each with an AP of -2. These hits have the Flaming Attacks and Magical Attacks special rules.
 
 Note that, if more than one friendly unit is within this model's Command range when this Prayer is chanted, you must tell your opponent which unit is affected.
 
 Note also that the effects of these Prayers on friendly units are not cumulative. In other words, a friendly unit cannot be affected by the same Prayer more than once during the same turn.
-
 
 ## Prayers of Ulric
 
@@ -3430,14 +3094,13 @@ Note also that the effects of these Prayers on friendly units are not cumulative
 
 During the Command sub-phase of their turn, this character may attempt to invoke Ulric's blessings by chanting a single Prayer from the list below and making a Leadership test (using their own Leadership). If this test is passed, the Prayer takes immediate effect:
 
-- Battle Howl: Until your next Start of Turn sub-phase, when this model and a single friendly unit that is within its Command range when this Prayer is chanted makes a Charge roll, you may apply a +D3 modifier to the result. This Prayer may only affect models whose troop type is infantry or cavalry.
-- Winter's Chill: Until your next Start of Turn sub-phase, any enemy model that directs its attacks against this model, its mount or any unit it has joined during the Combat phase must re-roll any rolls To Hit of a natural 6.
-- Wrath of Winter: Until your next Start of Turn sub-phase, this model, its mount and any unit it has joined gains the Multiple Wounds (2) special rule.
+Battle Howl: Until your next Start of Turn sub-phase, when this model and a single friendly unit that is within its Command range when this Prayer is chanted makes a Charge roll, you may apply a +D3 modifier to the result. This Prayer may only affect models whose troop type is infantry or cavalry.
+Winter's Chill: Until your next Start of Turn sub-phase, any enemy model that directs its attacks against this model, its mount or any unit it has joined during the Combat phase must re-roll any rolls To Hit of a natural 6.
+Wrath of Winter: Until your next Start of Turn sub-phase, this model, its mount and any unit it has joined gains the Multiple Wounds (2) special rule.
 
 Note that, if more than one friendly unit is within this model's Command range when this Prayer is chanted, you must tell your opponent which unit is affected.
 
 Note also that the effects of these Prayers on friendly units are not cumulative. In other words, a friendly unit cannot be affected by the same Prayer more than once during the same turn.
-
 
 ## Precision Strikes
 
@@ -3445,13 +3108,11 @@ Note also that the effects of these Prayers on friendly units are not cumulative
 
 A Lothern Sea Guard unit joined by Ishaya Vess improves the Armour Piercing characteristic of its weapons by 1.
 
-
 ## Prepared Positions
 
 Burlok is an expert at organising the hasty construction of defensible barriers to ensure his artillery and missile troops are protected from harm.
 
 During deployment, you may 'Entrench' a single non-character model whose troop type is war machine and a single unit of Quarrellers or Thunderers. An Entrenched unit is considered to be behind partial cover and to be defending a low linear obstacle. Should an Entrenched unit move for any reason, it is no longer Entrenched.
-
 
 ## Pride of the Fleet
 
@@ -3459,8 +3120,7 @@ During deployment, you may 'Entrench' a single non-character model whose troop t
 
 Units of Sea Guard in a Sea Guard Garrison Army of Infamy gain the Regimental Unit special rule. In addition:
 
-- 0-1 unit of Sea Guard per 1,000 points in a Sea Guard Garrison Army of Infamy may have the Drilled special rule for free.
-
+0-1 unit of Sea Guard per 1,000 points in a Sea Guard Garrison Army of Infamy may have the Drilled special rule for free.
 
 ## Primal Fury
 
@@ -3468,13 +3128,11 @@ Units of Sea Guard in a Sea Guard Garrison Army of Infamy gain the Regimental Un
 
 When this unit's combat is chosen during Step 1.1 of any Choose & Fight Combat sub-phase, it must make a Leadership test. If this test is passed, the unit becomes subject to "Primal Fury" until the end of this Combat phase. A unit subject to Primal Fury may re-roll any rolls To Hit of a natural 1.
 
-
 ## Primeval Roar
 
 "The wailing cry of a Troglodon stirs the savagery within all Lizardmen and proves they have the Old Ones' favour."
 
 Once per game, during the Command sub-phase of their turn, this model may attempt to unleash the primeval savagery of the Lizardmen by making a Leadership test (using its own Leadership). If this test is passed, until the end of that turn all friendly Lizardmen units within 7" of this model gain the Furious Charge special rule.
-
 
 ## Protect Da Boss
 
@@ -3482,18 +3140,15 @@ The Trolls that accompany Ogdruz will dutifully shield him from harm.
 
 This model cannot be targeted by enemy shooting or by enemy spells whilst it is within 3" of a friendly Troll Mob, unless this model is the closest target.
 
-
 ## Protectors of the Ancient Wood
 
 "The warriors of Talsyn are responsible for the protection of Athel Loren's most significant and important locations."
 
 Whilst it controls a special feature, a unit within a Host of Talsyn army may re-roll any rolls To Hit and To Wound of a natural 1 during the Combat phase.
 
-
 ## Quake
 
 Until your next Start of Turn sub-phase, any unit (friend or foe) that was within 2D6" of the central hole of the blast template after scattering suffers a -1 modifier to its Movement characteristic and cannot use the Swiftstride special rule.
-
 
 ## Quell Impetuosity
 
@@ -3501,13 +3156,11 @@ Where most Orcs and Goblins are impetuous, Black Orcs are disciplined warriors. 
 
 Whilst within 6" of a unit with this special rule, a friendly Impetuous unit may re-roll a failed Leadership test when testing to determine if it must declare a charge or act as normal.
 
-
 ## Quell Panic
 
 "Infernal Ironsworn are the black-armoured custodians of Zharr-Naggrund. The mere presence of these ruthless overseers is enough to bolster the nerve of cowardly conscripts."
 
 Unless this unit is fleeing, any friendly unit that is within 6" of this unit and that has the Levies special rule may re-roll a failed Panic test.
-
 
 ## Rampant Mutation
 
@@ -3521,20 +3174,17 @@ When this unit's combat is chosen during Step 1.1 of any Choose & Fight Combat s
 | 3-4 | **Razor Talons:** With talons like the blades of daggers, the Forsaken slash at their enemies. Until the end of this Combat phase, all of the unit's attacks have an Armour Piercing characteristic of -2. |
 | 5-6 | **Decapitating Claws:** With gigantic, snapping claws, the Forsaken dismember the enemy. Until the end of this Combat phase, the unit gains the Killing Blow special rule. |
 
-
 ## Range Finding Optics
 
 Thanks to an eccentric collection of glass lenses, Burlok is able to accurately direct Dwarfen firepower even at extreme ranges.
 
 Unless Burlok is fleeing or engaged in combat, once per turn, during the Shooting phase, a friendly unit of Quarrellers, Thunderers or a Dwarf war machine that is within his Command range can either re-roll any rolls To Hit of a natural 1, or re-roll a single Artillery dice. In addition, Burlok and any unit he has joined do not suffer the usual -1 To Hit modifier when shooting at Long Range.
 
-
 ## Ravenous Hunger
 
 "When a Gorger latches onto the scent of its prey, it becomes an unstoppable juggernaut intent on nothing other than feasting on a banquet of flesh and blood."
 
 When a Gorger declares a charge, it may re-roll its Charge roll.
-
 
 ## Reclaimed Glory
 
@@ -3543,7 +3193,6 @@ Those banished from Bretonnia know that it is through deeds, not prayers, that t
 A Bretonnian Exiles army cannot pray for the Blessings of the Lady at the beginning of the game. However, should a unit with the Blessings of the Lady special rule make an overrun move or make contact with a fleeing enemy unit during a charge or pursuit move, that unit will immediately gain the benefits of the Blessings of the Lady special rule as if it had prayed at the start of the game. Additionally, should a character with the Blessings of the Lady special rule kill an enemy character in a challenge, they (and any unit they have joined) will immediately gain the benefits of the Blessings of the Lady special rule.
 
 However, should the benefits of the Blessing of the Lady special rule be lost during a game, they cannot be regained again in this way.
-
 
 ## Release the Fanatics
 
@@ -3564,13 +3213,11 @@ Although dangerous, any unit may move through a Fanatic. Should a unit ever end 
 Death of a Fanatic
 A Fanatic model cannot be charged, targeted or attacked in any way. However, the life of a Fanatic is no less dangerous for this. Should a Fanatic find itself lying fully or partially underneath a template (one placed over a nearby unit, for example, or that has scattered), it risks being hit as normal. Additionally, if any natural double is rolled for its movement, or if a Fanatic moves into any difficult, dangerous or impassable terrain, or any type of linear obstacle, it comes to a sudden and terminal stop, and is immediately removed from play as a casualty. Finally, if a concealing unit is destroyed or flees the battlefield before its Fanatics have been released, they are removed as casualties.
 
-
 ## Relentless Warriors
 
 "Be it religious fanaticism or just a desperate need to shed the blood of their enemies, these unhinged brawlers can shrug off wounds that would lay low even the hardiest warriors."
 
 A model with this special rule has a 6+ Ward save against any wounds suffered that were caused by a non-magical enemy attack.
-
 
 ## Retinue of the Saints
 
@@ -3578,13 +3225,11 @@ Wherever the Grail Knights travel, they gather a following of fanatical worshipp
 
 Your army may include up to one Grail Reliquae for every character or unit with the Grail Vow it includes.
 
-
 ## Riches & Heirlooms
 
 The Royal Clans of the Dwarfs are amongst the wealthiest denizens of the Old World, and such extravagant wealth means they march to war well-equipped with the finest armour and weapons.
 
 Character models in this army may spend an additional 25 points on runes. In addition, units that are able to purchase Standard runes may spend an additional 25 points on Standard runes (with the exception of Royal Clan Warriors, who already have this bonus included on their profile).
-
 
 ## Roaming Warbands
 
@@ -3596,20 +3241,17 @@ Any number of Beastmen Chieftains and Centigor Chieftains may have the Ambushers
 
 In addition, 0-1 Gor Herd, Ungor Herd or Centigor Herd per 1,000 points with a Unit Strength of 10 or less may be given the Ambushers special rule for free.
 
-
 ## Royal Guard
 
 A Hammerer's duty is a sacred thing and, bound by oath, they will fight to the death to protect the royal blood. For the leader of the throng, a Hammerer will gladly give their life rather than face the dishonour of failure.
 
 Your army may include one unit of Hammerers for every King or Thane it includes. Any model in a unit of Hammerers that has been joined by a King or Thane can issue and accept challenges in the same manner as a character. Should the King or Thane leave the unit for any reason, the unit loses this ability.
 
-
 ## Run with the Pack
 
 "Having long hunted with their packs, Elven Beast Keepers keep pace with their charges whilst instilling them with discipline."
 
 Whilst one or more Beast Keeper remains within this unit, the unit is not subject to the Undisciplined rule and war beasts within this unit do not fear models with the Flaming Attacks special rule. In addition, a unit with this special rule may use the Movement characteristic of the majority of the models in the unit.
-
 
 ## Rune Lore
 
@@ -3623,11 +3265,9 @@ A Runelord has a Dispel range of 21" and may apply a +2 modifier to their Dispel
 
 A Runesmith has a Dispel range of 18" and may apply a +1 modifier to their Dispel rolls.
 
-
 ## Rune of Khaine
 
 "This character has the Extra Attacks (+D3) special rule."
-
 
 ## Runes of Protection
 
@@ -3635,13 +3275,11 @@ Ironbreakers venture into the dark beneath the world protected from the terrors 
 
 Models with this special rule have a 6+ Ward save against any wounds suffered that were caused by a non-magical enemy attack.
 
-
 ## Runes of Warding
 
 The armour of an Irondrake protects its wearer from the flames of battle as well as it does from the heat of their drakeguns.
 
 A model with this special rule has a 5+ Ward save against any wounds suffered that were caused by an attack that has the Flaming Attacks special rule.
-
 
 ## Running with the Pack
 
@@ -3649,13 +3287,11 @@ A model with this special rule has a 5+ Ward save against any wounds suffered th
 
 A Hunter that joins a unit of Sabretusks gains the Swiftstride special rule for as long as they remain with the unit. In addition, for as long as the Hunter remains with the unit, the Sabretusks lose the Impetuous special rule.
 
-
 ## Safe From Harm
 
 "Rat Ogres are big, tough creatures and their Packmasters will instinctively shelter behind their enduring bulk."
 
 When an enemy unit shoots at a unit of Rat Ogres that also contains one or more Packmasters, the enemy player must roll a D6 for each successful roll To Hit before making any rolls To Wound. On a roll of 1-4, the hit is inflicted upon a Rat Ogre. In combat, enemy models must allocate their attacks against a model they are in base contact with (or against the closest model if they are within the fighting rank but not in base contact) before rolling To Hit.
-
 
 ## Scarab Prince
 
@@ -3663,18 +3299,15 @@ Apophas' spirit resides in a swarm of scarabs which, should his spirit ever be b
 
 Should Prince Apophas lose his last Wound, before his model is removed from play, all enemy units within 2D6" of him suffer 2D6 Strength 2 hits with an AP of -1.
 
-
 ## Scintillating Sorcery
 
 "Spellcasting fills Pink Horrors with joy, and they emit especial merriment as eldritch energy screeches from their upraised hands."
 
 A unit of Pink Horrors knows one of the spells that corresponds to their Daemonic Alignment (chosen by their controlling player before armies are deployed). The unit may cast this spell as a Bound spell, with a Power Level equal to the unit's current Rank Bonus.
 
-
 ## Screaming Skulls
 
 Any unit that suffers one or more unsaved wounds from this weapon must make a Panic test as if it had taken heavy casualties.
-
 
 ## Scrying Pool
 
@@ -3696,13 +3329,11 @@ Self
 
 Until your next Start of Turn sub-phase, this model may re-roll any rolls To Hit of a natural 1.
 
-
 ## Scurry Away
 
 "Wherever possible, Skaven prefer to run from danger rather than face it head-on."
 
 Models with this special rule have a +1 modifier to the result of any Flee roll they make.
-
 
 ## Scurrying Masses
 
@@ -3710,20 +3341,17 @@ Models with this special rule have a +1 modifier to the result of any Flee roll 
 
 Whilst within 3" of a friendly unit, this model gains a positive (+) modifier to its Leadership characteristic equal to that unit's current Rank Bonus, up to a maximum of Leadership 10.
 
-
 ## Sea Dragon Cloak
 
 "The pelt of a Sea Dragon is worn by Dark Elf pirates and corsairs, both as a mark of their rank and as armour against the missiles of the foe."
 
 A model with this special rule improves its armour value by 1 (to a maximum of 2+) against non-magical shooting attacks.
 
-
 ## Sea-Born Raiders
 
 "The Wolves of the Sea often deploy scouts further up the coast to range inland ahead of the main force of raiders. These scouts descend upon their prey, attacking from multiple sides."
 
 Units of Chaos Marauders and Marauder Horsemen within a Wolves of the Sea army may have the Ambushers special rule for +1 point per model. Aspiring Champions whose troop type is infantry or cavalry within a Wolves of the Sea army may have the Ambushers special rule for +10 points per model.
-
 
 ## Sepulchral Animus
 
@@ -3733,13 +3361,11 @@ Once per turn, before making a Casting roll, any Liche Priest within a Mortuary 
 
 Note that this is a modifier to the result of a roll – it does not negate a roll of a natural double 1.
 
-
 ## Settra Does Not Kneel
 
 Settra views all people as his subjects and all lands as his to conquer; anyone that would challenge his rule is swiftly and brutally punished.
 
 Settra must always accept a challenge unless Nekaph, Emissary of Settra is engaged in the same combat. In which case, Nekaph must accept the challenge on Settra's behalf.
-
 
 ## Settra the Great
 
@@ -3747,13 +3373,11 @@ Settra is the most powerful and respected leader in Nehekhara's long history and
 
 If your army includes Settra, he must be the army's General and must be chosen to be the army's Hierophant, even if he does not have the highest Level of Wizardry in your army. In addition, Settra has a Command Range of 18".
 
-
 ## Settra's Champion
 
 In ancient Nehekhara, Nekaph would stand in Settra's place should anyone be foolish enough to challenge the king to single combat or call his honour into question.
 
 Nekaph must always issue and accept challenges (if possible). However, challenges issued by Nekaph cannot be refused. In addition, whilst engaged in a challenge, Nekaph strikes a Killing Blow if he rolls a natural 5 or 6 when making a roll To Wound, rather than the usual 6.
-
 
 ## Shield of the Lady
 
@@ -3761,13 +3385,11 @@ To march to war in the company of a Handmaiden of the Lady is a great privilege,
 
 If this character has joined a unit that has a Unit Strength of 10 or more, and that has a Chivalrous Vow, they may voluntarily 'retire' to the rear of the unit at any time, moving through the ranks and taking up a position away from the combat. Should they do so, they are no longer within the fighting rank and cannot make any attacks or have attacks directed against them. However, they continue to confer benefits to the unit in the form of Leadership and special rules, and may cast spells as if they were within the fighting rank.
 
-
 ## Skaryn the Eye Thief
 
 "Upon hearing the call from his master, Skaryn descends from the skies to scratch and peck at the eyes of Araloths enemies."
 
 During the Command sub-phase of his turn, Araloth may attempt to dispatch Skaryn to strike from the skies by rolling a D6. On a roll of 1-2, Skaryn lingers out of reach of the enemy and nothing happens. On a roll of 3+, Skaryn descends from the skies to strike at his master's mark. Nominate a single enemy model within 18" of Araloth. That model suffers a single Strength 4 hit with an AP of -1. If the target suffers an unsaved wound, its Weapon Skill and Initiative characteristics are reduced by D3 (to a minimum of 1) for the remainder of the game.
-
 
 ## Skilled Duellist
 
@@ -3775,13 +3397,11 @@ During the Command sub-phase of his turn, Araloth may attempt to dispatch Skaryn
 
 Should Harald Gemunsen slay an enemy in a challenge during a turn in which he charged, he may immediately issue a second challenge. If this challenge is accepted, it is fought immediately, meaning Harald (but not his mount) may fight two challenges during a single round of combat.
 
-
 ## Skirmish Screen
 
 "In battle, Skinks swarm around the legs of Kroxigor. When the enemy draws near, the Kroxigor charge through the Skinks, who instinctively know to get out of their way."
 
 A unit with this special rule can draw a line of sight over or through friendly units of Skink Skirmishers and can move through friendly units of Skink Skirmishers that are in Skirmish formation. If this unit's move would result in it ending up 'on top' of a friendly Skink Skirmisher, simply nudge that model aside, by the smallest amount possible, to make space for this unit. Whilst in Skirmish formation units of Skink Skirmishers can treat friendly models with this special rule that are within 1" of one or more of the unit's models as a part of the unit for the purposes of unit coherency.
-
 
 ## Skulking Menace
 
@@ -3789,18 +3409,15 @@ Hiding within Goblin ranks, out of sight of the enemy, Nasty Skulkers await thei
 
 Nasty Skulkers are not placed on the battlefield at the start of the game. Instead, make a note of which Goblin Mobs include Nasty Skulkers, and of how many they include. These units are referred to as 'concealing' units. At the start of its first round of combat, during Step 1.1 of the Choose Combat & Fight sub-phase, a concealing unit must reveal its Nasty Skulkers - they cannot be revealed at any other time. Position each revealed Nasty Skulker as you would a character that has joined the unit. Once placed, Nasty Skulkers cannot leave their concealing unit. If a concealing unit is destroyed or flees the battlefield before its Nasty Skulkers are revealed, they are removed as casualties.
 
-
 ## Skullcracker
 
 "A Skullcracker is a hissing and grinding arcane-mechanical conglomeration of iron hammers, hacking blades and brutal picks designed to pulverise and shred anything unfortunate enough to be caught in front of the machine."
 
 An Iron Daemon equipped with a Skullcracker replaces the Impact Hits (D6+1) special rule with the Impact Hits (2D6+2) special rule and gains the Armour Bane (1) special rule.
 
-
 ## Skulls of the Foe
 
 Until your next Start of Turn sub-phase, any enemy unit that was within 2D6" of the central hole of the blast template after scattering suffers a -1 modifier to its Leadership characteristic (to a minimum of 2).
-
 
 ## Slashing Attack
 
@@ -3808,13 +3425,11 @@ Until your next Start of Turn sub-phase, any enemy unit that was within 2D6" of 
 
 A unit with this special rule may perform a 'Slashing Attack' against a single enemy unit that is not engaged in combat. To do so, this unit must move (by flying) over the unit it wishes to attack during the Remaining Moves sub-phase. Once this unit's movement is complete, the enemy unit suffers D3 Strength 4 hits, each with an AP of -, for each model in this unit that moved over it.
 
-
 ## Slaughterer's Call
 
 "The bloodlust of a Minotaur Champion is infectious. When blood is scented, all rational thought is driven from the minds of those around them, replaced with an unquenchable thirst for slaughter."
 
 Whilst this model is Frenzied, any unit it has joined will also become Frenzied.
-
 
 ## Slavering Charge
 
@@ -3822,13 +3437,11 @@ Whilst this model is Frenzied, any unit it has joined will also become Frenzied.
 
 During a turn in which it charged, this model has a +1 modifier to its Strength characteristic.
 
-
 ## Slayer
 
 To persist for long as a Slayer, a warrior must be exceptionally skilled and ferocious.
 
 When this model makes a roll To Wound, a roll of 4+ is always a success, regardless of the target's Toughness.
-
 
 ## Slayer of Daemons
 
@@ -3836,13 +3449,11 @@ In their quest to meet a mighty doom, some Slayers seek out daemonic creatures. 
 
 When this character makes a roll To Wound, a roll of 4+ is always a success, regardless of the target's Toughness. In addition, each unsaved wound inflicted by this character against an enemy model with the Warp-spawned special rule, or whose troop type is behemoth, has the Multiple Wounds (D3) special rule.
 
-
 ## Slayer of Dragons
 
 Those Slayers that hunt the mightiest of wyrms must learn quickly how best to slay such creatures in battle, lest their eventual doom be considered unworthy.
 
 When this character makes a roll To Wound, a roll of 4+ is always a success, regardless of the target's Toughness. In addition, each unsaved wound inflicted by this character against an enemy model whose troop type is behemoth has the Multiple Wounds (D3) special rule.
-
 
 ## Slime Trail
 
@@ -3850,23 +3461,19 @@ When this character makes a roll To Wound, a roll of 4+ is always a success, reg
 
 Enemy units cannot claim any bonus combat result points for being engaged within this unit's flank or rear arc.
 
-
 ## Slimy Shanks
 
 The thick coating of swamp slime covering the Troll Hag's body makes landing a blow upon her exceedingly difficult.
 
 Any enemy model that directs its attacks against this model during the Combat phase suffers a -1 modifier to its rolls To Hit.
 
-
 ## Slithering Serpents
 
 During the Command sub-phase of its turn, every enemy unit within D6" of this model suffers 2D6 Strength 2 hits, each with an AP of -.
 
-
 ## Slow Reload
 
 If this weapon shot during your previous turn, it may be unable to shoot during this turn. Roll a D6 before shooting with this weapon. On a roll of 1-2, the slow and ponderous reload process has not yet been completed and the weapon does not shoot this turn. If the Dreadquake Mortar has an Ogre Loader, you may apply a +1 modifier to this roll.
-
 
 ## Solar Engine
 
@@ -3874,13 +3481,11 @@ If this weapon shot during your previous turn, it may be unable to shoot during 
 
 A Bastiladon equipped with a Solar Engine gains the Solar Radiance and Beam of Chotec special rules.
 
-
 ## Solar Radiance
 
 "Whilst within 6" of one or more Solar Engines, friendly units with the Cold Blooded special rule have a +1 modifier to their Initiative characteristic."
 
 Whilst within 6" of one or more Solar Engines, friendly units with the Cold Blooded special rule have a +1 modifier to their Initiative characteristic.
-
 
 ## Solitary Fighters
 
@@ -3888,13 +3493,11 @@ Mounted atop chariots liberated from weaker Orcs, many Black Orcs discover a new
 
 Black Orc Bosses within a Nomadic Waaagh! army are not subject to the Da Boyz or Quell Impetuosity special rules.
 
-
 ## Sons of Caledor
 
 "Dragon Princes consider themselves superior to Ulthuan's other soldiers. Worse, they pay little heed to orders given by commanders they consider their inferiors (though they may consent to consider the suggestions of a noble)."
 
 A unit with this special rule may only be joined by your army's General, or by a character with the Blood of Caledor Elven Honour.
-
 
 ## Soporific Musk
 
@@ -3902,13 +3505,11 @@ A unit with this special rule may only be joined by your army's General, or by a
 
 Enemy models engaged in combat with a model with this special rule cannot use the Strike First special rule. Enemy models that do not have the Strike First special rule become subject to the Strike Last special rule instead.
 
-
 ## Sorcerer's Curse
 
 "The flesh of a Sorcerer of Hashut hardens and blackens over time, eventually turning to stone."
 
 If this model miscasts a spell, it must immediately make a Toughness test. If this test is failed, it loses a single Wound and gains a +1 modifier to its Toughness characteristic instead of rolling on the Miscast table. If this test is passed, it rolls on the Miscast table as normal.
-
 
 ## Sorcerous Miasma
 
@@ -3916,13 +3517,11 @@ If this model miscasts a spell, it must immediately make a Toughness test. If th
 
 During the Combat phase, any enemy model that uses a magic weapon to attack a character mounted on a Lammasu counts as being armed with a simple hand weapon instead.
 
-
 ## Soul Reaper
 
 A Necrosphinx embodies the malevolence of the gods of the underworld. In battle it will mark the souls of worthy enemies, speeding their journey into the realm of its masters.
 
 After deployment but before the first turn begins, nominate a single enemy character. This is the soul marked by the Necrosphinx to journey into the underworld by the battle's end. This model may re-roll any rolls To Hit of a natural 1 made against the nominated character.
-
 
 ## Soul-eater
 
@@ -3930,13 +3529,11 @@ After deployment but before the first turn begins, nominate a single enemy chara
 
 Any enemy Wizard that wishes to cast a spell whilst within 12" of one or more Cygors must first make a Leadership test. If this test is failed, the Wizard has lost their nerve and, should they fail to cast the spell (i.e., should their casting result be less than the casting value of the spell), the spell has been miscast and the active player immediately rolls on the Miscast table to see what fate befalls the unfortunate Wizard. If this test is passed, the Wizard can continue with their casting attempt as normal.
 
-
 ## Spawn of Khorne
 
 "Often referred to as Bloodbeasts of Khorne, the Spawn of the Lord of Skulls bristle with spikes of bone and blades of living metal, their many limbs ending in wicked cleaver-blades."
 
 Spawn of Khorne have the Killing Blow special rule.
-
 
 ## Spawn of Nurgle
 
@@ -3944,13 +3541,11 @@ Spawn of Khorne have the Killing Blow special rule.
 
 Spawn of Nurgle have the Poisoned Attacks special rule.
 
-
 ## Spawn of Slaanesh
 
 "The Spawn of Slaanesh are hulking mounds of flesh that constantly warp and mutate as they try to settle on a form pleasing to the eye of the Dark Prince."
 
 Spawn of Slaanesh have the Strike First special rule.
-
 
 ## Spawn of Sotek
 
@@ -3958,13 +3553,11 @@ Spawn of Slaanesh have the Strike First special rule.
 
 During the Command sub-phase of its turn, roll a D6. On a roll of 4+, a single Jungle Swarm within 6" of this model regains D3 lost Wounds.
 
-
 ## Spawn of Tzeentch
 
 "The flesh of a Firewyrm of Tzeentch constantly ripples and shifts with the power of change. Skin blisters into eyes, maws open on distended limbs and flames lick from screaming orifices."
 
 Spawn of Tzeentch have the Flaming Attacks and Magical Attacks special rules.
-
 
 ## Spectral Coach
 
@@ -3976,13 +3569,11 @@ Loses the Impact Hits (D6+2) special rule.
 
 Gains the Ethereal and Fly (10) special rules.
 
-
 ## Spectral Hounds
 
 "Whilst in his corporeal form, Orion is accompanied by a pair of ethereal hunting hounds, manifestations of Kurnous' will."
 
 Hounds of Orion can only be wounded by Magical attacks. In addition, whilst one or more Hounds of Orion remains, Orion himself cannot be targeted by enemy shooting.
-
 
 ## Spectral Reapers
 
@@ -3990,13 +3581,11 @@ Hounds of Orion can only be wounded by Magical attacks. In addition, whilst one 
 
 A unit with this special rule may perform a 'Spectral Reapers' attack against a single enemy unit that is not engaged in combat. To do so, this unit must move (by flying) over the unit it wishes to attack during the Remaining Moves sub-phase. Once this unit's movement is complete, the enemy unit suffers a single Strength 4 hit, with no armour save permitted (Ward and Regeneration saves can be attempted as normal), and with the Flaming Attacks and Magical Attacks special rules, for each model in this unit that moved over it.
 
-
 ## Spiked Ball & Chains
 
 Night Goblins attempt to control Mangler Squigs by means of long, heavy lengths of spiked chain fitted with heavy iron balls. This seldom works, but it does make them more dangerous.
 
 Impact Hits caused by this model have an Armour Piercing characteristic of -3.
-
 
 ## Spirit of Galrauch
 
@@ -4010,13 +3599,11 @@ He becomes subject to the Random Movement (2D6) special rule.
 
 If he is engaged in combat, he must direct D3 of his attacks against himself (rounding any fractions down). Any wounds that Galrauch causes against himself are added to the enemy's combat result score.
 
-
 ## Spurting Bile Blood
 
 "When harmed, a Jabberslythe's boiling, acidic blood sprays its enemies, burning through their armour and into their flesh."
 
 For each Wound this model loses during the Combat phase, the attacking enemy unit suffers a Strength 4 hit, with an AP of -1.
-
 
 ## Squigs Go Wild
 
@@ -4024,13 +3611,11 @@ A herd of Cave Squigs is held together by the weakest glue - the best efforts of
 
 Should a Squig Herd ever Break and flees from combat, the Cave Squigs will go wild. If the Squig Herd contains five or more Cave Squigs, every unit (friend or foe) within 2D6" of it suffers D3 Strength 5 hits, each with an AP of -1. For every additional five Cave Squigs the Squig Herd contains, apply a +1 modifier to the D3. Once these hits have been resolved, treat the unit as having been completely destroyed in combat and remove it from play.
 
-
 ## Stable Firing Platform
 
 "Atop the slow moving bulk of a War Wagon, the crew can shoot in all directions, taking careful aim behind its heavily armoured flanks before each shot."
 
 To reflect the stability of a War Wagon, any missile weapons carried by the crew can be used in the Shooting phase even if the War Wagon marched this turn.
-
 
 ## Stampede
 
@@ -4038,13 +3623,11 @@ To reflect the stability of a War Wagon, any missile weapons carried by the crew
 
 Impact Hits caused by a model with this special rule have an Armour Piercing characteristic of -2.
 
-
 ## Steadfast Discipline
 
 Only the most disciplined were chosen to serve in the ranks of a Royal Host, maintaining a near-constant rate of bow fire whilst advancing towards the enemy.
 
 A unit with this special rule can Volley Fire during a turn in which it moved, or whilst performing a Stand & Shoot charge reaction.
-
 
 ## Steam Power
 
@@ -4052,13 +3635,11 @@ A unit with this special rule can Volley Fire during a turn in which it moved, o
 
 A Steam Tank cannot march. Instead, you may make a "Steam Power" roll and add the result to the model's Movement characteristic. To make a Steam Power roll, roll two D6 and discard the lowest result. The highest result is the result of the Steam Power roll. If both dice roll the same result, discard either.
 
-
 ## Steeds of Darkness
 
 "The mutated steeds of the Knights of Chaos are swift and powerful war-mounts, standing as a warped mockery of the thoroughbreds of fair Bretonnia."
 
 When a unit in this army whose troop type is cavalry or chariot makes a Charge, Flee or Pursuit roll, it may re-roll any dice that roll a natural 1, before discarding any dice that are required to be discarded.
-
 
 ## Stoic Defenders
 
@@ -4066,20 +3647,17 @@ Hefting their Gromril great hammers, a regiment of Hammerers stands ready to mee
 
 During a turn in which it was charged by the enemy, a model with this special rule gains a +1 modifier to its Initiative and Attacks characteristics.
 
-
 ## Stone Shaper
 
 Schooled by the priests of the Mortuary Cult in crafting the potent symbols of animation, it is the duty of an Arch Necrotect to maintain the animus of Nehekhara's legions of undead constructs.
 
 During the Command sub-phase of their turn, if they are not engaged in combat, this character may nominate a single friendly Necrolith Colossus, Necrosphinx, unit of Ushabti or unit of Venerable Ushabti that is within their Command range. Until the end of this turn, the nominated unit improves the Regeneration value of its Regeneration save by 1.
 
-
 ## Stone Skeleton
 
 "A Stonehorn is akin to a living fossil, its massive skeleton having hardened to rock."
 
 This model is less vulnerable to the Multiple Wounds (X) special rule. If it suffers an unsaved wound from an attack with this special rule, reduce the number of Wounds lost by 1, to a minimum of 1.
-
 
 ## Storm Call
 
@@ -4093,13 +3671,11 @@ This model can cast the following Bound spell, with a Power Level of 1. This mod
 
 If this Bound spell is cast, all units within 6" of this model (friend or foe), including units engaged in combat and this model, suffer D3 Strength 4 hits, each with an AP of -1.
 
-
 ## Strategic Mastery
 
 "Hans has honed his craft on countless battlefields across the Old World against all manner of foes, making him amongst the Empire's foremost commanders."
 
 In scenarios where players roll off to determine who takes the first turn, you may apply a +1 or -1 modifier to the result of your roll.
-
 
 ## Strike the Runes
 
@@ -4147,13 +3723,11 @@ The very earth cracks beneath the feet of the enemy, venting forth fire and sulp
 
 The target enemy unit suffers 2D6 Strength 4 hits, each with an AP of -2.
 
-
 ## Striking a Grudge
 
 Avenging a grudge is not just the act of defeating an enemy, it requires utterly humiliating them on the battlefield.
 
 After deployment but before the first turn begins, nominate a single enemy character. For one reason or another, this individual has earned themselves a place in the Clan's Book of Grudges and must be brought to justice. All friendly models gain the Hatred (nominated enemy character) special rule. In addition, you win a bonus of 75 Victory Points if the nominated character is slain, has fled the battlefield or is fleeing when the game ends.
-
 
 ## Subterranean Ambush
 
@@ -4171,25 +3745,22 @@ The enemy player's deployment zone
 
 When a unit of Miners would arrive onto the battlefield as Reserves, it can be placed anywhere on the battlefield within 6" of a Mine marker, but not within 6" of an enemy unit. The unit cannot charge during this turn and counts as having moved for the purposes of shooting, but can otherwise act as normal.
 
-
 ## Suffer Not
 
 "Many Witch Hunters stalk the Old World, guided by the teachings of their church and their personal biases to seek out the multifarious enemies of Man and deliver them unto justice."
 
 Each Witch Hunter in your army must have one of the following specialisms, chosen when writing your muster list. This specialism indicates which of the many enemies of humanity the Witch Hunter is tasked with hunting. You must tell your opponent which specialism each Witch Hunter in your army has when deploying your army:
 
-- The Witch: The Witch Hunter and any unit they have joined gains the Hatred (enemy Wizards) and Magic Resistance (-2) special rules.
-- The Revenant: The Witch Hunter and any unit they have joined gains the Hatred (Undead models) and Flaming Attacks special rules.
-- The Mutant: The Witch Hunter and any unit they have joined gains the Hatred (Warriors of Chaos & Beasts of Chaos) and Magic Resistance (-1) special rules.
-- The Daemon: The Witch Hunter and any unit they have joined gains the Hatred (Daemonic models) and Magical Attacks special rules.
-
+The Witch: The Witch Hunter and any unit they have joined gains the Hatred (enemy Wizards) and Magic Resistance (-2) special rules.
+The Revenant: The Witch Hunter and any unit they have joined gains the Hatred (Undead models) and Flaming Attacks special rules.
+The Mutant: The Witch Hunter and any unit they have joined gains the Hatred (Warriors of Chaos & Beasts of Chaos) and Magic Resistance (-1) special rules.
+The Daemon: The Witch Hunter and any unit they have joined gains the Hatred (Daemonic models) and Magical Attacks special rules.
 
 ## Supreme Matriarch of Nan-Gau
 
 The Celestial Dragon Guard are formidable warriors, hand-picked to serve as the personal bodyguards of the Dragons of Cathay.
 
 If your army includes Miao Ying, she must be the army's General. In addition, 0-1 unit of Jade Warriors and 0-1 unit of Jade Lancers in her army may be upgraded to Celestial Dragon Guard for +1 point per model. Celestial Dragon Guard have a +1 modifier to their Weapon Skill and Leadership characteristics (to a maximum of 10) and gain the Celestial Armour (6+) special rule.
-
 
 ## Swallow Whole
 
@@ -4203,13 +3774,11 @@ If this test is passed, the warriors manage to avoid the grasping Ghorgon. No on
 
 Each time an enemy model is removed from play in this way, the Ghorgon recovers a single lost Wound.
 
-
 ## Sworn Protector
 
 Anyone wishing to harm a Monarch of Nehekhara must first get past their Heralds, sworn bodyguards who move to intercept any mortal blow, heedless of the danger to themselves.
 
 Should a Monarch of Nehekhara model suffer a hit whilst within 3" of this model, you may choose to transfer that hit and all of its effects onto this model.
-
 
 ## Symbol of Might
 
@@ -4219,13 +3788,11 @@ The Command range of a Lector of Sigmar mounted on the War Altar is increased fr
 
 Note that, if this model is your General, it has a Command range of 18" as normal.
 
-
 ## Syphoned Strength
 
 Ogdruz has learned to empower his magic by drawing on the physical strength of his Trolls.
 
 Whilst Ogdruz Swampdigga is within 3" of a friendly Troll Mob with a Unit Strength of 6 or more that is not fleeing, he may apply a +1 modifier to any Casting roll he makes.
-
 
 ## Talismanic Tattoos
 
@@ -4233,11 +3800,9 @@ Whilst Ogdruz Swampdigga is within 3" of a friendly Troll Mob with a Unit Streng
 
 Talismanic Tattoos give their wearer a 6+ Ward save against any wounds suffered.
 
-
 ## Targeting Weapon Teams
 
 If it is within 3" of its parent unit, and if that unit contains five or more models (and is not itself fleeing), a Weapon Team cannot be targeted by enemy shooting or by enemy spells, unless the Weapon Team is the closest target.
-
 
 ## Temperamental
 
@@ -4245,18 +3810,16 @@ If it is within 3" of its parent unit, and if that unit contains five or more mo
 
 If a natural 1 is rolled on either of the dice when the Steam Tank makes a Steam Power roll or a Charge roll, the pressure has reached dangerous levels and, if not quickly released, will cause irreparable damage. Choose one of the following:
 
-- Bang!: The crew ignores the building pressure which, inevitably, finds its own release. The Steam Tank loses a single Wound.
-- Phweee!: Amidst billowing clouds of steam and with an ear-splitting whistle, the pressure is released, rendering the Steam Tank immobile. The Steam Tank halts immediately and cannot move again for the remainder of this turn.
+Bang!: The crew ignores the building pressure which, inevitably, finds its own release. The Steam Tank loses a single Wound.
+Phweee!: Amidst billowing clouds of steam and with an ear-splitting whistle, the pressure is released, rendering the Steam Tank immobile. The Steam Tank halts immediately and cannot move again for the remainder of this turn.
 
 However, if a natural 1 is rolled on both of the dice, the pressure is too great to be released safely. The Steam Tank loses a single Wound and halts immediately. It cannot move again for the remainder of this turn.
-
 
 ## Terracotta Sentinel
 
 Terracotta Sentinels are counted amongst the most ancient of the Celestial Dragon's creations. So infused are they with his magic that they are able to heal damage suffered in battle as if made of living flesh.
 
 A Terracotta Sentinel has the Regeneration (6+) special rule.
-
 
 ## The Arrow of Kurnous
 
@@ -4266,13 +3829,11 @@ Once deployment is complete, but before the roll-off to determine which player t
 
 However, if the Arrow of Kurnous is fired, your opponent adds +1 to their roll when rolling off to determine who takes the first turn.
 
-
 ## The Awakened Wood
 
 "As the forces of Talsyn muster, the forest itself springs to life to take the fight to the enemy upon all sides."
 
 Within a Host of Talsyn army, any number of units of Dryads and Tree Kin may have the Ambushers special rule at the cost of +1 point per model. In addition, Treemen and Treeman Ancient may have the Ambushers special rule at the cost of +10 points per model.
-
 
 ## The Crusader's Vow
 
@@ -4281,7 +3842,6 @@ Within a Host of Talsyn army, any number of units of Dryads and Tree Kin may hav
 The Crusader's Vow is a Chivalrous Vow. A model with this Chivalrous Vow has the Veteran special rule. In addition, a model with this Chivalrous Vow does not have to make a Panic test when a friendly unit with the Peasantry special rule is destroyed whilst within 6" of it, or when it is fled through by a friendly unit with the Peasantry special rule.
 
 A unit with this Chivalrous Vow cannot be joined by a character with the Peasantry special rule. A character with this Chivalrous Vow cannot join a unit with the Peasantry special rule.
-
 
 ## The Death of a General
 
@@ -4294,7 +3854,6 @@ Should your General be slain, the magical animus of the army starts to dissipate
 In addition, at the end of the phase in which your General was removed from play as a casualty, and during each of your Start of Turn sub-phases for the remainder of the game, all friendly units with the Necromantic Undead special rule that are currently on the battlefield must make a Leadership test. If this test is failed, the unit loses a number of Wounds equal to the amount by which it failed the test.
 
 For example, your army's General is destroyed during your opponent's Shooting phase. At the end of that phase a unit of Skeleton Warriors (Ld 5) makes a Leadership test and rolls a 7 (failing the test by 2). That unit immediately loses two Wounds. During your next Start of Turn sub-phase, the same unit makes another Leadership test, this time rolling a 6, resulting in the loss of one Wound.
-
 
 ## The Elemental Winds
 
@@ -4324,13 +3883,11 @@ Until your next Start of Turn sub-phase, Wizards with the Lore of Yin special ru
 
 *Note that all eligible models gain the same modifier.
 
-
 ## The Exile's Vow
 
 "... Though my time within the lands of the Lady has come to pass, my time serving her has not. By my hand and her mercy, my honour shall be restored, even if it is to be my final quest in this life..."
 
 The Exile's Vow is a Chivalrous Vow. A model with this Chivalrous Vow has the Stubborn and Veteran special rules. In addition, a model with this Chivalrous Vow does not have to make a Panic test when a friendly unit with either the Levies or Peasantry special rule is destroyed whilst within 6" of it, or when it is fled through by a friendly unit with either the Levies or Peasantry special rule.
-
 
 ## The Grail Vow
 
@@ -4340,13 +3897,11 @@ A model with this Chivalrous Vow has the Immune to Psychology, Magical Attacks a
 
 A unit with this Chivalrous Vow can only be joined by a character that also has this Chivalrous Vow or by a Handmaiden of the Lady. A character with this Vow cannot join a unit with the Peasantry special rule.
 
-
 ## The Grudgestone
 
 Once this ornate stone has been set upon the battlefield, all around Thorgrim know that there can be no retreat until the Kharl of the Dammaz Kron deems his business done.
 
 During any Start of Turn sub-phase, Thorgrim may set the Grudgestone. Once set, Thorgrim and any unit he has joined gains the Unbreakable special rule and automatically passes any Panic tests they are required to make. However, once the Grudgestone has been set, Thorgrim and his unit cannot choose to Flee as a charge reaction and cannot move other than to Give Ground, to make a follow up move or to reform.
-
 
 ## The Hierophant
 
@@ -4360,13 +3915,11 @@ In addition, at the end of the phase in which your Hierophant was removed from p
 
 For example: Your army's Hierophant is destroyed during your opponent's Shooting phase. At the end of that phase a unit of Skeleton Warriors (Ld 5) makes a Leadership test and rolls a 7 (failing the test by 2). That unit immediately loses two Wounds. During your next Start of Turn sub-phase, the same unit makes another Leadership test, this time rolling a 6, resulting in the loss of one Wound.
 
-
 ## The Hunger
 
 "Consumed by the red thirst, a Strigoi Ghoul King will feed hungrily upon the hot blood of their foes, replenishing their own strength and vitality."
 
 At the end of any Combat phase in which this character inflicted one or more unsaved wounds, roll a D6. On a roll of 6, this character recovers a single lost Wound. However, so great is this character's hunger that, whenever they (and any unit they have joined) make a Pursuit roll, they roll only a single D6 (rather than the usual 2D6).
-
 
 ## The Knight's Vow
 
@@ -4376,19 +3929,17 @@ A model with this Chivalrous Vow does not have to make a Panic test when a frien
 
 A unit with this Chivalrous Vow cannot be joined by a character that has the Peasantry special rule. A character with this Chivalrous Vow cannot join a unit with the Peasantry special rule.
 
-
 ## The Knightly Orders
 
 "Though they share many traits, the Knightly Orders of the Empire differ wildly in organisation and beliefs."
 
 The General of a Knightly Order Army of Infamy must be a Grand Master or a Chapter Master who must belong to one of the Knightly Orders. Every other Chapter Master and every unit of Empire Knights, Inner Circle Knights or Demigryph Knights must belong to the same Knightly Order as your General. Additional units may be allowed or restricted, depending upon which Knightly Order your army belongs to:
 
-- Knights Panther
-- Knights of the White Wolf
-- Knights of the Blazing Sun
-- Knights of Morr
-- Knights of the Fiery Heart
-
+Knights Panther
+Knights of the White Wolf
+Knights of the Blazing Sun
+Knights of Morr
+Knights of the Fiery Heart
 
 ## The Lance in Combat
 
@@ -4403,13 +3954,11 @@ A unit in Lance formation with a Unit Strength of 5 or more may claim a bonus of
 Flank Charges
 If a Lance is charged in its flank, align the enemy unit against its widest rank. The Lance then becomes blunted.
 
-
 ## The Language of the Priests
 
 Many were the monarchs of ancient Nehekhara that endeavoured to learn the secrets of the Mortuary Priests, but few were those that became proficient.
 
 The General of a Nehekharan Royal Host must be a Tomb King or a Tomb Prince. For +35 points, this character may have the Arise! special rule and be a Level 1 Wizard. If so, this character knows spells from the Lore of Necromancy and must also be chosen to be the army's Hierophant, even if it does not have the highest Level of Wizardry in your army. A Wizard with this special rule may wear armour without penalty.
-
 
 ## The Mercenary Hosts
 
@@ -4417,13 +3966,11 @@ The General of a Nehekharan Royal Host must be a Tomb King or a Tomb Prince. For
 
 For each character in your army that has the Might of Miragliano Infamous Origin, 0-1 unit of Sellsword Infantry or Veteran Sellsword Infantry may change its troop type to heavy infantry and may have the Phalanx special rule for +10 points per unit.
 
-
 ## The Newly Dead
 
 "Those that fall in battle may be compelled by necromantic magic to rise again and fight against their former comrades."
 
 When resurrecting the fallen, a unit with this special rule can be taken beyond its starting size (but not beyond its maximum size).
-
 
 ## The Origins of the Infamous
 
@@ -4431,11 +3978,10 @@ When resurrecting the fallen, a unit with this special rule can be taken beyond 
 
 Characters within a Renegade Crowns Army of Infamy can purchase an Infamous Origin. Based on these, some units in your army may gain additional benefits, as detailed below:
 
-- The Mercenary Hosts
-- The Outcast Knights
-- The Outlaw & Renegade
-- The Wandering Duelists
-
+The Mercenary Hosts
+The Outcast Knights
+The Outlaw & Renegade
+The Wandering Duelists
 
 ## The Outcast Knights
 
@@ -4443,13 +3989,11 @@ Characters within a Renegade Crowns Army of Infamy can purchase an Infamous Orig
 
 For each character in your army that has the Renegade Knight Infamous Origin, 0-1 unit of Freeblade Knights or Veteran Freeblade Knights may have the Lance Formation and the Noble Disdain special rules for +2 points per model.
 
-
 ## The Outlaw & Renegade
 
 "In the lawless reaches of the Old World, bandits and highwaymen stand ever ready to fall upon the unwary."
 
 For each character in your army that has the Noble Outlaw Infamous Origin, 0-1 unit of Hireling Outriders may have the Ambushers special rule for +1 point per model.
-
 
 ## The Questing Vow
 
@@ -4459,13 +4003,11 @@ A model with this Chivalrous Vow has the Stubborn special rule and can re-roll a
 
 A unit with this Chivalrous Vow cannot be joined by a character that has the Knight's Vow or the Peasantry special rule. A character with this Chivalrous Vow cannot join a unit with the Peasantry special rule.
 
-
 ## The Quickening Storm
 
 "Bathed in invigorating lightning, Dragon Ogres are warded against the effects of hostile magic."
 
 A model with this special rule has a 5+ Ward save against any wounds suffered that were caused by a Magic Missile or a Magical Vortex spell. In addition, if a model with this special rule, or the unit it belongs to, suffers one or more hits from Storm Call, it becomes "Quickened". A Quickened model has a +1 modifier to both its Initiative and Attacks characteristics. This Quickening lasts until your next Start of Turn sub-phase.
-
 
 ## The Shadow Grows
 
@@ -4473,13 +4015,11 @@ A model with this special rule has a 5+ Ward save against any wounds suffered th
 
 For each character your army includes that has a Mark of Chaos other than the Mark of Chaos Undivided, it must also include a non-character unit with the same Mark of Chaos, and vice versa. For example, if your army includes two characters with the Mark of Khorne, it must also include two non-character units with the Mark of Khorne.
 
-
 ## The Sons of Ghorros
 
 "Almost every herd of beasts contains a few dozen of Ghorros get. These brutes fight all the harder in their sire's presence to earn his acknowledgement."
 
 0-1 Centigor Herd in the same muster list as Ghorros may be upgraded to Sons of Ghorros for +2 points per model. Sons of Ghorros have a +1 modifier to their Weapon Skill and Leadership characteristics (to a maximum of 10) and gain the Armour Bane (1) special rule.
-
 
 ## The Spirit of Kurnous
 
@@ -4489,13 +4029,11 @@ For each character your army includes that has a Mark of Chaos other than the Ma
 
 *Note this does not apply to the model's mount (should it have one).
 
-
 ## The Terrors Below
 
 From beneath the shifting and treacherous desert sands, tunnelling undead creatures strike at their enemies, dragging them to a grisly fate before bursting from the surface and into the fray.
 
 Any Tomb Scorpion or unit of Necroserpents may have this special rule for +2 points per model. When a unit with this special rule is placed on the battlefield as a result of using the From Beneath the Sands special rule, it may nominate a single enemy unit that is within 8" of it and whose troop type is regular infantry or heavy infantry. The nominated enemy unit must immediately make a number of Initiative tests equal to the Unit Strength of this unit. For each test that is failed, a single model belonging to the nominated unit is removed from play as a casualty.
-
 
 ## The Wandering Duelists
 
@@ -4503,13 +4041,11 @@ Any Tomb Scorpion or unit of Necroserpents may have this special rule for +2 poi
 
 For each character in your army that has the Wandering Diestro Infamous Origin, 0-1 unit of Border Princes Brigands may have a +1 modifier to their Weapon Skill characteristic for +2 points per model. In addition, once per game, models within this unit may make enemy models that direct their attacks against them during the Combat phase re-roll successful rolls To Hit.
 
-
 ## The Wyrm Slayer
 
 The exploits of the Wyrm Slayer are not only famous within the lands of Bretonnia, but also amongst its enemies.
 
 Should Sir Cecil Gastonne kill an enemy model whose troop type is monstrous infantry, monstrous cavalry, monstrous creature or behemoth during any Combat phase, he gains the Terror special rule for the remainder of the game.
-
 
 ## Thunderous Charge
 
@@ -4517,16 +4053,13 @@ Should Sir Cecil Gastonne kill an enemy model whose troop type is monstrous infa
 
 Impact Hits caused by this model have an Armour Piercing characteristic of -2.
 
-
 ## Thunderous Impact
 
 Until your next Start of Turn sub-phase, any unit (friend or foe) that was within 2D6" of the strike point when a Cathayan grand cannon shoots suffers a -1 modifier to its Movement characteristic and cannot use the Swiftstride special rule.
 
-
 ## Tilean Stoicism
 
 Should a character with this special rule join a unit prior to making their first Break Test of the game (i.e., whilst Stubborn), that unit gains the Stubborn special rule. However, should the character leave a unit they have joined for any reason prior to making their first Break Test of the game, that unit immediately loses the Stubborn special rule.
-
 
 ## Toad Rage
 
@@ -4535,7 +4068,6 @@ Should a character with this special rule join a unit prior to making their firs
 Before the game starts, but after Scouts have been deployed, you may place one Lustrian blot toad marker for each unit of Ripperdactyl Riders in your army (counting only units, not including characters mounted on Ripperdactyls). A single blot toad marker can be placed on any enemy unit on the battlefield, this marker remains throughout the battle.
 
 When engaged in combat with an enemy unit with a blot toad marker, Ripperdactyls (but not their riders) gain the Extra Attacks (+1) special rule, and may re-roll any roll To Hit of a natural 1.
-
 
 ## Tolling The Bell
 
@@ -4553,7 +4085,6 @@ A Screaming Bell may be rung during the Command sub-phase of your turn. Roll on 
 | 10-11 | Rapturous Ringing: Until your next Start of Turn sub-phase, all friendly Skaven units within 18" of this model gain the Extra Attacks (+1) special rule. |
 | 12 | Sonorous Knell: Any enemy unit that is within 18" of this model, including units that are fleeing or that are engaged in combat, must make a Leadership test. If this test is failed, the unit suffers D6 Strength 4 hits, with no armour or Regeneration saves permitted (Ward saves can be attempted as normal). |
 
-
 ## Too Horrible To Die
 
 "Even in the grips of its death throes, a Hell Pit Abomination writhes with dark vitality."
@@ -4566,13 +4097,11 @@ On a roll of 4 or 5, the great corpse shudders and a swarm of rats bursts forth.
 
 On a roll of 6, the Hell Pit Abomination jolts and shudders with unnatural vitality before rising anew. This model immediately recovers D3 Wounds.
 
-
 ## Totem of Endless Bloodletting
 
 "A Blood Throne is a physical manifestation of the Blood God's favour. In its presence, Daemons of Khorne are driven into a raging bloodlust."
 
 Friendly Daemons of Khorne that are within this model's Command range and that made a Charge move this turn may re-roll any rolls To Hit of a natural 1 made during the Combat phase.
-
 
 ## Transformation
 
@@ -4590,13 +4119,11 @@ A Cathayan Dragon cannot declare a charge during a turn in which it transformed 
 
 Note that when a Cathayan Dragon transforms from their Human to their Dragon form in this way, they immediately leave any unit they were part of and that transforming allows a Cathayan Dragon to leave combat.
 
-
 ## Transformation of the Dragon
 
 The children of the Celestial Dragon are mighty creatures of unimaginable age and, though they choose to live as humans amongst the people of Grand Cathay, in battle they do not hesitate to reveal their true forms and unleash their might upon their enemies.
 
 A Cathayan Dragon may adopt both Human and Dragon forms. To represent this, you may choose a Cathayan Dragon's form at the start of the game by simply placing the appropriate model on the battlefield during deployment. Each form has its own profile of characteristics.
-
 
 ## Traps & Snares
 
@@ -4604,13 +4131,11 @@ A Cathayan Dragon may adopt both Human and Dragon forms. To represent this, you 
 
 Any enemy model that ends its charge move in base contact with a model with this special rule must make a Dangerous Terrain test.
 
-
 ## Tree Spirit
 
 "The ancient spirits of Athel Loren march to war beside the Asrai in defence of their realm, though they remain aloof and distant from their closest allies."
 
 A character with this special rule cannot join a unit without this special rule. A unit with this special rule cannot be joined by, or use the Leadership characteristic of, a character without this special rule. However, a unit with this special rule can use the Leadership characteristic of a friendly character with this special rule that is not fleeing whilst within that character's Command range.
-
 
 ## Tree Whack
 
@@ -4622,13 +4147,11 @@ If the test is failed, the target suffers D3 hits, each using the Strength chara
 
 If the test is passed, the target manages to avoid the Tree Whack.
 
-
 ## Troll Hunters
 
 Some Slayers hunt their prey with cunning, sneaking close before descending upon them with fury.
 
 0-1 character per 1,000 points in a Slayer Host Army of Infamy (not including Ungrim Ironfist) may have the Scouts special rule for +10 points per model.
-
 
 ## Troll Tongue
 
@@ -4636,13 +4159,11 @@ Though Troll Magic is a near-forgotten craft, some amongst the Orc and Goblin tr
 
 In addition to the Lores of Magic they may normally know spells from, Orc Shamans and Goblin Shamans within a Troll Horde army may know spells from the Lore of Troll Magic.
 
-
 ## Troubadour of Loec
 
 "The deadly dance of a Shadowdancer melds seamlessly with that of the troupe they lead."
 
 A Shadowdancer that joins a unit of Wardancers is considered to have the Dances of Loec special rule for as long as they remain with the unit.
-
 
 ## Tusker Charge
 
@@ -4652,13 +4173,11 @@ During a turn in which it charged, a War Boar's Tusks (hand weapon) have a Stren
 
 Note that this special rule only applies to attacks made by a War Boar, not to their rider, a chariot or its crew.
 
-
 ## Two Heads
 
 "Through careful and selective breeding, the menageries and zoos of the Empire have been able to produce young Griffons with not one, but two heads."
 
 An Imperial Griffon with Two Heads gains a +1 modifier to its Attacks characteristic.
-
 
 ## Two-headed Dragon
 
@@ -4666,20 +4185,17 @@ An Imperial Griffon with Two Heads gains a +1 modifier to its Attacks characteri
 
 A Chaos Dragon/Galrauch may use either Dark Fire of Chaos or Fumes of Contagion during the Shooting phase of its turn. It cannot use both during the same turn.
 
-
 ## Unbound Spirits
 
 If the guardians of a Casket of Souls are slain, the tortured souls contained within the vessel will escape their confines in a raging maelstrom of destruction and vengeance.
 
 If the crew of a Casket of Souls is reduced to zero Wounds, immediately roll a D6 for every unit (friend or foe) within 12" of the model. On a roll of 4+, the unit suffers D6 Strength 3 hits, with no armour or Regeneration saves permitted (Ward saves can be attempted as normal). Once these hits are resolved, the Casket of Souls is removed from play.
 
-
 ## Unity & Harmony
 
 The soldiers of Grand Cathay are renowned for their devotion to the protection of their homeland, but will fight and die beside their allies to ensure their towns and villages are kept free from danger.
 
 Any unit of Jade Warriors or Jade Lancers within 3" of a friendly Mercenary unit may re-roll To Hit rolls of 1 during the Combat phase.
-
 
 ## Unstoppable Assault
 
@@ -4689,13 +4205,11 @@ During the Combat phase of any turn in which this model charged, every attack it
 
 Note that any unsaved wounds caused by the Stomp Attacks (D3) special rule do not benefit from this special rule.
 
-
 ## Untutored Arcanist
 
 Many Outcast Wizards are poorly schooled in the arcane arts. Thus, when their spellcasting falters, great calamity can befall them.
 
 When required to roll on the Miscast table, a Wizard with this special rule must roll an extra D6 and discard the highest result.
-
 
 ## Usirian's Reaper
 
@@ -4703,13 +4217,11 @@ In a desperate bid to escape his pact with the god of the Underworld, Apophas se
 
 After deployment, nominate a single character in your opponent's Muster List. Apophas may re-roll any failed rolls To Hit or To Wound made against that character. In addition, any hits inflicted by Apophas against the nominated character gain the Magical Attacks special rule.
 
-
 ## Venerable
 
 Longbeards tend to look down their beards at younger Dwarfs. In their turn, younger Dwarfs pay dutiful attention to the words and deeds of their elders, hoping to emulate their courage.
 
 Unless this unit is fleeing, friendly units within 6" of it can re-roll any failed Panic test.
-
 
 ## Verminous Valour
 
@@ -4717,18 +4229,15 @@ Unless this unit is fleeing, friendly units within 6" of it can re-roll any fail
 
 Unless they are engaged in a challenge, a character with this special rule that has joined a unit that has a Unit Strength of 10 or more may voluntarily 'retire' to the rear of the unit at any time, moving through the ranks and taking up a position away from the combat. Should they do so, they are no longer within the fighting rank and cannot make any attacks or have attacks directed against them. However, the unit may still use this character's Leadership.
 
-
 ## Veteran Outriders
 
 "Nuln employs many veteran Outriders, accustomed to firing their weapons from the back of a galloping horse, to guard its borders."
 
 Missile weapons wielded by Outriders included in a City-state of Nuln army are not subject to the Ponderous special rule.
 
-
 ## Vomit
 
 Peering down at such tiny creatures makes the Bonegrinder Giant dizzy and messily sick! Place a flame template so that the narrow end touches the edge of this model's base that is in contact with the target unit and the broad end is over the target unit. Any model (friend or foe, but not including this model) whose base lies underneath the template risks being hit and suffering a single Strength 5 hit with an AP of -2.
-
 
 ## Vortex of Souls
 
@@ -4758,7 +4267,6 @@ Remains in Play. Whilst this Bound spell is in play, this model and any friendly
 
 However, if this model casts the Light of Death Bound spell, this Bound spell will immediately expire.
 
-
 ## Waaagh
 
 The invigorating power of a good war cry should never be underestimated, and Orcs have the best war cry of them all.
@@ -4766,7 +4274,6 @@ The invigorating power of a good war cry should never be underestimated, and Orc
 Once per game, during the Command sub-phase of their turn, this character may attempt to invoke the power of the Waaagh! by making a Leadership test (using their own Leadership). If this test is passed, until your next Start of Turn sub-phase this character, their mount and any Orc unit they have joined may re-roll any rolls To Hit of a natural 1 and, when calculating its combat result, may claim an additional bonus of +1 combat result point.
 
 Note that, for the purposes of this rule, an Orc unit is considered to be any unit that is made up entirely of Orcs or Black Orcs, mounted or otherwise. Should an Orc unit be joined by a Goblin character, it is no longer considered to be an Orc unit. This special rule is not cumulative.
-
 
 ## Wailing Dirge
 
@@ -4778,11 +4285,9 @@ The target must make a Leadership test with a -2 modifier to its Leadership char
 
 Note that a Wailing Dirge attack can target an enemy character, regardless of the usual rules for targeting Lone characters.
 
-
 ## Wailing Spirits
 
 Any unit that suffers one or more unsaved wounds from this weapon must make a Panic test as if it had taken heavy casualties.
-
 
 ## Wake of Fire
 
@@ -4790,11 +4295,9 @@ Any unit that suffers one or more unsaved wounds from this weapon must make a Pa
 
 This model may perform a 'Wake of Fire' attack against a single enemy unit that is not engaged in combat. To do so, this model must move (by flying) over the unit it wishes to attack during the Remaining Moves sub-phase. Once this model's movement is complete, the enemy unit suffers D6 Strength 4 hits, each with an AP of -1 and with the Flaming Attacks special rule.
 
-
 ## Wallop
 
 The Bonegrinder Giant grasps its club two-handed and cracks its enemy on the head. The Bonegrinder Giant makes a single attack against the target unit. For this attack, the Bonegrinder Giant's club has a Strength characteristic of S+3, an AP of -4 and the Multiple Wounds (2D3) special rule.
-
 
 ## War Balloons
 
@@ -4802,20 +4305,17 @@ As well as tracking the movements of enemy forces, the Sky Lanterns of Grand Cat
 
 0-1 Sky Lantern per 1,000 points may have the Ambushers special rule for +15 points. In addition, once per game a Sky Lantern that is held in reserve may re-roll the dice when rolling to determine if it arrives this turn as reinforcements or is delayed.
 
-
 ## Wards of Grimnir
 
 Penned by the keepers of Grimnir's shrine, these potent wards protect the members of his cult from the weapons of the enemy.
 
 Any unit in a Slayer Host Army of Infamy that includes a standard bearer may purchase Wards of Grimnir for +1 point per model. A unit with Wards of Grimnir has a 6+ Ward save against any wounds suffered during the Shooting phase that were caused by a non-magical enemy attack.
 
-
 ## Warpaint
 
 Some superstitious Orcs adorn their bodies with charms and warpaint to protect them from harm. Such is their faith in these measures that they actually seem to work!
 
 Warpaint gives its wearer a 6+ Ward save against any wounds suffered. However, a model with this special rule can never wear armour of any sort (though they may carry a shield).
-
 
 ## Warped Form
 
@@ -4829,7 +4329,6 @@ Barbed Protrusions: The unit gains the Extra Attacks (+1) special rule.
 
 Toughened Flesh: The unit improves its Toughness characteristic by 1 and its armour value by 2.
 
-
 ## Warped Tintinnabulation
 
 "When warped bells toll, the dead stir and corpses stagger to their feet."
@@ -4838,20 +4337,17 @@ When a friendly unit that is within 15" of this model recovers a number of lost 
 
 Note that this is cumulative with the Indomitable (X) special rule.
 
-
 ## Warpfire Aura
 
 "These ancient beings exude an aura of baleful radiation that sunders even the most potent magical wards."
 
 Other models (both friend and foe) are not permitted a Ward save whilst within 3" of this model.
 
-
 ## Warpstone Sentinel
 
 Formed from clay infused with warpstone dust, Warpstone Sentinels shimmer with a dull light that hurts the eyes. Those that linger in their presence quickly sicken, succumbing to the taint of chaos.
 
 A Warpstone Sentinel has the Magical Attacks special rule. In addition, whilst in base contact with one or more Warpstone Sentinels, enemy units suffer a - 1 modifier to their Toughness characteristic (to a minimum of 1).
-
 
 ## Warpstone Weapons
 
@@ -4861,13 +4357,11 @@ A hand weapon carried by a model with this special rule has the Magical Attacks 
 
 Note that this special rule only applies to a single, ordinary hand weapon. If the model is using two hand weapons or any other sort of weapon, this special rule ceases to apply.
 
-
 ## Warriors of Chrace
 
 "Those that have earned the right to wear the pelt of a Chracian White Lion do so with pride, and amongst the ranks of Chrace's citizen militia, there are many that have earned that right."
 
 Units of Elven Spearmen or Elven Archers within a Chracian Warhost Army of Infamy may have the Lion Cloak special rule for +10 points per unit.
-
 
 ## Warriors of Nagarythe
 
@@ -4875,20 +4369,17 @@ Units of Elven Spearmen or Elven Archers within a Chracian Warhost Army of Infam
 
 A unit with this special rule may only be joined by a character with the Shadow Stalker Elven Honour.
 
-
 ## Warriors of the White Tower
 
 "The swordmasters of the White Tower fight with a precision and unity unattainable by lesser warriors. To join their ranks, one must have studied their art under the Blademasters of Hoeth."
 
 A unit with this special rule may only be joined by a High Elf Mage, or by a character with either the Warden of Saphery or Loremaster Elven Honour.
 
-
 ## Warriors of the Wilderness
 
 "The armies of Chrace endeavour to bring their enemies to battle in a place of their choosing, confident that the rough ground they favour will disrupt their foe's advance."
 
 Once players have finished placing terrain, a Chracian Warhost player may place one additional wood measuring no less than 3\" at its narrowest and no more than 9\" at its widest point. This may be placed anywhere on the battlefield that is not within their opponent's deployment zone and not within 6\" of a special feature (note that, unlike most terrain features, this terrain feature can be placed within 12\" of the centre of the battlefield, unless the presence of a special feature precludes this).
-
 
 ## Warriors' Duel
 
@@ -4902,11 +4393,9 @@ If the challenge is declined, the Wolves of the Sea army counts as having won th
 
 Note that, should a Bretonnian army accept the challenge, it counts as having prayed for the Blessings of the Lady. Should a Bretonnian army decline the challenge, it cannot pray for the Blessing of the Lady and any units that would usually begin the game with it, such as models with the Grail Vow, automatically lose it.
 
-
 ## Weapon Team Leadership
 
 Whilst within 3" of its parent unit, a Weapon Team gains a positive (+) modifier to its Leadership characteristic equal to the parent unit's current Rank Bonus, up to a maximum of Leadership 10.
-
 
 ## Whirling Doom
 
@@ -4918,13 +4407,11 @@ Per file, if the Goblin-hewer lies in the unit's flank arc.
 
 However, if a misfire is rolled on the Artillery dice, no shots are fired and a critical fault has occurred. Roll immediately on the appropriate Misfire table to determine exactly what.
 
-
 ## Whirlwind of Death
 
 Doomseekers plough recklessly into the enemy ranks with their rune-struck weapons whirling and spinning in wide and deadly arcs.
 
 Impact Hits caused by this model are resolved using the profile of its whirling blades of death. In addition, when this model makes a roll To Wound, a roll of 4+ is always a success, regardless of the target's Toughness.
-
 
 ## Wight Banner
 
@@ -4937,13 +4424,11 @@ Friendly units within the Battle Standard Bearer's Command range may re-roll any
 
 Note that this is not cumulative with the Indomitable (X) special rule. If a unit is affected by both, use the highest value.
 
-
 ## Will of the Dragons
 
 For the people of Grand Cathay loyalty to their Dragon masters is paramount. They know, as long as they are true to their will, the Empire of Grand Cathay will never falter before her enemies.
 
 A unit with this special rule may re-roll a failed Panic test when a friendly unit is destroyed whilst within 6" of it, or when it is fled through by a friendly unit.
-
 
 ## Witch Bane
 
@@ -4951,11 +4436,9 @@ A unit with this special rule may re-roll a failed Panic test when a friendly un
 
 All Wizards within this model's Command range (friend or foe) suffer a -2 modifier to their Casting rolls.
 
-
 ## Witchbrew
 
 "This character, their mount and any unit they have joined cannot lose the Frenzy special rule."
-
 
 ## Witness to Destiny
 
@@ -4963,13 +4446,11 @@ All Wizards within this model's Command range (friend or foe) suffer a -2 modifi
 
 This unit has a 6+ Ward save against any wounds suffered that were caused by a non-magical enemy attack.
 
-
 ## Woodland Ambush
 
 "Wood Elf Realms armies emerge unexpected from woodlands the world over, travelling along mystical and unseen pathways to strike at their enemies however far from Athel Loren they may hide."
 
 Once players have finished placing terrain, a Wood Elf Realms player may place one additional wood measuring no less than 3" at its narrowest and no more than 9" at its widest point. This may be placed anywhere on the battlefield that is not within their opponent's deployment zone and not within 12" of the centre of the battlefield.
-
 
 ## Worst Among Equals
 
@@ -4979,7 +4460,6 @@ If your army includes Ungrim Ironfist, he must be your General. If not, you must
 
 Note that, if the General of a Slayer Host Army of Infamy bears the Rune of the Dishonoured runic tattoo, the enemy player can win the bonus Victory Points for slaying them as normal.
 
-
 ## Worthy of Kurnous
 
 "The Wild Hunt ever searches for large or dangerous prey, trophies worthy of Kurnous himself."
@@ -4988,20 +4468,17 @@ After deployment but before the first turn begins, nominate a single enemy chara
 
 In addition, you win a bonus of 100 Victory Points if the nominated model is slain, has fled the battlefield or is fleeing when the game ends.
 
-
 ## Wrath of the Storm
 
 The Storm Dragon is known for her unrelenting fervour in the defence of Grand Cathay against the marauding tribes of the north, a trait she passes on to those who fight beneath her banners.
 
 All units of Jade Warriors and Jade Lancers included in an army that is led by Miao Ying gain the Hatred (Warriors of Chaos & Daemonic models) special rule.
 
-
 ## Zealot
 
 "Flagellant warbands welcome those fanatics who preach of the imminent apocalypse into their midst."
 
 A character with this special rule can only join a unit with the Fanatical Zeal special rule.
-
 
 ## Zzzzap
 

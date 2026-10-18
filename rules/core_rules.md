@@ -10,23 +10,23 @@ During the movement phase, all units in your army may move. Move one unit at a t
 
 **Base Speeds**:
 
-- Infantry units: typically 6" movement
-- Cavalry and fast cavalry: typically 10-12" movement
-- Monsters and characters: typically 6-8" movement
+Infantry units: typically 6" movement
+Cavalry and fast cavalry: typically 10-12" movement
+Monsters and characters: typically 6-8" movement
 
 ### Movement Through Terrain
 
 Units may move through terrain, but their movement may be affected:
 
-- **Open terrain**: No modifiers
-- **Difficult terrain** (forests, rivers): Halve movement (round down)
-- **Impassable terrain**: Cannot move through
+**Open terrain**: No modifiers
+**Difficult terrain** (forests, rivers): Halve movement (round down)
+**Impassable terrain**: Cannot move through
 
 ### Unit Facing and Wheeling
 
-- Units move in the direction they are facing
-- Units may wheel (rotate) up to 90 degrees at the start of movement, but this counts against their movement allowance
-- Wheeling more than 90 degrees requires moving straight first, then wheeling for the remainder
+Units move in the direction they are facing
+Units may wheel (rotate) up to 90 degrees at the start of movement, but this counts against their movement allowance
+Wheeling more than 90 degrees requires moving straight first, then wheeling for the remainder
 
 ### Charges
 
@@ -55,32 +55,32 @@ Close combat proceeds through several steps:
 
 Each weapon has multiple characteristics:
 
-- **Range (R)**: How far the weapon can shoot
-- **Strength (S)**: How strong the attack is
-- **AP (Armor Penetration)**: How well it bypasses armor
-- **Special**: Unique rules for specific weapons
+**Range (R)**: How far the weapon can shoot
+**Strength (S)**: How strong the attack is
+**AP (Armor Penetration)**: How well it bypasses armor
+**Special**: Unique rules for specific weapons
 
 ### Armor and Saves
 
-- **Armor Save**: Modified by the attacker's AP value
-- **Ward Save**: Special saves that always work (never modified)
-- **Base armor save**: Depends on armor type worn
+**Armor Save**: Modified by the attacker's AP value
+**Ward Save**: Special saves that always work (never modified)
+**Base armor save**: Depends on armor type worn
 
 Armor types:
 
-- No armor: No save
-- Light armor: 6+ save
-- Medium armor: 5+ save
-- Heavy armor: 4+ save
-- Plate armor: 3+ save
+No armor: No save
+Light armor: 6+ save
+Medium armor: 5+ save
+Heavy armor: 4+ save
+Plate armor: 3+ save
 
 ### Morale Checks
 
 When a unit loses 25% of its starting strength, it must take a Morale check:
 
-- Roll 2d6 plus leadership modifier
-- If result is equal or less than the unit's Leadership (Ld), the check is passed
-- Failed checks result in units becoming Shaken or routing
+Roll 2d6 plus leadership modifier
+If result is equal or less than the unit's Leadership (Ld), the check is passed
+Failed checks result in units becoming Shaken or routing
 
 ## Special Rules
 

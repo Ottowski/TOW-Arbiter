@@ -32,19 +32,19 @@ Many players find it useful to include greater detail in their muster lists – 
 
 Each faction in Warhammer: the Old World has an army list. This gives profiles and rules for all of the models that make up that faction. An army list is broken down into six parts, though not all of these will be present in every army list. Some armies, for example, do not include any chariots, whilst others might shun the use of war machines:
 
-- Characters
-- Infantry
-- Cavalry
-- Chariots
-- Monsters
-- War Machines
+Characters
+Infantry
+Cavalry
+Chariots
+Monsters
+War Machines
 
 ## Army Composition Lists
 
 An 'army composition list' tells you what role the various units from your army list fulfil within your army. There are two types of army composition list:
 
-- Grand Army
-- Army of Infamy
+Grand Army
+Army of Infamy
 
 ## Grand Army
 
@@ -58,26 +58,26 @@ These are supplementary and characterful army composition lists. They differ fro
 
 An army composition list is broken down into a number of categories, each listing the units that belong to it:
 
-- **Characters:** The characters that lead your army, powerful individuals possessed of fearsome martial or magical might.
-- **Core:** The heart of your army, the iconic troops who make up the bulk of every warband and warhost.
-- **Special:** Skilled and veteran troops, capable of anchoring a battle line of lesser warriors, or performing great deeds in their own right.
-- **Rare:** The most unusual models in your army, mighty monsters, weird war machines and elite soldiers of unsurpassed skill.
+**Characters:** The characters that lead your army, powerful individuals possessed of fearsome martial or magical might.
+**Core:** The heart of your army, the iconic troops who make up the bulk of every warband and warhost.
+**Special:** Skilled and veteran troops, capable of anchoring a battle line of lesser warriors, or performing great deeds in their own right.
+**Rare:** The most unusual models in your army, mighty monsters, weird war machines and elite soldiers of unsurpassed skill.
 
 In addition, many army composition lists will include one or both of the following categories:
 
-- **Mercenaries:** Some armies can include specific units drawn from other army lists as mercenaries.
-- **Allies:** Most armies can include an allied contingent drawn from another army list.
+**Mercenaries:** Some armies can include specific units drawn from other army lists as mercenaries.
+**Allies:** Most armies can include an allied contingent drawn from another army list.
 
 ## Percentages
 
 Each category of a composition list is accompanied by a percentage. This is the percentage of points that you either can or must spend on units drawn from that category. In the case of Grand Army composition lists, these percentages are quite uniform. For example:
 
-- Characters (up to 50%)
-- Core (at least 25%)
-- Special (up to 50%)
-- Rare (up to 25%)
-- Mercenaries (up to 20%)
-- Allies (up to 25% may be spent on a single allied contingent)
+Characters (up to 50%)
+Core (at least 25%)
+Special (up to 50%)
+Rare (up to 25%)
+Mercenaries (up to 20%)
+Allies (up to 25% may be spent on a single allied contingent)
 
 This means that, in a 2,000 point army, you would have to spend a minimum of 500 points (25% of 2,000 points) on Core units. By contrast, the most you could spend on Special units would be 1,000 points (50% of 2,000 points).
 
@@ -142,13 +142,13 @@ An allied contingent must include a minimum of one non-character unit. There is 
 
 The following special rules apply to an allied contingent:
 
-- Units belonging to an allied contingent can only be joined by characters that belong to the same allied contingent.
-- Characters belonging to an allied contingent can only join units that belong to the same allied contingent.
-- Units belonging to an allied contingent cannot use the Inspiring Presence rule of the main army's General nor the Hold your Ground rule of a Battle Standard belonging to the main army.
-- Units belonging to the main army cannot use the Inspiring Presence rule of an allied contingent's General nor the Hold your Ground rule of a Battle Standard belonging to an allied contingent.
-- Army special rules that affect units belonging to the main army do not affect units belonging to an allied contingent.
-- Army special rules that affect units belonging to an allied contingent do not affect units belonging to the main army.
-- For all other purposes (Panic tests, spell effects, combat results, etc.), units and characters belonging to an allied contingent are considered to be part of the main army.
+Units belonging to an allied contingent can only be joined by characters that belong to the same allied contingent.
+Characters belonging to an allied contingent can only join units that belong to the same allied contingent.
+Units belonging to an allied contingent cannot use the Inspiring Presence rule of the main army's General nor the Hold your Ground rule of a Battle Standard belonging to the main army.
+Units belonging to the main army cannot use the Inspiring Presence rule of an allied contingent's General nor the Hold your Ground rule of a Battle Standard belonging to an allied contingent.
+Army special rules that affect units belonging to the main army do not affect units belonging to an allied contingent.
+Army special rules that affect units belonging to an allied contingent do not affect units belonging to the main army.
+For all other purposes (Panic tests, spell effects, combat results, etc.), units and characters belonging to an allied contingent are considered to be part of the main army.
 
 ## Types of Alliance
 
@@ -160,8 +160,8 @@ Sometimes alliances are formed between forces that, whilst not openly hostile to
 
 An allied contingent that is noted as being Uneasy follows all the normal rules for an allied contingent. In addition:
 
-- All units belonging to an Uneasy allied contingent are considered to have the Levies special rule by all units belonging to the main army.
-- Units belonging to an Uneasy allied contingent are not considered to be 'friendly' by Wizards belonging to the main army for the purposes of spell targeting, and vice versa.
+All units belonging to an Uneasy allied contingent are considered to have the Levies special rule by all units belonging to the main army.
+Units belonging to an Uneasy allied contingent are not considered to be 'friendly' by Wizards belonging to the main army for the purposes of spell targeting, and vice versa.
 
 ## Suspicious Allied Contingents
 
@@ -190,20 +190,20 @@ Creating a regimental unit is simple – when writing your muster list, simply c
 
 To create a detachment, simply choose a unit with the 'Detachment' special rule and create a unit as follows:
 
-- A detachment can range in size from a minimum of five models to a maximum of half the number of models in the regimental unit it accompanies (rounding down).
-- The models in a detachment can purchase any optional upgrades listed as normal.
-- A detachment cannot include a command group or any command models.
-- A detachment must accompany a regimental unit. This means that every detachment included in your army must be assigned to a regimental unit and a note made of this on your muster list. A detachment cannot be assigned to more than one regimental unit.
-- Detachments are normal units in all regards that benefit from additional rules. With the exception of these special rules, detachments are completely separate and independent from their regimental unit (i.e., spells, magic items and special rules affecting the regimental unit do not affect its detachments unless specifically stated otherwise).
+A detachment can range in size from a minimum of five models to a maximum of half the number of models in the regimental unit it accompanies (rounding down).
+The models in a detachment can purchase any optional upgrades listed as normal.
+A detachment cannot include a command group or any command models.
+A detachment must accompany a regimental unit. This means that every detachment included in your army must be assigned to a regimental unit and a note made of this on your muster list. A detachment cannot be assigned to more than one regimental unit.
+Detachments are normal units in all regards that benefit from additional rules. With the exception of these special rules, detachments are completely separate and independent from their regimental unit (i.e., spells, magic items and special rules affecting the regimental unit do not affect its detachments unless specifically stated otherwise).
 
 ## Detachment Special Rules
 
 Detachments follow a number of special rules, representing the specialised way in which they function alongside their regimental units:
 
-- Regimental Deployment
-- Regimental Leadership
-- Regimental Psychology
-- Supporting Actions
+Regimental Deployment
+Regimental Leadership
+Regimental Psychology
+Supporting Actions
 
 ## Regimental Deployment
 
@@ -217,10 +217,10 @@ In battle, regimental units provide leadership to their detachments. Unless the 
 
 Detachments fight so closely alongside their regimental units that they are affected by the same battlefield psychology. If a regimental unit has any of the special rules listed below, it confers those special rules onto its detachments whilst they are within 3" of it:
 
-- Frenzy
-- Hatred (X)
-- Immune to Psychology
-- Stubborn
+Frenzy
+Hatred (X)
+Immune to Psychology
+Stubborn
 
 ## Supporting Actions
 
@@ -228,8 +228,8 @@ Detachments are trained to support their regimental unit in battle. When an enem
 
 A detachment can only attempt a single Supporting Action per turn:
 
-- Supporting Fire
-- Supporting Charge
+Supporting Fire
+Supporting Charge
 
 ## Supporting Charge
 
@@ -259,15 +259,15 @@ When writing your muster list for a game of Battle March, your army must include
 
 As with any army, an army created for Battle March must include at least one character to act as its General. However, when writing your muster list, you may not spend more than:
 
-- 25% of your army's total points value on a single character.
+25% of your army's total points value on a single character.
 
 ### Unit Limitations
 
 By their nature, the armies represented by Battle March are unlikely to include huge regiments or large numbers of elite troops. To represent this, when writing your muster list, you may not spend more than:
 
-- 35% of your army's total points value on a single Core unit.
-- 30% of your army's total points value on a single Special unit.
-- 25% of your army's total points value on a single Rare or Mercenary unit.
+35% of your army's total points value on a single Core unit.
+30% of your army's total points value on a single Special unit.
+25% of your army's total points value on a single Rare or Mercenary unit.
 
 ### 0-X Per 1,000 Points (Battle March)
 
@@ -332,9 +332,9 @@ As in most games of Warhammer: the Old World, to stand victorious in a game of B
 
 The most usual way to win Victory Points is by destroying, routing or significantly reducing the fighting strength of enemy units:
 
-- Each enemy unit that has been destroyed or that has fled off the battlefield is worth a number of Victory Points equal to 100% of its points cost.
-- Each enemy unit that is fleeing at the end of the battle is worth a number of Victory Points equal to 50% of its points cost (rounding fractions up). For example, a unit that cost your opponent 150 points to field would be worth 75 Victory Points to you if it is fleeing when the battle ends.
-- Each enemy unit that has been reduced to 25% of its starting Unit Strength or less at the end of the battle or, if its Unit Strength is equal to its starting Wounds, to 25% of its starting Wounds or less at the end of the battle, is worth a number of Victory Points equal to 50% of its points cost (rounding fractions up).
+Each enemy unit that has been destroyed or that has fled off the battlefield is worth a number of Victory Points equal to 100% of its points cost.
+Each enemy unit that is fleeing at the end of the battle is worth a number of Victory Points equal to 50% of its points cost (rounding fractions up). For example, a unit that cost your opponent 150 points to field would be worth 75 Victory Points to you if it is fleeing when the battle ends.
+Each enemy unit that has been reduced to 25% of its starting Unit Strength or less at the end of the battle or, if its Unit Strength is equal to its starting Wounds, to 25% of its starting Wounds or less at the end of the battle, is worth a number of Victory Points equal to 50% of its points cost (rounding fractions up).
 
 ### The King is Dead
 
@@ -354,8 +354,8 @@ Controlling Battlefield Objectives: At the end of each turn, a battlefield objec
 
 The following units may be taken as Mercenaries in one or more Grand Army composition lists:
 
-- Badlands Ogre Bulls
-- Bonegrinder Giant
-- Doomseeker
-- Imperial Dwarf Mercenaries
-- Imperial Ogres
+Badlands Ogre Bulls
+Bonegrinder Giant
+Doomseeker
+Imperial Dwarf Mercenaries
+Imperial Ogres

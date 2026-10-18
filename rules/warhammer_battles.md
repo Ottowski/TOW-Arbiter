@@ -56,8 +56,8 @@ All of the war machines in your army must be deployed at the same time, but can 
 
 Some scenarios call for units to enter play as reserves. These units use the rules for reinforcements. The following additional caveats also apply:
 
-- Units that are not normally allowed to move (for example, if they contain models with a Movement characteristic of 0) are placed touching the battlefield edge.
-- Characters can choose to either enter the battle on their own or as part of a unit they have joined. If dice are used to determine when and where reserves enter, state if a character is joining a unit before making any rolls. If so, make a single roll for both character and unit.
+Units that are not normally allowed to move (for example, if they contain models with a Movement characteristic of 0) are placed touching the battlefield edge.
+Characters can choose to either enter the battle on their own or as part of a unit they have joined. If dice are used to determine when and where reserves enter, state if a character is joining a unit before making any rolls. If so, make a single roll for both character and unit.
 
 ## First Turn
 
@@ -79,20 +79,20 @@ A game of Warhammer: the Old World can take several hours, not including time sp
 
 Most scenarios use 'Victory Points' to determine the winner. In order to win, one player must score at least 100 Victory Points more than their opponent – if one player scores twice as many Victory Points as their opponent, that player has achieved a crushing victory! Any other result is a draw. Victory Points are won in several ways:
 
-- Dead or Fled
-- The King is Dead
-- Trophies of War
-- Scenario Objectives
-- Special Features
-- Cross-Reference Links
+Dead or Fled
+The King is Dead
+Trophies of War
+Scenario Objectives
+Special Features
+Cross-Reference Links
 
 ## Dead or Fled (Warhammer Battles)
 
 The most usual way to win Victory Points is by destroying, routing or significantly reducing the fighting strength of enemy units:
 
-- Each enemy unit that has been destroyed or that has fled off the battlefield is worth a number of Victory Points equal to 100% of its points cost.
-- Each enemy unit that is fleeing at the end of the battle is worth a number of Victory Points equal to 50% of its points cost (rounding fractions up). For example, a unit that cost your opponent 351 points to field would be worth 176 Victory Points to you if it is fleeing when the battle ends.
-- Each enemy unit that has been reduced to 25% of its starting Unit Strength or less at the end of the battle or, if its Unit Strength is equal to its starting Wounds, to 25% of its starting Wounds or less at the end of the battle, is worth a number of Victory Points equal to 50% of its points cost (rounding fractions up).
+Each enemy unit that has been destroyed or that has fled off the battlefield is worth a number of Victory Points equal to 100% of its points cost.
+Each enemy unit that is fleeing at the end of the battle is worth a number of Victory Points equal to 50% of its points cost (rounding fractions up). For example, a unit that cost your opponent 351 points to field would be worth 176 Victory Points to you if it is fleeing when the battle ends.
+Each enemy unit that has been reduced to 25% of its starting Unit Strength or less at the end of the battle or, if its Unit Strength is equal to its starting Wounds, to 25% of its starting Wounds or less at the end of the battle, is worth a number of Victory Points equal to 50% of its points cost (rounding fractions up).
 
 ## The King is Dead (Warhammer Battles)
 
@@ -159,8 +159,8 @@ Once deployment is complete, the winner of a roll-off takes the first turn. The 
 
 Before the game begins, players can choose to play a 'fixed' length game or a 'random' length game:
 
-- Fixed Game Length: The battle will last for six rounds, until one side concedes, or until the time limit agreed by the players is reached.
-- Random Game Length: The battle will last a random number of rounds or until one side concedes. Starting at the end of the fifth round, roll a D6 at the end of each round. Add the round number to the dice roll. If the total is 10 or more, the battle ends immediately. If the total is less than 10 then the battle continues for at least one more round.
+Fixed Game Length: The battle will last for six rounds, until one side concedes, or until the time limit agreed by the players is reached.
+Random Game Length: The battle will last a random number of rounds or until one side concedes. Starting at the end of the fifth round, roll a D6 at the end of each round. Add the round number to the dice roll. If the total is 10 or more, the battle ends immediately. If the total is less than 10 then the battle continues for at least one more round.
 
 ### Scenario Special Rules (Open Battle)
 
@@ -234,8 +234,8 @@ Place terrain as described.
 
 Once the battlefield has been set up, the winner of a roll-off chooses which player will deploy the first unit. The winner of this roll-off must also choose their deployment zone (A or B), as shown on the map opposite. Prior to deployment, both players secretly divide their armies into two forces – the main force and the flanking force:
 
-- A flanking force must contain at least one non-character unit and can be worth up to 33% of the total points value of the army (for example, in a 2,000 points game, your flanking force may be worth up to 666 points).
-- A flanking force may include characters, but cannot include the General.
+A flanking force must contain at least one non-character unit and can be worth up to 33% of the total points value of the army (for example, in a 2,000 points game, your flanking force may be worth up to 666 points).
+A flanking force may include characters, but cannot include the General.
 
 Once flanking forces have been selected, each player secretly makes a note of which flank (left or right) theirs will be deployed upon. Then, starting with the player that won the roll-off, the players deploy their main forces within their central deployment zone, using the alternating units method.
 
@@ -367,8 +367,8 @@ Once deployment is complete, the winner of a roll-off takes the first turn. The 
 
 Before the game begins, players can choose to play a 'fixed' length game or a 'random' length game:
 
-- Fixed Game Length: The battle will last for six rounds, until one side concedes, or until the time limit agreed by the players is reached.
-- Random Game Length: The battle will last a random number of rounds or until one side concedes. Starting at the end of the fifth round, roll a D6 at the end of each round. Add the round number to the dice roll. If the total is 10 or more, the battle ends immediately. If the total is less than 10 then the battle continues for at least one more round.
+Fixed Game Length: The battle will last for six rounds, until one side concedes, or until the time limit agreed by the players is reached.
+Random Game Length: The battle will last a random number of rounds or until one side concedes. Starting at the end of the fifth round, roll a D6 at the end of each round. Add the round number to the dice roll. If the total is 10 or more, the battle ends immediately. If the total is less than 10 then the battle continues for at least one more round.
 
 ### Scenario Special Rules (Command & Control)
 
