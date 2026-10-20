@@ -376,7 +376,7 @@ The fighting rank of a Motley Crew may contain models that are armed with differ
 
 Models within a Motley Crew may have different armour values. In combat, use the armour value of the majority of the models in the fighting rank. Against enemy shooting, use the armour value of the majority of the models in the unit.
 
-### Casualty Removal
+### Casualty Removal from shooting
 
 Against enemy shooting, casualty removal should be divided as equally as possible between the different models within the unit. In combat, casualties should be removed from among the majority of the models that make up the fighting rank. In either case, available models are brought forward from rear ranks to fill any gaps, as chosen by the controlling player.
 
@@ -2328,7 +2328,7 @@ Controlling a Herdstone:
 
 A Herdstone can be controlled by a single unit that is within 6" of it, that has a Unit Strength of five or more and that is not fleeing. If two or more eligible units belonging to opposing armies are within 6", the unit closest to the Herdstone controls it. If two units belonging to opposing armies are equally close, the Herdstone is "contested" and neither unit controls it.
 
-#### Herdstone Special Rules
+### Herdstone Special Rules
 
 "A Tingle in the Air": The air around a Herdstone tingles strangely, and those that stand too close report of a funny taste in their mouths. The unit that controls the Herdstone gains Magic Resistance (-1).
 
@@ -2338,7 +2338,7 @@ Dark Sorcery: The Winds of Magic flow strangely around a Herdstone, as if warped
 
 Fearsome Edifice: Covered with strange sigils daubed in blood, an aura of evil surrounds a Herdstone. Whilst within 12" of a Herdstone that is controlled by a Beastmen Brayherds unit, enemy units suffer a -1 modifier to their Leadership characteristic when making a Leadership test due to Fear, Panic or Terror.
 
-#### Victory Points
+### Victory Points
 
 As with all special features, a Herdstone is an important landmark and controlling one at the end of a battle is a significant achievement. To represent this, if either player controls a Herdstone at the end of the battle, that player is awarded a bonus of 200 Victory Points.
 
@@ -2778,7 +2778,7 @@ Through long centuries of study and practice of the elemental winds of Yang and 
 
 Miao Ying may discard up to two of her randomly generated spells (rather than the usual one). When she does so, she may replace them with spells chosen from the Lore of Yang, the Lore of Yin, the signature spell of her chosen Lore of Magic, or with the following spell: The Storm Dragon's Fury
 
-#### The Storm Dragon's Fury (Signature Spell)
+### The Storm Dragon's Fury (Signature Spell)
 
 With a quick gesture, Miao Ying summons forth lightning from the skies to strike at her foes.
 
@@ -2957,7 +2957,6 @@ Each detachment of State Missile Troops must be equipped with handguns.
 A detachment of Swordsmen consists of State Troops equipped with hand weapons and shields.
 
 Unlike regular detachments, detachments in a regiment of Nuln State Troops may upgrade one model to a Sergeant (champion) for free.
-
 
 ## Numbing Chill
 
@@ -3683,7 +3682,7 @@ An Anvil of Doom is crafted with the express intention of attracting the Winds o
 
 An Anvil of Doom can cast the following Bound spells, with a Power Level of 2: Rune of Oath & Steel, Rune of Hearth & Home, Rune of Haste & Urgency & Rune of Wrath & Ruin
 
-#### Rune of Oath & Steel (Bound Spell)
+### Rune of Oath & Steel (Bound Spell)
 
 Dwarf mail hardens, each suit of armour remembering the hammer blows that forged it.
 
@@ -4245,7 +4244,7 @@ When a Casket of Souls is opened, blinding light is unleashed upon the battlefie
 
 A Casket of Souls can cast the following Bound spells, with a Power Level of 2: Light of Death & Light of Protection
 
-#### Light of Death (Bound Spell)
+### Light of Death (Bound Spell)
 
 The unleashed spirits plunge through the bodies of the Tomb Kings' enemies, their hapless victims suffering unbearable agony as their life essence is utterly drained.
 
