@@ -1526,25 +1526,25 @@ The Trolls that follow Ogdruz do so knowing he leads them to find plenty of fres
 
 Unless he is fleeing, friendly Troll Mobs within Ogdruz's Command range may use his Leadership characteristic instead of their own.
 
-## Daemon of Khorne
+## Daemons of Khorne
 
 "The ranks of Khorne's daemonic hosts are filled with ferocious and frenzied fiends, fuelled by a constant hunger to spill blood and claim skulls."
 
 Daemons of Khorne have the Hatred (Daemons of Slaanesh) special rule. In addition, during a turn in which it made a charge move, a Daemon of Khorne (but not its mount) gains a +1 modifier to its Strength characteristic.
 
-## Daemon of Nurgle
+## Daemons of Nurgle
 
 "Enshrouded in dense clouds of flies, the legions of Nurgle trudge across the battlefield, spreading his multitudinous gifts and cataloguing their effects upon mortals."
 
 Daemons of Nurgle have the Hatred (Daemons of Tzeentch) special rule. In addition, any enemy model that directs its attacks against a Daemon of Nurgle during the Combat phase must re-roll any rolls To Hit of a natural 6.
 
-## Daemon of Slaanesh
+## Daemons of Slaanesh
 
 "Shrouded in hypnotic glamour, the Daemons of Slaanesh surge across the battlefield on lithe limbs, capering from foe to foe, claw-hands slicing through flesh and armour."
 
 Daemons of Slaanesh have the Hatred (Daemons of Khorne) special rule. In addition, Daemons of Slaanesh increase their maximum possible charge range by 1" and have a +1 modifier to the result of any Charge or Pursuit roll they make.
 
-## Daemon of Tzeentch
+## Daemons of Tzeentch
 
 "Created from the raw stuff of magic by the Changer of Ways, the Daemons of Tzeentch blur with ever-changing colours and crawling warpflame."
 
