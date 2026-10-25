@@ -10,8 +10,8 @@ These versions are required by the current frontend build tools.
 In PowerShell, clone the repository, build the app, then launch it:
 
 ```powershell
-git clone https://github.com/Ottowski/warhammer-ai-chatbot.git
-Set-Location warhammer-ai-chatbot
+git clone https://github.com/Ottowski/TOW-Arbiter.git
+Set-Location TOW-Arbiter
 .\build_desktop.ps1
 & ".\TOW Arbiter\TOW Arbiter.exe"
 ```
@@ -42,7 +42,7 @@ From the repository root in PowerShell, create a virtual environment, install th
 dependencies, build the frontend, and start the API:
 
 ```powershell
-Set-Location warhammer-ai-chatbot
+Set-Location TOW-Arbiter
 python -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r requirements.txt
 npm --prefix frontend install
