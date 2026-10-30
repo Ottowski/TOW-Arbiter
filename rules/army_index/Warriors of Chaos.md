@@ -82,6 +82,14 @@ Gigantic Spawn of Slaanesh
 
 Gigantic Spawn of Tzeentch
 
+### Ensorcelled Weapons
+
+Many warriors brandish ensorcelled weapons, their heavy, black blades inscribed with dark runes that glow with infernal power.
+
+A hand weapon carried by a model with this special rule has the Magical Attacks special rule and an Armour Piercing characteristic of -1.
+
+Note that this special rule only applies to a single, non-magical hand weapon and does not apply to a model's mount (should it have one). If the model is using two hand weapons or any other sort of weapon, this special rule ceases to apply.
+
 ### Explosive Demise
 
 "On the rare occasion that one of these mighty beasts is slain, it engulfs the surrounding area in scorching-hot warpfire."

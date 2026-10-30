@@ -1804,6 +1804,14 @@ Ogres enjoy loud and explosive weapons and, when they make gunpowder bombs for t
 
 If an Ogre Loader is equipped with gunpowder bombs, the crew of the war machine that Ogre Loader has joined is also equipped with gunpowder bombs.
 
+## Ensorcelled Weapons
+
+Many warriors brandish ensorcelled weapons, their heavy, black blades inscribed with dark runes that glow with infernal power.
+
+A hand weapon carried by a model with this special rule has the Magical Attacks special rule and an Armour Piercing characteristic of -1.
+
+Note that this special rule only applies to a single, non-magical hand weapon and does not apply to a model's mount (should it have one). If the model is using two hand weapons or any other sort of weapon, this special rule ceases to apply.
+
 ## Entrenched Position
 
 "Nuln's engineers like to see their war machines well protected by earthen ramparts."
