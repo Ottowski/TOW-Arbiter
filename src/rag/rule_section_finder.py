@@ -57,26 +57,23 @@ class RuleSectionFinder:
         else:
             unit_names.append(f"{unit_name}s")
 
-        # Compile the regex pattern to match the unit section heading and body.
-        heading_pattern = "|".join(re.escape(name) for name in unit_names)
-        section_pattern = re.compile(
-            rf"(?ms)^###\s+(?P<title>{heading_pattern})\s*$\n"
-            rf"(?P<body>.*?)(?=^##\s+|^###\s+|\Z)",
-            flags=re.IGNORECASE,
-        )
-        # Iterate through all unit files in the army index to find a matching section.
-        for unit_file in sorted(army_index.rglob("*.md")):
-            text = unit_file.read_text(encoding="utf-8")
-            match = section_pattern.search(text)
-
-            # If a matching section is found, extract and return it.
-            if match:
-                section_text = (
-                    f"### {match.group('title')}\n{match.group('body').strip()}"
-                ).strip()
-                return section_text, {
-                    "source": str(unit_file.relative_to(self.rules_directory)),
-                    "file_path": str(unit_file),
-                }
+        # Try the exact name first so it's not shadowed by a heading.
+        for name in unit_names:
+            section_pattern = re.compile(
+                rf"(?ms)^###\s+(?P<title>{re.escape(name)})\s*$\n"
+                rf"(?P<body>.*?)(?=^##\s+|^###\s+|\Z)",
+                flags=re.IGNORECASE,
+            )
+            for unit_file in sorted(army_index.rglob("*.md")):
+                text = unit_file.read_text(encoding="utf-8")
+                match = section_pattern.search(text)
+                if match:
+                    section_text = (
+                        f"### {match.group('title')}\n{match.group('body').strip()}"
+                    ).strip()
+                    return section_text, {
+                        "source": str(unit_file.relative_to(self.rules_directory)),
+                        "file_path": str(unit_file),
+                    }
 
         return None

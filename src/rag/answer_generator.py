@@ -63,5 +63,12 @@ Answer:"""
         normalized = re.sub(
             rf"(?<!\n)({label_pattern})", r"\n\1", normalized
         )
+        # Single newlines collapse in markdown; a trailing double space forces a line break.
+        normalized = re.sub(
+            rf"^((?:{label_pattern})[^\n]*?)[ \t]*\n(?=(?:{label_pattern}))",
+            r"\1  \n",
+            normalized,
+            flags=re.MULTILINE,
+        )
         normalized = re.sub(r"\n{3,}", "\n\n", normalized)
         return normalized.strip()
