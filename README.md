@@ -33,6 +33,9 @@ After building, launch the app from the repository root:
 & ".\TOW Arbiter\TOW Arbiter.exe"
 ```
 
+The desktop app reserves an available local port for its API, avoiding conflicts
+with other services already using port 8000.
+
 The first launch can take a while while the knowledge base is indexed; the window shows
 a loading screen until it is ready. Rebuild after changing the app or frontend code.
 
@@ -50,8 +53,8 @@ npm --prefix frontend run build
 .\.venv\Scripts\python.exe -m uvicorn api:app --host 127.0.0.1 --port 8000
 ```
 
-For source mode, open http://127.0.0.1:8000 in a browser for the web UI, or
-http://127.0.0.1:8000/docs for the API documentation. FastAPI serves the built
+For source mode, open <http://127.0.0.1:8000> in a browser for the web UI, or
+<http://127.0.0.1:8000/docs> for the API documentation. FastAPI serves the built
 frontend from `frontend/dist`.
 
 ## Requirements

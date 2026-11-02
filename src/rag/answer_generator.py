@@ -42,9 +42,9 @@ Answer:"""
 
         normalized = text.replace("\r\n", "\n").replace("\r", "\n").strip()
         normalized = re.sub(r"\|\s+\|", "|\n|", normalized)
-        normalized = re.sub(r"(?<!\n)(#{2,3}\s)", r"\n\1", normalized)
+        normalized = re.sub(r"(?<![#\n])(#{2,6}\s)", r"\n\1", normalized)
         normalized = re.sub(
-            r"^(#{2,3}\s[^\n|]+?)\s+(\|\s*[^\n]+)$",
+            r"^(#{2,6}\s[^\n|]+?)\s+(\|\s*[^\n]+)$",
             r"\1\n\2",
             normalized,
             flags=re.MULTILINE,

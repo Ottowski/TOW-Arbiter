@@ -42,6 +42,50 @@ class RuleSectionFinder:
             "file_path": str(special_rules_file),
         }
 
+    # Extract a weapon section (any heading level) from the weapon rule files.
+    def extract_weapon_section(self, weapon_name: str) -> tuple[str, dict] | None:
+        """Return the exact section for a weapon, matching singular/plural names."""
+        weapon_name = weapon_name.strip()
+        if not weapon_name:
+            return None
+
+        names = [weapon_name]
+        if weapon_name.lower().endswith("s"):
+            names.append(weapon_name[:-1])
+        else:
+            names.append(f"{weapon_name}s")
+        name_pattern = "|".join(re.escape(name) for name in names)
+        heading_pattern = re.compile(
+            rf"^(#{{2,6}})\s+(?:{name_pattern})\s*$", flags=re.IGNORECASE
+        )
+
+        for file_name in ("weapons_of_war.md", "special_rules.md"):
+            weapon_file = self.rules_directory / file_name
+            if not weapon_file.exists():
+                continue
+
+            lines = weapon_file.read_text(encoding="utf-8").splitlines()
+            for start, line in enumerate(lines):
+                match = heading_pattern.match(line)
+                if not match:
+                    continue
+
+                level = len(match.group(1))
+                end = len(lines)
+                for index in range(start + 1, len(lines)):
+                    next_heading = re.match(r"^(#{1,6})\s+", lines[index])
+                    if next_heading and len(next_heading.group(1)) <= level:
+                        end = index
+                        break
+
+                section_text = "\n".join(lines[start:end]).strip()
+                return section_text, {
+                    "source": file_name,
+                    "file_path": str(weapon_file),
+                }
+
+        return None
+
     # Extract a unit section from the rules.
     def extract_unit_section(self, unit_name: str) -> tuple[str, dict] | None:
         """Return an exact army-unit section if it exists."""

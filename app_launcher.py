@@ -1,10 +1,10 @@
+import html
 import os
+import socket
 import sys
 import threading
 import time
 import webview
-
-APP_URL = "http://127.0.0.1:8000"
 
 LOADING_HTML = """<!DOCTYPE html>
 <html>
@@ -40,6 +40,29 @@ LOADING_HTML = """<!DOCTYPE html>
   </div>
 </body>
 </html>"""
+
+
+def _create_api_socket() -> socket.socket:
+    """Reserve an available loopback port for this app's API."""
+    api_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    try:
+        api_socket.bind(("127.0.0.1", 0))
+        api_socket.listen()
+        api_socket.setblocking(False)
+    except OSError:
+        api_socket.close()
+        raise
+    return api_socket
+
+
+def _show_initialization_error(window, message: str) -> None:
+    safe_message = html.escape(message)
+    window.load_html(
+        "<!DOCTYPE html><html><body style='background:#1a1a2e;color:#c8a84b;"
+        "font-family:Segoe UI,sans-serif;padding:3rem'>"
+        "<h1>TOW Arbiter could not start</h1>"
+        f"<p style='color:#ddd'>{safe_message}</p></body></html>"
+    )
 
 
 def _apply_window_icon() -> None:
@@ -79,29 +102,38 @@ def _apply_window_icon() -> None:
             ctypes.windll.user32.SendMessageW(hwnd, WM_SETICON, ICON_SMALL, h_small.value)
 
 # Run the API server in a separate thread.
-def _run_api() -> None:
+def _run_api(api_socket: socket.socket) -> None:
     import uvicorn
     from api import app as fastapi_app
-    config = uvicorn.Config(app=fastapi_app, host="127.0.0.1", port=8000, log_level="warning")
+    port = api_socket.getsockname()[1]
+    config = uvicorn.Config(app=fastapi_app, host="127.0.0.1", port=port, log_level="warning")
     server = uvicorn.Server(config)
-    server.run()
+    server.run(sockets=[api_socket])
 
 # Wait for the API to be ready and then navigate the webview window to the app URL.
-def _wait_and_navigate(window) -> None:
+def _wait_and_navigate(window, app_url: str) -> None:
     import requests
     while True:
         try:
             # Check if the API server is ready by querying the /status endpoint.
-            r = requests.get(f"{APP_URL}/status", timeout=2)
-            if r.ok and r.json().get("ready"):
-                break
+            r = requests.get(f"{app_url}/status", timeout=2)
+            if r.ok:
+                status = r.json()
+                if status.get("ready"):
+                    window.load_url(app_url)
+                    return
+                message = status.get("message", "")
+                if message.startswith("error:"):
+                    _show_initialization_error(window, message)
+                    return
         except Exception:
             pass
         time.sleep(1)
-    window.load_url(APP_URL)
 
 
 def main() -> None:
+    api_socket = _create_api_socket()
+    app_url = f"http://127.0.0.1:{api_socket.getsockname()[1]}"
     window = webview.create_window(
         "TOW Arbiter",
         html=LOADING_HTML,
@@ -110,8 +142,8 @@ def main() -> None:
         text_select=True,
     )
 
-    threading.Thread(target=_run_api, daemon=True).start()
-    threading.Thread(target=_wait_and_navigate, args=(window,), daemon=True).start()
+    threading.Thread(target=_run_api, args=(api_socket,), daemon=True).start()
+    threading.Thread(target=_wait_and_navigate, args=(window, app_url), daemon=True).start()
 
     webview.start(func=_apply_window_icon)
 

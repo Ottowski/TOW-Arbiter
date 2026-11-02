@@ -50,6 +50,11 @@ class ContextRetriever:
             document, metadata = exact_unit
             return [document], [metadata]
 
+        exact_weapon = self.rule_section_finder.extract_weapon_section(query_lower)
+        if exact_weapon is not None:
+            document, metadata = exact_weapon
+            return [document], [metadata]
+
         # Compute the semantic embedding for the query.
         query_embedding = np.array(self.embedding_manager.embed_text(query))
 

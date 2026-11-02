@@ -1,6 +1,12 @@
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
-import { getNodeText, linkifySpecialRules, SPECIAL_RULE_LINK_PREFIX } from './markdown.js'
+import {
+  EQUIPMENT_LINK_PREFIX,
+  getNodeText,
+  linkifyEquipment,
+  linkifySpecialRules,
+  SPECIAL_RULE_LINK_PREFIX,
+} from './markdown.js'
 
 // Message component for displaying chat messages.
 // Props:
@@ -38,6 +44,19 @@ function Message({ message, specialRules, onSpecialRuleClick }) {
         )
       }
 
+      if (href?.startsWith(EQUIPMENT_LINK_PREFIX)) {
+        const equipmentName = decodeURIComponent(href.slice(EQUIPMENT_LINK_PREFIX.length))
+        return (
+          <button
+            type="button"
+            className="rule-link"
+            onClick={() => onSpecialRuleClick(equipmentName)}
+          >
+            {children}
+          </button>
+        )
+      }
+
       return (
         <a href={href} target="_blank" rel="noreferrer">
           {children}
@@ -54,7 +73,7 @@ function Message({ message, specialRules, onSpecialRuleClick }) {
             remarkPlugins={[remarkGfm]}
             components={markdownComponents}
           >
-            {linkifySpecialRules(message.text, specialRules)}
+            {linkifySpecialRules(linkifyEquipment(message.text), specialRules)}
           </ReactMarkdown>
         )
         : <p>{message.text}</p>
